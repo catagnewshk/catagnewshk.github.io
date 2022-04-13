@@ -1,0 +1,1 @@
+const e={key:"v-ed7e91c0",path:"/municipal-services/market.html",title:"\u5E02\u5834",lang:"zh-Hant",frontmatter:{lang:"zh-Hant",title:"\u5E02\u5834",sidebar:"auto"},excerpt:"",headers:[],git:{updatedTime:1649826739e3,contributors:[{name:"NGKINCHUNG",email:"archaeology.cn@outlook.com",commits:1}]},filePathRelative:"municipal-services/market.md"};export{e as data};

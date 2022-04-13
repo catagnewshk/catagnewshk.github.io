@@ -1,0 +1,1 @@
+const t={key:"v-73e5daf0",path:"/infrastructure/town-gas.html",title:"\u7164\u6C23",lang:"zh-Hant",frontmatter:{lang:"zh-Hant",title:"\u7164\u6C23",sidebar:"auto"},excerpt:"",headers:[],git:{updatedTime:1649826739e3,contributors:[{name:"NGKINCHUNG",email:"archaeology.cn@outlook.com",commits:1}]},filePathRelative:"infrastructure/town-gas.md"};export{t as data};

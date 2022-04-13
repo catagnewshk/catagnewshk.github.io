@@ -1,0 +1,1 @@
+const t={key:"v-daca551e",path:"/public-transportation/bus.html",title:"\u5DF4\u58EB",lang:"zh-Hant",frontmatter:{lang:"zh-Hant",title:"\u5DF4\u58EB",sidebar:"auto"},excerpt:"",headers:[],git:{updatedTime:1649826739e3,contributors:[{name:"NGKINCHUNG",email:"archaeology.cn@outlook.com",commits:1}]},filePathRelative:"public-transportation/bus.md"};export{t as data};
