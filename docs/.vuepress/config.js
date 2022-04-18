@@ -1,4 +1,3 @@
-const { sitemap } = require("vuepress-plugin-sitemap2");
 module.exports = {
     base: '/',
     lang: 'zh-Hant',
@@ -19,9 +18,6 @@ module.exports = {
       { target: '_blank', rel: 'nofollow noopener noreferrer' }
     },
     plugins: [
-      sitemap({
-        hostname: "https://arc-site.github.io/",
-      }),
       [
         '@vuepress/plugin-google-analytics',
         {
@@ -42,10 +38,6 @@ module.exports = {
       contributors: true,
       contributorsText: '編輯',
       navbar:[
-        {
-          text: '簡介',
-          link: '/about/', 
-        },
         {
           text: '自然',
           children: [

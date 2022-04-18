@@ -1,6 +1,6 @@
 ---
 lang: zh-Hant
-title: 考古資料類編
+title: 香港新聞類編
 tagline: 
 home: true
 heroImage: /fig/logo.svg
@@ -8,5 +8,5 @@ actions:
   - text: 簡介
     link: /about.html
     type: secondary
-footer: Heritage Lab, SUSTech
+footer: Archives and History Centre, SUSTech
 ---
