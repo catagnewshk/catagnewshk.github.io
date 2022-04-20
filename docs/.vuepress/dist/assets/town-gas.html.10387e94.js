@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as a,a as o,d as s}from"./app.0b19ae01.js";const c={},_={id:"\u7164\u6C23",tabindex:"-1"},r=o("a",{class:"header-anchor",href:"#\u7164\u6C23","aria-hidden":"true"},"#",-1),n=s(" \u7164\u6C23"),d=[r,n];function h(i,f){return t(),a("h1",_,d)}var m=e(c,[["render",h],["__file","town-gas.html.vue"]]);export{m as default};

@@ -1,1 +1,0 @@
-const e={key:"v-76e2b8b2",path:"/reference.html",title:"\u6587\u737B",lang:"zh-Hant",frontmatter:{lang:"zh-Hant",title:"\u6587\u737B",sidebar:"auto"},excerpt:"",headers:[{level:2,title:"\u901A\u8AD6",slug:"\u901A\u8AD6",children:[]}],git:{updatedTime:null,contributors:[]},filePathRelative:"reference.md"};export{e as data};
