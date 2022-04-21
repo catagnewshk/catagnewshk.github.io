@@ -1,0 +1,1 @@
+const t={key:"v-c6266a44",path:"/festival/",title:"\u7BC0\u6176",lang:"zh-Hant",frontmatter:{lang:"zh-Hant",title:"\u7BC0\u6176",sidebar:"auto"},excerpt:"",headers:[],git:{updatedTime:1649826739e3,contributors:[{name:"NGKINCHUNG",email:"archaeology.cn@outlook.com",commits:1}]},filePathRelative:"festival/README.md"};export{t as data};

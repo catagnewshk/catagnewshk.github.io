@@ -1,0 +1,1 @@
+const t={key:"v-2f46c56b",path:"/natural-disaster/drought.html",title:"\u65F1\u707D",lang:"zh-Hant",frontmatter:{lang:"zh-Hant",title:"\u65F1\u707D",sidebar:"auto"},excerpt:"",headers:[],git:{updatedTime:1649826739e3,contributors:[{name:"NGKINCHUNG",email:"archaeology.cn@outlook.com",commits:1}]},filePathRelative:"natural-disaster/drought.md"};export{t as data};

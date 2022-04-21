@@ -1,0 +1,1 @@
+const t={key:"v-14e2dcbf",path:"/public-health/plague.html",title:"\u9F20\u75AB",lang:"zh-Hant",frontmatter:{lang:"zh-Hant",title:"\u9F20\u75AB",sidebar:"auto"},excerpt:"",headers:[],git:{updatedTime:1649826739e3,contributors:[{name:"NGKINCHUNG",email:"archaeology.cn@outlook.com",commits:1}]},filePathRelative:"public-health/plague.md"};export{t as data};

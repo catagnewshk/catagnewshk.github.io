@@ -1,0 +1,1 @@
+const t={key:"v-4bdc954c",path:"/education/primary-school.html",title:"\u5C0F\u5B78",lang:"zh-Hant",frontmatter:{lang:"zh-Hant",title:"\u5C0F\u5B78",sidebar:"auto"},excerpt:"",headers:[],git:{updatedTime:1649826739e3,contributors:[{name:"NGKINCHUNG",email:"archaeology.cn@outlook.com",commits:1}]},filePathRelative:"education/primary-school.md"};export{t as data};

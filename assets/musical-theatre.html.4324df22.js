@@ -1,0 +1,1 @@
+const t={key:"v-8b473938",path:"/art/musical-theatre.html",title:"\u97F3\u6A02\u5287",lang:"zh-Hant",frontmatter:{lang:"zh-Hant",title:"\u97F3\u6A02\u5287",sidebar:"auto"},excerpt:"",headers:[],git:{updatedTime:1649826739e3,contributors:[{name:"NGKINCHUNG",email:"archaeology.cn@outlook.com",commits:1}]},filePathRelative:"art/musical-theatre.md"};export{t as data};

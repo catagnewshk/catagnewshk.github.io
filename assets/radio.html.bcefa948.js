@@ -1,0 +1,1 @@
+const t={key:"v-6e77ace0",path:"/communication/radio.html",title:"\u7121\u7DDA\u96FB",lang:"zh-Hant",frontmatter:{lang:"zh-Hant",title:"\u7121\u7DDA\u96FB",sidebar:"auto"},excerpt:"",headers:[],git:{updatedTime:1649826739e3,contributors:[{name:"NGKINCHUNG",email:"archaeology.cn@outlook.com",commits:1}]},filePathRelative:"communication/radio.md"};export{t as data};
