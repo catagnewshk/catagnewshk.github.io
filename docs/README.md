@@ -8,5 +8,5 @@ actions:
   - text: 簡介
     link: /about.html
     type: secondary
-footer: Archives and History Centre, SUSTech
+footer: HKCI
 ---

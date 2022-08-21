@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as a,a as s,d as o}from"./app.71f54dc1.js";const c={},_={id:"\u5C71\u6CE5\u50BE\u7009",tabindex:"-1"},d=s("a",{class:"header-anchor",href:"#\u5C71\u6CE5\u50BE\u7009","aria-hidden":"true"},"#",-1),r=o(" \u5C71\u6CE5\u50BE\u7009"),n=[d,r];function i(h,l){return t(),a("h1",_,n)}var m=e(c,[["render",i],["__file","landside.html.vue"]]);export{m as default};
