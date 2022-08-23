@@ -1,16 +1,28 @@
 export const pagesData = {
+  // path: /cold-snap.html
+  "v-5fdeaedf": () => import(/* webpackChunkName: "v-5fdeaedf" */"D:/ngkinchung/Github/newshk.github.io/docs/.vuepress/.temp/pages/cold-snap.html.js").then(({ data }) => data),
+  // path: /drought.html
+  "v-33e8c973": () => import(/* webpackChunkName: "v-33e8c973" */"D:/ngkinchung/Github/newshk.github.io/docs/.vuepress/.temp/pages/drought.html.js").then(({ data }) => data),
+  // path: /earthquake.html
+  "v-6040f3da": () => import(/* webpackChunkName: "v-6040f3da" */"D:/ngkinchung/Github/newshk.github.io/docs/.vuepress/.temp/pages/earthquake.html.js").then(({ data }) => data),
+  // path: /flooding.html
+  "v-0a0ff5dc": () => import(/* webpackChunkName: "v-0a0ff5dc" */"D:/ngkinchung/Github/newshk.github.io/docs/.vuepress/.temp/pages/flooding.html.js").then(({ data }) => data),
+  // path: /heat-wave.html
+  "v-7f031dc8": () => import(/* webpackChunkName: "v-7f031dc8" */"D:/ngkinchung/Github/newshk.github.io/docs/.vuepress/.temp/pages/heat-wave.html.js").then(({ data }) => data),
+  // path: /landside.html
+  "v-57e41c04": () => import(/* webpackChunkName: "v-57e41c04" */"D:/ngkinchung/Github/newshk.github.io/docs/.vuepress/.temp/pages/landside.html.js").then(({ data }) => data),
   // path: /
   "v-8daa1a0e": () => import(/* webpackChunkName: "v-8daa1a0e" */"D:/ngkinchung/Github/newshk.github.io/docs/.vuepress/.temp/pages/index.html.js").then(({ data }) => data),
-  // path: /slide.html
-  "v-0e503981": () => import(/* webpackChunkName: "v-0e503981" */"D:/ngkinchung/Github/newshk.github.io/docs/.vuepress/.temp/pages/slide.html.js").then(({ data }) => data),
+  // path: /tropical-cyclone.html
+  "v-372bd042": () => import(/* webpackChunkName: "v-372bd042" */"D:/ngkinchung/Github/newshk.github.io/docs/.vuepress/.temp/pages/tropical-cyclone.html.js").then(({ data }) => data),
   // path: /accident/marine-accident.html
   "v-b48261f4": () => import(/* webpackChunkName: "v-b48261f4" */"D:/ngkinchung/Github/newshk.github.io/docs/.vuepress/.temp/pages/accident/marine-accident.html.js").then(({ data }) => data),
   // path: /accident/
   "v-f34575b2": () => import(/* webpackChunkName: "v-f34575b2" */"D:/ngkinchung/Github/newshk.github.io/docs/.vuepress/.temp/pages/accident/index.html.js").then(({ data }) => data),
-  // path: /archaeology/
-  "v-0ed39efe": () => import(/* webpackChunkName: "v-0ed39efe" */"D:/ngkinchung/Github/newshk.github.io/docs/.vuepress/.temp/pages/archaeology/index.html.js").then(({ data }) => data),
   // path: /ad/
   "v-2d0a76d3": () => import(/* webpackChunkName: "v-2d0a76d3" */"D:/ngkinchung/Github/newshk.github.io/docs/.vuepress/.temp/pages/ad/index.html.js").then(({ data }) => data),
+  // path: /archaeology/
+  "v-0ed39efe": () => import(/* webpackChunkName: "v-0ed39efe" */"D:/ngkinchung/Github/newshk.github.io/docs/.vuepress/.temp/pages/archaeology/index.html.js").then(({ data }) => data),
   // path: /art/cantonese-opera.html
   "v-76acd538": () => import(/* webpackChunkName: "v-76acd538" */"D:/ngkinchung/Github/newshk.github.io/docs/.vuepress/.temp/pages/art/cantonese-opera.html.js").then(({ data }) => data),
   // path: /art/musical-theatre.html
@@ -19,14 +31,14 @@ export const pagesData = {
   "v-7444a0a5": () => import(/* webpackChunkName: "v-7444a0a5" */"D:/ngkinchung/Github/newshk.github.io/docs/.vuepress/.temp/pages/art/index.html.js").then(({ data }) => data),
   // path: /art/visual-art.html
   "v-7e4150fe": () => import(/* webpackChunkName: "v-7e4150fe" */"D:/ngkinchung/Github/newshk.github.io/docs/.vuepress/.temp/pages/art/visual-art.html.js").then(({ data }) => data),
-  // path: /bank/
-  "v-1455c21a": () => import(/* webpackChunkName: "v-1455c21a" */"D:/ngkinchung/Github/newshk.github.io/docs/.vuepress/.temp/pages/bank/index.html.js").then(({ data }) => data),
-  // path: /bank/the-hongkong-and-shanghai-banking-corporation-limited.html
-  "v-134b1686": () => import(/* webpackChunkName: "v-134b1686" */"D:/ngkinchung/Github/newshk.github.io/docs/.vuepress/.temp/pages/bank/the-hongkong-and-shanghai-banking-corporation-limited.html.js").then(({ data }) => data),
   // path: /charity/
   "v-2c435f90": () => import(/* webpackChunkName: "v-2c435f90" */"D:/ngkinchung/Github/newshk.github.io/docs/.vuepress/.temp/pages/charity/index.html.js").then(({ data }) => data),
   // path: /charity/relief.html
   "v-42d0ae58": () => import(/* webpackChunkName: "v-42d0ae58" */"D:/ngkinchung/Github/newshk.github.io/docs/.vuepress/.temp/pages/charity/relief.html.js").then(({ data }) => data),
+  // path: /bank/
+  "v-1455c21a": () => import(/* webpackChunkName: "v-1455c21a" */"D:/ngkinchung/Github/newshk.github.io/docs/.vuepress/.temp/pages/bank/index.html.js").then(({ data }) => data),
+  // path: /bank/the-hongkong-and-shanghai-banking-corporation-limited.html
+  "v-134b1686": () => import(/* webpackChunkName: "v-134b1686" */"D:/ngkinchung/Github/newshk.github.io/docs/.vuepress/.temp/pages/bank/the-hongkong-and-shanghai-banking-corporation-limited.html.js").then(({ data }) => data),
   // path: /communication/radio.html
   "v-6e77ace0": () => import(/* webpackChunkName: "v-6e77ace0" */"D:/ngkinchung/Github/newshk.github.io/docs/.vuepress/.temp/pages/communication/radio.html.js").then(({ data }) => data),
   // path: /communication/
@@ -67,6 +79,12 @@ export const pagesData = {
   "v-ab46e876": () => import(/* webpackChunkName: "v-ab46e876" */"D:/ngkinchung/Github/newshk.github.io/docs/.vuepress/.temp/pages/government/index.html.js").then(({ data }) => data),
   // path: /hospital/
   "v-6525c348": () => import(/* webpackChunkName: "v-6525c348" */"D:/ngkinchung/Github/newshk.github.io/docs/.vuepress/.temp/pages/hospital/index.html.js").then(({ data }) => data),
+  // path: /housing/private.html
+  "v-921152be": () => import(/* webpackChunkName: "v-921152be" */"D:/ngkinchung/Github/newshk.github.io/docs/.vuepress/.temp/pages/housing/private.html.js").then(({ data }) => data),
+  // path: /housing/public.html
+  "v-1bcf0d45": () => import(/* webpackChunkName: "v-1bcf0d45" */"D:/ngkinchung/Github/newshk.github.io/docs/.vuepress/.temp/pages/housing/public.html.js").then(({ data }) => data),
+  // path: /housing/
+  "v-6fb86c2a": () => import(/* webpackChunkName: "v-6fb86c2a" */"D:/ngkinchung/Github/newshk.github.io/docs/.vuepress/.temp/pages/housing/index.html.js").then(({ data }) => data),
   // path: /infrastructure/bridge.html
   "v-54562e3d": () => import(/* webpackChunkName: "v-54562e3d" */"D:/ngkinchung/Github/newshk.github.io/docs/.vuepress/.temp/pages/infrastructure/bridge.html.js").then(({ data }) => data),
   // path: /infrastructure/cable.html
@@ -85,12 +103,6 @@ export const pagesData = {
   "v-73e5daf0": () => import(/* webpackChunkName: "v-73e5daf0" */"D:/ngkinchung/Github/newshk.github.io/docs/.vuepress/.temp/pages/infrastructure/town-gas.html.js").then(({ data }) => data),
   // path: /infrastructure/tunnel.html
   "v-3f8e74be": () => import(/* webpackChunkName: "v-3f8e74be" */"D:/ngkinchung/Github/newshk.github.io/docs/.vuepress/.temp/pages/infrastructure/tunnel.html.js").then(({ data }) => data),
-  // path: /housing/private.html
-  "v-921152be": () => import(/* webpackChunkName: "v-921152be" */"D:/ngkinchung/Github/newshk.github.io/docs/.vuepress/.temp/pages/housing/private.html.js").then(({ data }) => data),
-  // path: /housing/public.html
-  "v-1bcf0d45": () => import(/* webpackChunkName: "v-1bcf0d45" */"D:/ngkinchung/Github/newshk.github.io/docs/.vuepress/.temp/pages/housing/public.html.js").then(({ data }) => data),
-  // path: /housing/
-  "v-6fb86c2a": () => import(/* webpackChunkName: "v-6fb86c2a" */"D:/ngkinchung/Github/newshk.github.io/docs/.vuepress/.temp/pages/housing/index.html.js").then(({ data }) => data),
   // path: /law/legislation.html
   "v-66aaa204": () => import(/* webpackChunkName: "v-66aaa204" */"D:/ngkinchung/Github/newshk.github.io/docs/.vuepress/.temp/pages/law/legislation.html.js").then(({ data }) => data),
   // path: /law/
@@ -107,20 +119,6 @@ export const pagesData = {
   "v-0ef43edd": () => import(/* webpackChunkName: "v-0ef43edd" */"D:/ngkinchung/Github/newshk.github.io/docs/.vuepress/.temp/pages/municipal-services/index.html.js").then(({ data }) => data),
   // path: /museum/
   "v-83902978": () => import(/* webpackChunkName: "v-83902978" */"D:/ngkinchung/Github/newshk.github.io/docs/.vuepress/.temp/pages/museum/index.html.js").then(({ data }) => data),
-  // path: /natural-disaster/cold-snap.html
-  "v-08a4e652": () => import(/* webpackChunkName: "v-08a4e652" */"D:/ngkinchung/Github/newshk.github.io/docs/.vuepress/.temp/pages/natural-disaster/cold-snap.html.js").then(({ data }) => data),
-  // path: /natural-disaster/drought.html
-  "v-2f46c56b": () => import(/* webpackChunkName: "v-2f46c56b" */"D:/ngkinchung/Github/newshk.github.io/docs/.vuepress/.temp/pages/natural-disaster/drought.html.js").then(({ data }) => data),
-  // path: /natural-disaster/earthquake.html
-  "v-a42731ca": () => import(/* webpackChunkName: "v-a42731ca" */"D:/ngkinchung/Github/newshk.github.io/docs/.vuepress/.temp/pages/natural-disaster/earthquake.html.js").then(({ data }) => data),
-  // path: /natural-disaster/flooding.html
-  "v-7a7178e4": () => import(/* webpackChunkName: "v-7a7178e4" */"D:/ngkinchung/Github/newshk.github.io/docs/.vuepress/.temp/pages/natural-disaster/flooding.html.js").then(({ data }) => data),
-  // path: /natural-disaster/heat-wave.html
-  "v-5c4d4f14": () => import(/* webpackChunkName: "v-5c4d4f14" */"D:/ngkinchung/Github/newshk.github.io/docs/.vuepress/.temp/pages/natural-disaster/heat-wave.html.js").then(({ data }) => data),
-  // path: /natural-disaster/landside.html
-  "v-446f7506": () => import(/* webpackChunkName: "v-446f7506" */"D:/ngkinchung/Github/newshk.github.io/docs/.vuepress/.temp/pages/natural-disaster/landside.html.js").then(({ data }) => data),
-  // path: /natural-disaster/tropical-cyclone.html
-  "v-5d7dcb4a": () => import(/* webpackChunkName: "v-5d7dcb4a" */"D:/ngkinchung/Github/newshk.github.io/docs/.vuepress/.temp/pages/natural-disaster/tropical-cyclone.html.js").then(({ data }) => data),
   // path: /outside-hong-kong/
   "v-148f6e86": () => import(/* webpackChunkName: "v-148f6e86" */"D:/ngkinchung/Github/newshk.github.io/docs/.vuepress/.temp/pages/outside-hong-kong/index.html.js").then(({ data }) => data),
   // path: /philosophy-and-belief/

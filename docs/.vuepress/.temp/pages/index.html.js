@@ -1,1 +1,14 @@
-export const data = JSON.parse("{\"key\":\"v-8daa1a0e\",\"path\":\"/\",\"title\":\"香港新聞類編\",\"lang\":\"zh-TW\",\"frontmatter\":{\"home\":true,\"icon\":false,\"title\":\"香港新聞類編\",\"heroImage\":\"/logo.svg\",\"heroText\":\"香港新聞類編\",\"tagline\":\"　\",\"actions\":false,\"features\":[{\"title\":\"Markdown 增强\",\"icon\":\"markdown\",\"details\":\"新增文字对齐、上下角标、脚注、标记、任务列表、数学公式、流程图、图表与幻灯片支持\",\"link\":\"https://vuepress-theme-hope.github.io/v2/zh/guide/markdown/\"}],\"copyright\":true,\"footer\":false,\"summary\":\"\",\"head\":[[\"meta\",{\"property\":\"og:url\",\"content\":\"https://newshk.github.io/\"}],[\"meta\",{\"property\":\"og:site_name\",\"content\":\"香港新聞類編\"}],[\"meta\",{\"property\":\"og:title\",\"content\":\"香港新聞類編\"}],[\"meta\",{\"property\":\"og:type\",\"content\":\"website\"}],[\"meta\",{\"property\":\"og:updated_time\",\"content\":\"2022-08-23T11:40:49.000Z\"}],[\"meta\",{\"property\":\"og:locale\",\"content\":\"zh-TW\"}],[\"meta\",{\"property\":\"article:modified_time\",\"content\":\"2022-08-23T11:40:49.000Z\"}]]},\"excerpt\":\"\",\"headers\":[],\"git\":{\"createdTime\":1649826739000,\"updatedTime\":1661254849000,\"contributors\":[{\"name\":\"NGKINCHUNG\",\"email\":\"archaeology.cn@outlook.com\",\"commits\":5}]},\"readingTime\":{\"minutes\":0.26,\"words\":77},\"filePathRelative\":\"README.md\",\"localizedDate\":\"2022年4月13日\"}")
+export const data = JSON.parse("{\"key\":\"v-8daa1a0e\",\"path\":\"/\",\"title\":\"香港新聞類編\",\"lang\":\"zh-TW\",\"frontmatter\":{\"home\":true,\"icon\":false,\"title\":\"香港新聞類編\",\"heroImage\":false,\"heroText\":\"香港新聞類編\",\"tagline\":\"　\",\"actions\":false,\"features\":null,\"copyright\":true,\"footer\":false,\"summary\":\"\",\"head\":[[\"meta\",{\"property\":\"og:url\",\"content\":\"https://newshk.github.io/\"}],[\"meta\",{\"property\":\"og:site_name\",\"content\":\"香港新聞類編\"}],[\"meta\",{\"property\":\"og:title\",\"content\":\"香港新聞類編\"}],[\"meta\",{\"property\":\"og:type\",\"content\":\"website\"}],[\"meta\",{\"property\":\"og:locale\",\"content\":\"zh-TW\"}]]},\"excerpt\":\"\",\"headers\":[],\"readingTime\":{\"minutes\":0.09,\"words\":28},\"filePathRelative\":\"README.md\"}")
+
+if (import.meta.webpackHot) {
+  import.meta.webpackHot.accept()
+  if (__VUE_HMR_RUNTIME__.updatePageData) {
+    __VUE_HMR_RUNTIME__.updatePageData(data)
+  }
+}
+
+if (import.meta.hot) {
+  import.meta.hot.accept(({ data }) => {
+    __VUE_HMR_RUNTIME__.updatePageData(data)
+  })
+}

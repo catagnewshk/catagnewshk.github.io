@@ -7,27 +7,18 @@ export default hopeTheme({
   themeColor: false,
   darkmode: "disable",
   fullscreen: false,
+  contributors: false,
   author: {
     name: "NG, Kinchung",
     url: "https://newshk.github.io",
   },
-
   iconAssets: "",
-
   logo: "/logo.svg",
-
-  // navbar
   navbar: navbar,
-
-  // sidebar
   sidebar: sidebar,
-
   footer: "@ HKCI",
-
   displayFooter: true,
-
   pageInfo: ["Author", "Original", "Date", "Category", "Tag", "ReadingTime"],
-
   encrypt: {
     config: {
       "/guide/encrypt.html": ["1234"],
