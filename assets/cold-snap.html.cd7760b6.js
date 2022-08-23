@@ -1,1 +1,0 @@
-const t={key:"v-08a4e652",path:"/natural-disaster/cold-snap.html",title:"\u5BD2\u6D41",lang:"zh-Hant",frontmatter:{lang:"zh-Hant",title:"\u5BD2\u6D41",sidebar:"auto"},excerpt:"",headers:[],git:{updatedTime:1649826739e3,contributors:[{name:"NGKINCHUNG",email:"archaeology.cn@outlook.com",commits:1}]},filePathRelative:"natural-disaster/cold-snap.md"};export{t as data};

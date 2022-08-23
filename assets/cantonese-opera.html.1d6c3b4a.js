@@ -1,1 +1,0 @@
-const t={key:"v-76acd538",path:"/art/cantonese-opera.html",title:"\u7CB5\u5287",lang:"zh-Hant",frontmatter:{lang:"zh-Hant",title:"\u7CB5\u5287",sidebar:"auto"},excerpt:"",headers:[],git:{updatedTime:1649826739e3,contributors:[{name:"NGKINCHUNG",email:"archaeology.cn@outlook.com",commits:1}]},filePathRelative:"art/cantonese-opera.md"};export{t as data};

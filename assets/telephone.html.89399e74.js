@@ -1,1 +1,0 @@
-const t={key:"v-e63623b2",path:"/communication/telephone.html",title:"\u96FB\u8A71",lang:"zh-Hant",frontmatter:{lang:"zh-Hant",title:"\u96FB\u8A71",sidebar:"auto"},excerpt:"",headers:[],git:{updatedTime:1649826739e3,contributors:[{name:"NGKINCHUNG",email:"archaeology.cn@outlook.com",commits:1}]},filePathRelative:"communication/telephone.md"};export{t as data};

@@ -1,1 +1,0 @@
-const t={key:"v-d08799a2",path:"/infrastructure/railway.html",title:"\u9435\u8DEF",lang:"zh-Hant",frontmatter:{lang:"zh-Hant",title:"\u9435\u8DEF",sidebar:"auto"},excerpt:"",headers:[],git:{updatedTime:1649826739e3,contributors:[{name:"NGKINCHUNG",email:"archaeology.cn@outlook.com",commits:1}]},filePathRelative:"infrastructure/railway.md"};export{t as data};

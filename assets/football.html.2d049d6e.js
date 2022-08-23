@@ -1,1 +1,0 @@
-const t={key:"v-37cedad0",path:"/sport/football.html",title:"\u8DB3\u7403",lang:"zh-Hant",frontmatter:{lang:"zh-Hant",title:"\u8DB3\u7403",sidebar:"auto"},excerpt:"",headers:[],git:{updatedTime:1649826739e3,contributors:[{name:"NGKINCHUNG",email:"archaeology.cn@outlook.com",commits:1}]},filePathRelative:"sport/football.md"};export{t as data};
