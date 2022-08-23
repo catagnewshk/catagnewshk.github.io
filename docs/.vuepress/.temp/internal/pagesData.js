@@ -19,10 +19,10 @@ export const pagesData = {
   "v-b48261f4": () => import(/* webpackChunkName: "v-b48261f4" */"D:/ngkinchung/Github/newshk.github.io/docs/.vuepress/.temp/pages/accident/marine-accident.html.js").then(({ data }) => data),
   // path: /accident/
   "v-f34575b2": () => import(/* webpackChunkName: "v-f34575b2" */"D:/ngkinchung/Github/newshk.github.io/docs/.vuepress/.temp/pages/accident/index.html.js").then(({ data }) => data),
-  // path: /ad/
-  "v-2d0a76d3": () => import(/* webpackChunkName: "v-2d0a76d3" */"D:/ngkinchung/Github/newshk.github.io/docs/.vuepress/.temp/pages/ad/index.html.js").then(({ data }) => data),
   // path: /archaeology/
   "v-0ed39efe": () => import(/* webpackChunkName: "v-0ed39efe" */"D:/ngkinchung/Github/newshk.github.io/docs/.vuepress/.temp/pages/archaeology/index.html.js").then(({ data }) => data),
+  // path: /ad/
+  "v-2d0a76d3": () => import(/* webpackChunkName: "v-2d0a76d3" */"D:/ngkinchung/Github/newshk.github.io/docs/.vuepress/.temp/pages/ad/index.html.js").then(({ data }) => data),
   // path: /art/cantonese-opera.html
   "v-76acd538": () => import(/* webpackChunkName: "v-76acd538" */"D:/ngkinchung/Github/newshk.github.io/docs/.vuepress/.temp/pages/art/cantonese-opera.html.js").then(({ data }) => data),
   // path: /art/musical-theatre.html

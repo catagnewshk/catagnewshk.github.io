@@ -21,10 +21,10 @@ export const pagesComponents = {
   "v-b48261f4": defineAsyncComponent(() => import(/* webpackChunkName: "v-b48261f4" */"D:/ngkinchung/Github/newshk.github.io/docs/.vuepress/.temp/pages/accident/marine-accident.html.vue")),
   // path: /accident/
   "v-f34575b2": defineAsyncComponent(() => import(/* webpackChunkName: "v-f34575b2" */"D:/ngkinchung/Github/newshk.github.io/docs/.vuepress/.temp/pages/accident/index.html.vue")),
-  // path: /ad/
-  "v-2d0a76d3": defineAsyncComponent(() => import(/* webpackChunkName: "v-2d0a76d3" */"D:/ngkinchung/Github/newshk.github.io/docs/.vuepress/.temp/pages/ad/index.html.vue")),
   // path: /archaeology/
   "v-0ed39efe": defineAsyncComponent(() => import(/* webpackChunkName: "v-0ed39efe" */"D:/ngkinchung/Github/newshk.github.io/docs/.vuepress/.temp/pages/archaeology/index.html.vue")),
+  // path: /ad/
+  "v-2d0a76d3": defineAsyncComponent(() => import(/* webpackChunkName: "v-2d0a76d3" */"D:/ngkinchung/Github/newshk.github.io/docs/.vuepress/.temp/pages/ad/index.html.vue")),
   // path: /art/cantonese-opera.html
   "v-76acd538": defineAsyncComponent(() => import(/* webpackChunkName: "v-76acd538" */"D:/ngkinchung/Github/newshk.github.io/docs/.vuepress/.temp/pages/art/cantonese-opera.html.vue")),
   // path: /art/musical-theatre.html

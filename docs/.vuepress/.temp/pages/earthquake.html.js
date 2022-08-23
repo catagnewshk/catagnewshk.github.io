@@ -1,14 +1,1 @@
-export const data = JSON.parse("{\"key\":\"v-6040f3da\",\"path\":\"/earthquake.html\",\"title\":\"地震\",\"lang\":\"zh-TW\",\"frontmatter\":{\"lang\":\"zh-TW\",\"title\":\"地震\",\"sidebar\":\"auto\",\"summary\":\"地震\",\"head\":[[\"meta\",{\"property\":\"og:url\",\"content\":\"https://newshk.github.io/earthquake.html\"}],[\"meta\",{\"property\":\"og:site_name\",\"content\":\"香港新聞類編\"}],[\"meta\",{\"property\":\"og:title\",\"content\":\"地震\"}],[\"meta\",{\"property\":\"og:type\",\"content\":\"article\"}],[\"meta\",{\"property\":\"og:locale\",\"content\":\"zh-TW\"}]]},\"excerpt\":\"\",\"headers\":[],\"readingTime\":{\"minutes\":0.03,\"words\":10},\"filePathRelative\":\"earthquake.md\"}")
-
-if (import.meta.webpackHot) {
-  import.meta.webpackHot.accept()
-  if (__VUE_HMR_RUNTIME__.updatePageData) {
-    __VUE_HMR_RUNTIME__.updatePageData(data)
-  }
-}
-
-if (import.meta.hot) {
-  import.meta.hot.accept(({ data }) => {
-    __VUE_HMR_RUNTIME__.updatePageData(data)
-  })
-}
+export const data = JSON.parse("{\"key\":\"v-6040f3da\",\"path\":\"/earthquake.html\",\"title\":\"地震\",\"lang\":\"zh-TW\",\"frontmatter\":{\"lang\":\"zh-TW\",\"title\":\"地震\",\"sidebar\":\"auto\",\"summary\":\"地震\",\"head\":[[\"meta\",{\"property\":\"og:url\",\"content\":\"https://newshk.github.io/earthquake.html\"}],[\"meta\",{\"property\":\"og:site_name\",\"content\":\"香港新聞類編\"}],[\"meta\",{\"property\":\"og:title\",\"content\":\"地震\"}],[\"meta\",{\"property\":\"og:type\",\"content\":\"article\"}],[\"meta\",{\"property\":\"og:updated_time\",\"content\":\"2022-08-23T13:07:09.000Z\"}],[\"meta\",{\"property\":\"og:locale\",\"content\":\"zh-TW\"}],[\"meta\",{\"property\":\"article:modified_time\",\"content\":\"2022-08-23T13:07:09.000Z\"}]]},\"excerpt\":\"\",\"headers\":[],\"git\":{\"createdTime\":1661260029000,\"updatedTime\":1661260029000,\"contributors\":[{\"name\":\"NGKINCHUNG\",\"email\":\"archaeology.cn@outlook.com\",\"commits\":1}]},\"readingTime\":{\"minutes\":0.03,\"words\":10},\"filePathRelative\":\"earthquake.md\",\"localizedDate\":\"2022年8月23日\"}")
