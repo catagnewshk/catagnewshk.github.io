@@ -1,1 +1,0 @@
-const t={key:"v-baf305d2",path:"/public-transportation/ferry.html",title:"\u6E21\u8F2A",lang:"zh-Hant",frontmatter:{lang:"zh-Hant",title:"\u6E21\u8F2A",sidebar:"auto"},excerpt:"",headers:[],git:{updatedTime:1649826739e3,contributors:[{name:"NGKINCHUNG",email:"archaeology.cn@outlook.com",commits:1}]},filePathRelative:"public-transportation/ferry.md"};export{t as data};

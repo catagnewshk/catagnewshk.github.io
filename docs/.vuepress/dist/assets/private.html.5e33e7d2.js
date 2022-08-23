@@ -1,1 +1,0 @@
-const t={key:"v-921152be",path:"/housing/private.html",title:"\u79C1\u4EBA\u6A13\u5B87",lang:"zh-Hant",frontmatter:{lang:"zh-Hant",title:"\u79C1\u4EBA\u6A13\u5B87",sidebar:"auto"},excerpt:"",headers:[],git:{updatedTime:1649826739e3,contributors:[{name:"NGKINCHUNG",email:"archaeology.cn@outlook.com",commits:1}]},filePathRelative:"housing/private.md"};export{t as data};

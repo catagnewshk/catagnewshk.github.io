@@ -1,1 +1,0 @@
-const t={key:"v-7a7178e4",path:"/natural-disaster/flooding.html",title:"\u96E8\u707D",lang:"zh-Hant",frontmatter:{lang:"zh-Hant",title:"\u96E8\u707D",sidebar:"auto"},excerpt:"",headers:[],git:{updatedTime:1649826739e3,contributors:[{name:"NGKINCHUNG",email:"archaeology.cn@outlook.com",commits:1}]},filePathRelative:"natural-disaster/flooding.md"};export{t as data};

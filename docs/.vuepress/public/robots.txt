@@ -1,3 +1,0 @@
-Sitemap: https://newshk.github.io/sitemap.xml
-
-User-agent: *

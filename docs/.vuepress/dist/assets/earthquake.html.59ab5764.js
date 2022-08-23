@@ -1,1 +1,0 @@
-const a={key:"v-a42731ca",path:"/natural-disaster/earthquake.html",title:"\u5730\u9707",lang:"zh-Hant",frontmatter:{lang:"zh-Hant",title:"\u5730\u9707",sidebar:"auto"},excerpt:"",headers:[],git:{updatedTime:1649826739e3,contributors:[{name:"NGKINCHUNG",email:"archaeology.cn@outlook.com",commits:1}]},filePathRelative:"natural-disaster/earthquake.md"};export{a as data};
