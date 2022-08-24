@@ -1,9 +1,10 @@
 ---
-title: 熱帶氣旋
-description: 香港新聞報道，自然災害，熱帶氣旋。
 lang: zh-TW
+title: 熱帶氣旋
+description: 香港新聞報道，自然災害，天災，熱帶氣旋，颱風。
 author: NG Kinchung
 date: 2022-01-26
+category: 自然
 ---
 <!-- <a>![tropical cyclone](../.vuepress/public/fig/tropical-cyclone.webp "圖片改自《華僑日報》插圖，1962年9月1日，第2張第1頁。圖示「溫黛」移動方向。")</a> -->
 # 熱帶氣旋

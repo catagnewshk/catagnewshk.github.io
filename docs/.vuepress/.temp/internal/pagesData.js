@@ -23,6 +23,8 @@ export const pagesData = {
   "v-0a0ff5dc": () => import(/* webpackChunkName: "v-0a0ff5dc" */"D:/ngkinchung/Github/newshk.github.io/docs/.vuepress/.temp/pages/flooding.html.js").then(({ data }) => data),
   // path: /heat-wave.html
   "v-7f031dc8": () => import(/* webpackChunkName: "v-7f031dc8" */"D:/ngkinchung/Github/newshk.github.io/docs/.vuepress/.temp/pages/heat-wave.html.js").then(({ data }) => data),
+  // path: /hillfire.html
+  "v-2d2ec0e9": () => import(/* webpackChunkName: "v-2d2ec0e9" */"D:/ngkinchung/Github/newshk.github.io/docs/.vuepress/.temp/pages/hillfire.html.js").then(({ data }) => data),
   // path: /influenza.html
   "v-415222d0": () => import(/* webpackChunkName: "v-415222d0" */"D:/ngkinchung/Github/newshk.github.io/docs/.vuepress/.temp/pages/influenza.html.js").then(({ data }) => data),
   // path: /jiao-festival.html
@@ -109,10 +111,10 @@ export const pagesData = {
   "v-09c55ccd": () => import(/* webpackChunkName: "v-09c55ccd" */"D:/ngkinchung/Github/newshk.github.io/docs/.vuepress/.temp/pages/library/index.html.js").then(({ data }) => data),
   // path: /museum/
   "v-83902978": () => import(/* webpackChunkName: "v-83902978" */"D:/ngkinchung/Github/newshk.github.io/docs/.vuepress/.temp/pages/museum/index.html.js").then(({ data }) => data),
-  // path: /outside-hong-kong/
-  "v-148f6e86": () => import(/* webpackChunkName: "v-148f6e86" */"D:/ngkinchung/Github/newshk.github.io/docs/.vuepress/.temp/pages/outside-hong-kong/index.html.js").then(({ data }) => data),
   // path: /philosophy-and-belief/
   "v-4e370ad6": () => import(/* webpackChunkName: "v-4e370ad6" */"D:/ngkinchung/Github/newshk.github.io/docs/.vuepress/.temp/pages/philosophy-and-belief/index.html.js").then(({ data }) => data),
+  // path: /outside-hong-kong/
+  "v-148f6e86": () => import(/* webpackChunkName: "v-148f6e86" */"D:/ngkinchung/Github/newshk.github.io/docs/.vuepress/.temp/pages/outside-hong-kong/index.html.js").then(({ data }) => data),
   // path: /public-order/
   "v-4cf0ac2c": () => import(/* webpackChunkName: "v-4cf0ac2c" */"D:/ngkinchung/Github/newshk.github.io/docs/.vuepress/.temp/pages/public-order/index.html.js").then(({ data }) => data),
   // path: /public-transportation/bus.html
@@ -151,4 +153,6 @@ export const pagesData = {
   "v-154dc4c4": () => import(/* webpackChunkName: "v-154dc4c4" */"D:/ngkinchung/Github/newshk.github.io/docs/.vuepress/.temp/pages/star/index.html.js").then(({ data }) => data),
   // path: /timeline/
   "v-01560935": () => import(/* webpackChunkName: "v-01560935" */"D:/ngkinchung/Github/newshk.github.io/docs/.vuepress/.temp/pages/timeline/index.html.js").then(({ data }) => data),
+  // path: /category/%E8%87%AA%E7%84%B6/
+  "v-2fcde801": () => import(/* webpackChunkName: "v-2fcde801" */"D:/ngkinchung/Github/newshk.github.io/docs/.vuepress/.temp/pages/category/自然/index.html.js").then(({ data }) => data),
 }
