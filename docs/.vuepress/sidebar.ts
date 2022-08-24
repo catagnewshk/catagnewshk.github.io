@@ -15,4 +15,9 @@ export default sidebar({
     "tin-hau-festival",
     "yu-lan-festival",
   ],
+  "/economy/": [
+    "fishery",
+    "manufacturing",
+    "tourism",
+  ],
 });

@@ -11,4 +11,9 @@ export default navbar([
         prefix: "/culture/",
         children: ["dragon-boat-festival.md","yu-lan-festival.md",],
       },
+      {
+        text: "經濟活動",
+        prefix: "/economy/",
+        children: ["fishery.md","manufacturing.md","tourism",],
+      },
 ]);
