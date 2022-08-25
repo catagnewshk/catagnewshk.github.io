@@ -35,6 +35,10 @@ export const pagesData = {
   "v-8daa1a0e": () => import(/* webpackChunkName: "v-8daa1a0e" */"D:/ngkinchung/Github/newshk.github.io/docs/.vuepress/.temp/pages/index.html.js").then(({ data }) => data),
   // path: /visual-art.html
   "v-64ece7ac": () => import(/* webpackChunkName: "v-64ece7ac" */"D:/ngkinchung/Github/newshk.github.io/docs/.vuepress/.temp/pages/visual-art.html.js").then(({ data }) => data),
+  // path: /bank/
+  "v-1455c21a": () => import(/* webpackChunkName: "v-1455c21a" */"D:/ngkinchung/Github/newshk.github.io/docs/.vuepress/.temp/pages/bank/index.html.js").then(({ data }) => data),
+  // path: /bank/the-hongkong-and-shanghai-banking-corporation-limited.html
+  "v-134b1686": () => import(/* webpackChunkName: "v-134b1686" */"D:/ngkinchung/Github/newshk.github.io/docs/.vuepress/.temp/pages/bank/the-hongkong-and-shanghai-banking-corporation-limited.html.js").then(({ data }) => data),
   // path: /charity/
   "v-2c435f90": () => import(/* webpackChunkName: "v-2c435f90" */"D:/ngkinchung/Github/newshk.github.io/docs/.vuepress/.temp/pages/charity/index.html.js").then(({ data }) => data),
   // path: /charity/relief.html
@@ -45,10 +49,6 @@ export const pagesData = {
   "v-80d6135c": () => import(/* webpackChunkName: "v-80d6135c" */"D:/ngkinchung/Github/newshk.github.io/docs/.vuepress/.temp/pages/communication/index.html.js").then(({ data }) => data),
   // path: /communication/telephone.html
   "v-e63623b2": () => import(/* webpackChunkName: "v-e63623b2" */"D:/ngkinchung/Github/newshk.github.io/docs/.vuepress/.temp/pages/communication/telephone.html.js").then(({ data }) => data),
-  // path: /bank/
-  "v-1455c21a": () => import(/* webpackChunkName: "v-1455c21a" */"D:/ngkinchung/Github/newshk.github.io/docs/.vuepress/.temp/pages/bank/index.html.js").then(({ data }) => data),
-  // path: /bank/the-hongkong-and-shanghai-banking-corporation-limited.html
-  "v-134b1686": () => import(/* webpackChunkName: "v-134b1686" */"D:/ngkinchung/Github/newshk.github.io/docs/.vuepress/.temp/pages/bank/the-hongkong-and-shanghai-banking-corporation-limited.html.js").then(({ data }) => data),
   // path: /culture/cantonese-opera.html
   "v-6758a279": () => import(/* webpackChunkName: "v-6758a279" */"D:/ngkinchung/Github/newshk.github.io/docs/.vuepress/.temp/pages/culture/cantonese-opera.html.js").then(({ data }) => data),
   // path: /culture/dragon-boat-festival.html
