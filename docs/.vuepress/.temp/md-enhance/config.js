@@ -1,8 +1,8 @@
 import { defineClientConfig } from "@vuepress/client";
     import { defineAsyncComponent } from "vue";
-import Presentation from "D:/ngkinchung/Github/newshk.github.io/node_modules/vuepress-plugin-md-enhance/lib/client/components/Presentation";
-import "D:/ngkinchung/Github/newshk.github.io/node_modules/vuepress-plugin-md-enhance/lib/client/styles/container/index.scss";
-import "D:/ngkinchung/Github/newshk.github.io/node_modules/vuepress-plugin-md-enhance/lib/client/styles/footnote.scss";
+import Presentation from "/Users/ngkinchung/Documents/GitHub/newshk.github.io/node_modules/vuepress-plugin-md-enhance/lib/client/components/Presentation";
+import "/Users/ngkinchung/Documents/GitHub/newshk.github.io/node_modules/vuepress-plugin-md-enhance/lib/client/styles/container/index.scss";
+import "/Users/ngkinchung/Documents/GitHub/newshk.github.io/node_modules/vuepress-plugin-md-enhance/lib/client/styles/footnote.scss";
 
 
 export default defineClientConfig({

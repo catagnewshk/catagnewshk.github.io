@@ -16,7 +16,7 @@ export default hopeTheme({
   logo: "/logo.svg",
   navbar: navbar,
   sidebar: sidebar,
-  footer: "@ HKCI",
+  footer: "NG Kinchung @ Peking University",
   displayFooter: true,
   pageInfo: ["Author", "Original", "Date", "Category", "Tag", "ReadingTime"],
   encrypt: {
