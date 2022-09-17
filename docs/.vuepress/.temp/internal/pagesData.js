@@ -49,12 +49,6 @@ export const pagesData = {
   "v-6e77ace0": () => import(/* webpackChunkName: "v-6e77ace0" */"/Users/ngkinchung/Documents/GitHub/newshk.github.io/docs/.vuepress/.temp/pages/communication/radio.html.js").then(({ data }) => data),
   // path: /communication/telephone.html
   "v-e63623b2": () => import(/* webpackChunkName: "v-e63623b2" */"/Users/ngkinchung/Documents/GitHub/newshk.github.io/docs/.vuepress/.temp/pages/communication/telephone.html.js").then(({ data }) => data),
-  // path: /economy/fishery.html
-  "v-3c7f55ef": () => import(/* webpackChunkName: "v-3c7f55ef" */"/Users/ngkinchung/Documents/GitHub/newshk.github.io/docs/.vuepress/.temp/pages/economy/fishery.html.js").then(({ data }) => data),
-  // path: /economy/manufacturing.html
-  "v-4d3b4785": () => import(/* webpackChunkName: "v-4d3b4785" */"/Users/ngkinchung/Documents/GitHub/newshk.github.io/docs/.vuepress/.temp/pages/economy/manufacturing.html.js").then(({ data }) => data),
-  // path: /economy/tourism.html
-  "v-ce7add90": () => import(/* webpackChunkName: "v-ce7add90" */"/Users/ngkinchung/Documents/GitHub/newshk.github.io/docs/.vuepress/.temp/pages/economy/tourism.html.js").then(({ data }) => data),
   // path: /culture/cantonese-opera.html
   "v-6758a279": () => import(/* webpackChunkName: "v-6758a279" */"/Users/ngkinchung/Documents/GitHub/newshk.github.io/docs/.vuepress/.temp/pages/culture/cantonese-opera.html.js").then(({ data }) => data),
   // path: /culture/dragon-boat-festival.html
@@ -65,6 +59,12 @@ export const pagesData = {
   "v-5dc51ec2": () => import(/* webpackChunkName: "v-5dc51ec2" */"/Users/ngkinchung/Documents/GitHub/newshk.github.io/docs/.vuepress/.temp/pages/culture/tin-hau-festival.html.js").then(({ data }) => data),
   // path: /culture/yu-lan-festival.html
   "v-0acba414": () => import(/* webpackChunkName: "v-0acba414" */"/Users/ngkinchung/Documents/GitHub/newshk.github.io/docs/.vuepress/.temp/pages/culture/yu-lan-festival.html.js").then(({ data }) => data),
+  // path: /economy/fishery.html
+  "v-3c7f55ef": () => import(/* webpackChunkName: "v-3c7f55ef" */"/Users/ngkinchung/Documents/GitHub/newshk.github.io/docs/.vuepress/.temp/pages/economy/fishery.html.js").then(({ data }) => data),
+  // path: /economy/manufacturing.html
+  "v-4d3b4785": () => import(/* webpackChunkName: "v-4d3b4785" */"/Users/ngkinchung/Documents/GitHub/newshk.github.io/docs/.vuepress/.temp/pages/economy/manufacturing.html.js").then(({ data }) => data),
+  // path: /economy/tourism.html
+  "v-ce7add90": () => import(/* webpackChunkName: "v-ce7add90" */"/Users/ngkinchung/Documents/GitHub/newshk.github.io/docs/.vuepress/.temp/pages/economy/tourism.html.js").then(({ data }) => data),
   // path: /government/
   "v-ab46e876": () => import(/* webpackChunkName: "v-ab46e876" */"/Users/ngkinchung/Documents/GitHub/newshk.github.io/docs/.vuepress/.temp/pages/government/index.html.js").then(({ data }) => data),
   // path: /hospital/
