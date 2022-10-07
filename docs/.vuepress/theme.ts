@@ -16,14 +16,10 @@ export default hopeTheme({
   logo: "/logo.svg",
   navbar: navbar,
   sidebar: sidebar,
-  footer: "NG Kinchung @ Peking University",
+  footer: "",
+  copyright: "NG, Kinchung @ Peking University",
   displayFooter: true,
-  pageInfo: ["Author", "Original", "Date", "Category", "Tag", "ReadingTime"],
-  encrypt: {
-    config: {
-      "/guide/encrypt.html": ["1234"],
-    },
-  },
+  pageInfo: ["Category", "Author", "Original", "Date", "Tag", "ReadingTime"],
 
   plugins: {
     blog: {

@@ -119,6 +119,10 @@ export const pagesComponents = {
   "v-148f6e86": defineAsyncComponent(() => import(/* webpackChunkName: "v-148f6e86" */"/Users/ngkinchung/Documents/GitHub/newshk.github.io/docs/.vuepress/.temp/pages/outside-hong-kong/index.html.vue")),
   // path: /public-order/
   "v-4cf0ac2c": defineAsyncComponent(() => import(/* webpackChunkName: "v-4cf0ac2c" */"/Users/ngkinchung/Documents/GitHub/newshk.github.io/docs/.vuepress/.temp/pages/public-order/index.html.vue")),
+  // path: /sport/
+  "v-d78e4918": defineAsyncComponent(() => import(/* webpackChunkName: "v-d78e4918" */"/Users/ngkinchung/Documents/GitHub/newshk.github.io/docs/.vuepress/.temp/pages/sport/index.html.vue")),
+  // path: /sport/football.html
+  "v-37cedad0": defineAsyncComponent(() => import(/* webpackChunkName: "v-37cedad0" */"/Users/ngkinchung/Documents/GitHub/newshk.github.io/docs/.vuepress/.temp/pages/sport/football.html.vue")),
   // path: /public-transportation/
   "v-c6cec9d0": defineAsyncComponent(() => import(/* webpackChunkName: "v-c6cec9d0" */"/Users/ngkinchung/Documents/GitHub/newshk.github.io/docs/.vuepress/.temp/pages/public-transportation/index.html.vue")),
   // path: /public-transportation/bus.html
@@ -135,10 +139,6 @@ export const pagesComponents = {
   "v-79ee8d63": defineAsyncComponent(() => import(/* webpackChunkName: "v-79ee8d63" */"/Users/ngkinchung/Documents/GitHub/newshk.github.io/docs/.vuepress/.temp/pages/public-transportation/taxi.html.vue")),
   // path: /public-transportation/tramway.html
   "v-698b58e8": defineAsyncComponent(() => import(/* webpackChunkName: "v-698b58e8" */"/Users/ngkinchung/Documents/GitHub/newshk.github.io/docs/.vuepress/.temp/pages/public-transportation/tramway.html.vue")),
-  // path: /sport/
-  "v-d78e4918": defineAsyncComponent(() => import(/* webpackChunkName: "v-d78e4918" */"/Users/ngkinchung/Documents/GitHub/newshk.github.io/docs/.vuepress/.temp/pages/sport/index.html.vue")),
-  // path: /sport/football.html
-  "v-37cedad0": defineAsyncComponent(() => import(/* webpackChunkName: "v-37cedad0" */"/Users/ngkinchung/Documents/GitHub/newshk.github.io/docs/.vuepress/.temp/pages/sport/football.html.vue")),
   // path: /404.html
   "v-3706649a": defineAsyncComponent(() => import(/* webpackChunkName: "v-3706649a" */"/Users/ngkinchung/Documents/GitHub/newshk.github.io/docs/.vuepress/.temp/pages/404.html.vue")),
   // path: /category/

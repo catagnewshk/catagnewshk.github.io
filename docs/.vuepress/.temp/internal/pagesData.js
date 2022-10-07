@@ -117,6 +117,10 @@ export const pagesData = {
   "v-148f6e86": () => import(/* webpackChunkName: "v-148f6e86" */"/Users/ngkinchung/Documents/GitHub/newshk.github.io/docs/.vuepress/.temp/pages/outside-hong-kong/index.html.js").then(({ data }) => data),
   // path: /public-order/
   "v-4cf0ac2c": () => import(/* webpackChunkName: "v-4cf0ac2c" */"/Users/ngkinchung/Documents/GitHub/newshk.github.io/docs/.vuepress/.temp/pages/public-order/index.html.js").then(({ data }) => data),
+  // path: /sport/
+  "v-d78e4918": () => import(/* webpackChunkName: "v-d78e4918" */"/Users/ngkinchung/Documents/GitHub/newshk.github.io/docs/.vuepress/.temp/pages/sport/index.html.js").then(({ data }) => data),
+  // path: /sport/football.html
+  "v-37cedad0": () => import(/* webpackChunkName: "v-37cedad0" */"/Users/ngkinchung/Documents/GitHub/newshk.github.io/docs/.vuepress/.temp/pages/sport/football.html.js").then(({ data }) => data),
   // path: /public-transportation/
   "v-c6cec9d0": () => import(/* webpackChunkName: "v-c6cec9d0" */"/Users/ngkinchung/Documents/GitHub/newshk.github.io/docs/.vuepress/.temp/pages/public-transportation/index.html.js").then(({ data }) => data),
   // path: /public-transportation/bus.html
@@ -133,10 +137,6 @@ export const pagesData = {
   "v-79ee8d63": () => import(/* webpackChunkName: "v-79ee8d63" */"/Users/ngkinchung/Documents/GitHub/newshk.github.io/docs/.vuepress/.temp/pages/public-transportation/taxi.html.js").then(({ data }) => data),
   // path: /public-transportation/tramway.html
   "v-698b58e8": () => import(/* webpackChunkName: "v-698b58e8" */"/Users/ngkinchung/Documents/GitHub/newshk.github.io/docs/.vuepress/.temp/pages/public-transportation/tramway.html.js").then(({ data }) => data),
-  // path: /sport/
-  "v-d78e4918": () => import(/* webpackChunkName: "v-d78e4918" */"/Users/ngkinchung/Documents/GitHub/newshk.github.io/docs/.vuepress/.temp/pages/sport/index.html.js").then(({ data }) => data),
-  // path: /sport/football.html
-  "v-37cedad0": () => import(/* webpackChunkName: "v-37cedad0" */"/Users/ngkinchung/Documents/GitHub/newshk.github.io/docs/.vuepress/.temp/pages/sport/football.html.js").then(({ data }) => data),
   // path: /404.html
   "v-3706649a": () => import(/* webpackChunkName: "v-3706649a" */"/Users/ngkinchung/Documents/GitHub/newshk.github.io/docs/.vuepress/.temp/pages/404.html.js").then(({ data }) => data),
   // path: /category/

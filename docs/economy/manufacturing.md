@@ -2,7 +2,7 @@
 lang: zh-TW
 title: 製造業
 description: 香港新聞報道，經濟，製造業。
-author: NG Kinchung
+author: false
 date: 2022-01-26
 category: 製造業
 ---

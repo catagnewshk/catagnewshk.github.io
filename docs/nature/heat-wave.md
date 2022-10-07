@@ -2,7 +2,7 @@
 lang: zh-TW
 title: 熱浪
 description: 香港新聞報道，自然災害，天災，熱浪。
-author: NG Kinchung
+author: false
 date: 2022-01-26
 category: 自然
 ---
