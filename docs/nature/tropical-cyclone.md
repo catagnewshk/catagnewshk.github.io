@@ -17,7 +17,7 @@ date: 2022-01-26
 6. 〈[香港颶風史](https://mmis.hkpl.gov.hk/coverpage/-/coverpage/view?_coverpage_WAR_mmisportalportlet_hsf=%E9%A2%A8%E7%90%83&p_r_p_-1078056564_c=QF757YsWv5%2FH7zGe%2FKF%2BFO9sb5P9DUit&_coverpage_WAR_mmisportalportlet_o=320&_coverpage_WAR_mmisportalportlet_actual_q=%28%20verbatim_dc.collection%3A%28%22Old%5C%20HK%5C%20Newspapers%22%29%20%29%20AND+%28%20%28%20allTermsMandatory%3A%28true%29%20OR+all_dc.title%3A%28%E9%A2%A8%E7%90%83%29%20OR+all_dc.creator%3A%28%E9%A2%A8%E7%90%83%29%20OR+all_dc.contributor%3A%28%E9%A2%A8%E7%90%83%29%20OR+all_dc.subject%3A%28%E9%A2%A8%E7%90%83%29%20OR+fulltext%3A%28%E9%A2%A8%E7%90%83%29%20OR+all_dc.description%3A%28%E9%A2%A8%E7%90%83%29%20%29%20%29&_coverpage_WAR_mmisportalportlet_sort_order=asc&_coverpage_WAR_mmisportalportlet_sort_field=dc.publicationdate_bsort)〉，《工商晚報》，1950年10月5日，第4頁。
 7. 〈[各種風球訊號變更　九處地點懸掛風球　颶風消息由兩電台宣佈](https://mmis.hkpl.gov.hk/coverpage/-/coverpage/view?_coverpage_WAR_mmisportalportlet_hsf=%E9%A2%A8%E7%90%83&p_r_p_-1078056564_c=QF757YsWv5%2Bh5KT9sfcXnLsjmx%2FtvBcv&_coverpage_WAR_mmisportalportlet_o=323&_coverpage_WAR_mmisportalportlet_actual_q=%28%20verbatim_dc.collection%3A%28%22Old%5C%20HK%5C%20Newspapers%22%29%20%29%20AND+%28%20%28%20allTermsMandatory%3A%28true%29%20OR+all_dc.title%3A%28%E9%A2%A8%E7%90%83%29%20OR+all_dc.creator%3A%28%E9%A2%A8%E7%90%83%29%20OR+all_dc.contributor%3A%28%E9%A2%A8%E7%90%83%29%20OR+all_dc.subject%3A%28%E9%A2%A8%E7%90%83%29%20OR+fulltext%3A%28%E9%A2%A8%E7%90%83%29%20OR+all_dc.description%3A%28%E9%A2%A8%E7%90%83%29%20%29%20%29&_coverpage_WAR_mmisportalportlet_sort_order=asc&_coverpage_WAR_mmisportalportlet_sort_field=dc.publicationdate_bsort)〉，《工商日報》，1951年4月25日，第6頁。
 ## 1946年
-### 無名 No Name 1
+### 無名 Unnamed 1
 1. 〈[今夜可能颶風襲港　居民注意風球變動　海傍小艇已紛紛駛入避風塘內](https://mmis.hkpl.gov.hk/coverpage/-/coverpage/view?_coverpage_WAR_mmisportalportlet_hsf=%E9%A2%A8%E7%90%83&p_r_p_-1078056564_c=QF757YsWv5%2FH7zGe%2FKF%2BFBEA7GvLQq4L&_coverpage_WAR_mmisportalportlet_o=218&_coverpage_WAR_mmisportalportlet_actual_q=%28%20verbatim_dc.collection%3A%28%22Old%5C%20HK%5C%20Newspapers%22%29%20%29%20AND+%28%20%28%20allTermsMandatory%3A%28true%29%20OR+all_dc.title%3A%28%E9%A2%A8%E7%90%83%29%20OR+all_dc.creator%3A%28%E9%A2%A8%E7%90%83%29%20OR+all_dc.contributor%3A%28%E9%A2%A8%E7%90%83%29%20OR+all_dc.subject%3A%28%E9%A2%A8%E7%90%83%29%20OR+fulltext%3A%28%E9%A2%A8%E7%90%83%29%20OR+all_dc.description%3A%28%E9%A2%A8%E7%90%83%29%20%29%20%29&_coverpage_WAR_mmisportalportlet_sort_field=dc.publicationdate_bsort&_coverpage_WAR_mmisportalportlet_sort_order=asc)〉，《工商晚報》，1946年7月17日，第4頁。
 2. 〈[風訊　天文台懸一號風球](https://mmis.hkpl.gov.hk/coverpage/-/coverpage/view?_coverpage_WAR_mmisportalportlet_hsf=%E9%A2%A8%E7%90%83&p_r_p_-1078056564_c=QF757YsWv5%2BQBGt1%2BwUj5nrr6GXyPsKC&_coverpage_WAR_mmisportalportlet_o=219&_coverpage_WAR_mmisportalportlet_actual_q=%28%20verbatim_dc.collection%3A%28%22Old%5C%20HK%5C%20Newspapers%22%29%20%29%20AND+%28%20%28%20allTermsMandatory%3A%28true%29%20OR+all_dc.title%3A%28%E9%A2%A8%E7%90%83%29%20OR+all_dc.creator%3A%28%E9%A2%A8%E7%90%83%29%20OR+all_dc.contributor%3A%28%E9%A2%A8%E7%90%83%29%20OR+all_dc.subject%3A%28%E9%A2%A8%E7%90%83%29%20OR+fulltext%3A%28%E9%A2%A8%E7%90%83%29%20OR+all_dc.description%3A%28%E9%A2%A8%E7%90%83%29%20%29%20%29&_coverpage_WAR_mmisportalportlet_sort_order=asc&_coverpage_WAR_mmisportalportlet_sort_field=dc.publicationdate_bsort)〉，《工商日報》，1946年7月17日，第4頁。
 3. 〈[天文台改懸七號風球　颶風今晨可能襲本港　風勢劇烈海陸戒備情形嚴重](https://mmis.hkpl.gov.hk/coverpage/-/coverpage/view?_coverpage_WAR_mmisportalportlet_hsf=%E9%A2%A8%E7%90%83&p_r_p_-1078056564_c=QF757YsWv5%2BQBGt1%2BwUj5hibJ4e197ZQ&_coverpage_WAR_mmisportalportlet_o=220&_coverpage_WAR_mmisportalportlet_actual_q=%28%20verbatim_dc.collection%3A%28%22Old%5C%20HK%5C%20Newspapers%22%29%20%29%20AND+%28%20%28%20allTermsMandatory%3A%28true%29%20OR+all_dc.title%3A%28%E9%A2%A8%E7%90%83%29%20OR+all_dc.creator%3A%28%E9%A2%A8%E7%90%83%29%20OR+all_dc.contributor%3A%28%E9%A2%A8%E7%90%83%29%20OR+all_dc.subject%3A%28%E9%A2%A8%E7%90%83%29%20OR+fulltext%3A%28%E9%A2%A8%E7%90%83%29%20OR+all_dc.description%3A%28%E9%A2%A8%E7%90%83%29%20%29%20%29&_coverpage_WAR_mmisportalportlet_sort_order=asc&_coverpage_WAR_mmisportalportlet_sort_field=dc.publicationdate_bsort)〉，《工商日報》，1946年7月18日，第4頁。
@@ -36,25 +36,25 @@ date: 2022-01-26
 9.  〈[颶風之下　疍婦溺斃](https://mmis.hkpl.gov.hk/coverpage/-/coverpage/view?_coverpage_WAR_mmisportalportlet_hsf=%E9%A2%B1%E9%A2%A8&p_r_p_-1078056564_c=QF757YsWv5%2BQBGt1%2BwUj5uRAPRQIENdJ&_coverpage_WAR_mmisportalportlet_o=84&_coverpage_WAR_mmisportalportlet_actual_q=%28%20verbatim_dc.collection%3A%28%22Old%5C%20HK%5C%20Newspapers%22%29%20%29%20AND+%28%20%28%20allTermsMandatory%3A%28true%29%20OR+all_dc.title%3A%28%E9%A2%B1%E9%A2%A8%29%20OR+all_dc.creator%3A%28%E9%A2%B1%E9%A2%A8%29%20OR+all_dc.contributor%3A%28%E9%A2%B1%E9%A2%A8%29%20OR+all_dc.subject%3A%28%E9%A2%B1%E9%A2%A8%29%20OR+fulltext%3A%28%E9%A2%B1%E9%A2%A8%29%20OR+all_dc.description%3A%28%E9%A2%B1%E9%A2%A8%29%20%29%20%29&_coverpage_WAR_mmisportalportlet_sort_order=asc&_coverpage_WAR_mmisportalportlet_sort_field=dc.publicationdate_bsort)〉，《工商日報》，1946年7月20日，第4頁。
 10. 〈[颶風之夕](https://mmis.hkpl.gov.hk/coverpage/-/coverpage/view?_coverpage_WAR_mmisportalportlet_hsf=%E9%A2%B1%E9%A2%A8&p_r_p_-1078056564_c=QF757YsWv5%2BQBGt1%2BwUj5gbmXDOaod%2B4&_coverpage_WAR_mmisportalportlet_o=85&_coverpage_WAR_mmisportalportlet_actual_q=%28%20verbatim_dc.collection%3A%28%22Old%5C%20HK%5C%20Newspapers%22%29%20%29%20AND+%28%20%28%20allTermsMandatory%3A%28true%29%20OR+all_dc.title%3A%28%E9%A2%B1%E9%A2%A8%29%20OR+all_dc.creator%3A%28%E9%A2%B1%E9%A2%A8%29%20OR+all_dc.contributor%3A%28%E9%A2%B1%E9%A2%A8%29%20OR+all_dc.subject%3A%28%E9%A2%B1%E9%A2%A8%29%20OR+fulltext%3A%28%E9%A2%B1%E9%A2%A8%29%20OR+all_dc.description%3A%28%E9%A2%B1%E9%A2%A8%29%20%29%20%29&_coverpage_WAR_mmisportalportlet_sort_order=asc&_coverpage_WAR_mmisportalportlet_sort_field=dc.publicationdate_bsort)〉，《工商日報》，1946年7月21日，第4頁。（注：館藏詳細資料第4頁。）
 11. 〈[颶風襲港後　電話多損壞　公司忙於派員修理](https://mmis.hkpl.gov.hk/coverpage/-/coverpage/view?_coverpage_WAR_mmisportalportlet_hsf=%E9%A2%B1%E9%A2%A8&p_r_p_-1078056564_c=QF757YsWv5%2BQBGt1%2BwUj5gbmXDOaod%2B4&_coverpage_WAR_mmisportalportlet_o=85&_coverpage_WAR_mmisportalportlet_actual_q=%28%20verbatim_dc.collection%3A%28%22Old%5C%20HK%5C%20Newspapers%22%29%20%29%20AND+%28%20%28%20allTermsMandatory%3A%28true%29%20OR+all_dc.title%3A%28%E9%A2%B1%E9%A2%A8%29%20OR+all_dc.creator%3A%28%E9%A2%B1%E9%A2%A8%29%20OR+all_dc.contributor%3A%28%E9%A2%B1%E9%A2%A8%29%20OR+all_dc.subject%3A%28%E9%A2%B1%E9%A2%A8%29%20OR+fulltext%3A%28%E9%A2%B1%E9%A2%A8%29%20OR+all_dc.description%3A%28%E9%A2%B1%E9%A2%A8%29%20%29%20%29&_coverpage_WAR_mmisportalportlet_sort_order=asc&_coverpage_WAR_mmisportalportlet_sort_field=dc.publicationdate_bsort)〉，《工商日報》，1946年7月21日，第4頁。（注：館藏詳細資料第4頁。）
-### 無名 No Name 2
+### 無名 Unnamed 2
 1. 〈[本港附近又發現颶風　天文台懸出一號風球](https://mmis.hkpl.gov.hk/coverpage/-/coverpage/view?_coverpage_WAR_mmisportalportlet_hsf=%E9%A2%A8%E7%90%83&p_r_p_-1078056564_c=QF757YsWv5%2FH7zGe%2FKF%2BFKVdoqWd6v9U&_coverpage_WAR_mmisportalportlet_o=222&_coverpage_WAR_mmisportalportlet_actual_q=%28%20verbatim_dc.collection%3A%28%22Old%5C%20HK%5C%20Newspapers%22%29%20%29%20AND+%28%20%28%20allTermsMandatory%3A%28true%29%20OR+all_dc.title%3A%28%E9%A2%A8%E7%90%83%29%20OR+all_dc.creator%3A%28%E9%A2%A8%E7%90%83%29%20OR+all_dc.contributor%3A%28%E9%A2%A8%E7%90%83%29%20OR+all_dc.subject%3A%28%E9%A2%A8%E7%90%83%29%20OR+fulltext%3A%28%E9%A2%A8%E7%90%83%29%20OR+all_dc.description%3A%28%E9%A2%A8%E7%90%83%29%20%29%20%29&_coverpage_WAR_mmisportalportlet_sort_order=asc&_coverpage_WAR_mmisportalportlet_sort_field=dc.publicationdate_bsort)〉，《工商晚報》，1946年8月29日，第4頁。
 2. 〈[今晨本港懸一號風球](https://mmis.hkpl.gov.hk/coverpage/-/coverpage/view?_coverpage_WAR_mmisportalportlet_hsf=%E9%A2%A8%E7%90%83&p_r_p_-1078056564_c=QF757YsWv5%2BQBGt1%2BwUj5qTfspdHDLOr&_coverpage_WAR_mmisportalportlet_o=223&_coverpage_WAR_mmisportalportlet_actual_q=%28%20verbatim_dc.collection%3A%28%22Old%5C%20HK%5C%20Newspapers%22%29%20%29%20AND+%28%20%28%20allTermsMandatory%3A%28true%29%20OR+all_dc.title%3A%28%E9%A2%A8%E7%90%83%29%20OR+all_dc.creator%3A%28%E9%A2%A8%E7%90%83%29%20OR+all_dc.contributor%3A%28%E9%A2%A8%E7%90%83%29%20OR+all_dc.subject%3A%28%E9%A2%A8%E7%90%83%29%20OR+fulltext%3A%28%E9%A2%A8%E7%90%83%29%20OR+all_dc.description%3A%28%E9%A2%A8%E7%90%83%29%20%29%20%29&_coverpage_WAR_mmisportalportlet_sort_order=asc&_coverpage_WAR_mmisportalportlet_sort_field=dc.publicationdate_bsort)〉，《工商日報》，1946年8月29日，第1頁。
 3. 〈[一號風球除下　颶風威脅解除](https://mmis.hkpl.gov.hk/coverpage/-/coverpage/view?_coverpage_WAR_mmisportalportlet_hsf=%E9%A2%B1%E9%A2%A8&p_r_p_-1078056564_c=QF757YsWv5%2BQBGt1%2BwUj5i%2FBHuwwtG3G&_coverpage_WAR_mmisportalportlet_o=89&_coverpage_WAR_mmisportalportlet_actual_q=%28%20verbatim_dc.collection%3A%28%22Old%5C%20HK%5C%20Newspapers%22%29%20%29%20AND+%28%20%28%20allTermsMandatory%3A%28true%29%20OR+all_dc.title%3A%28%E9%A2%B1%E9%A2%A8%29%20OR+all_dc.creator%3A%28%E9%A2%B1%E9%A2%A8%29%20OR+all_dc.contributor%3A%28%E9%A2%B1%E9%A2%A8%29%20OR+all_dc.subject%3A%28%E9%A2%B1%E9%A2%A8%29%20OR+fulltext%3A%28%E9%A2%B1%E9%A2%A8%29%20OR+all_dc.description%3A%28%E9%A2%B1%E9%A2%A8%29%20%29%20%29&_coverpage_WAR_mmisportalportlet_sort_order=asc&_coverpage_WAR_mmisportalportlet_sort_field=dc.publicationdate_bsort)〉，《工商日報》，1946年8月30日，第4頁。
-### 無名 No Name 3
+### 無名 Unnamed 3
 1. 〈[天文台昨懸一號風球　台灣以南發現颶風](https://mmis.hkpl.gov.hk/coverpage/-/coverpage/view?p_r_p_-1078056564_c=QF757YsWv5%2BQBGt1%2BwUj5rhI6Skcchz7&_coverpage_WAR_mmisportalportlet_o=90&_coverpage_WAR_mmisportalportlet_actual_q=%28%20verbatim_dc.collection%3A%28%22Old%5C%20HK%5C%20Newspapers%22%29%20%29%20AND+%28%20%28%20allTermsMandatory%3A%28true%29%20OR+all_dc.title%3A%28%E9%A2%B1%E9%A2%A8%29%20OR+all_dc.creator%3A%28%E9%A2%B1%E9%A2%A8%29%20OR+all_dc.contributor%3A%28%E9%A2%B1%E9%A2%A8%29%20OR+all_dc.subject%3A%28%E9%A2%B1%E9%A2%A8%29%20OR+fulltext%3A%28%E9%A2%B1%E9%A2%A8%29%20OR+all_dc.description%3A%28%E9%A2%B1%E9%A2%A8%29%20%29%20%29&_coverpage_WAR_mmisportalportlet_sort_order=asc&_coverpage_WAR_mmisportalportlet_sort_field=dc.publicationdate_bsort&_coverpage_WAR_mmisportalportlet_log=Y)〉，《工商日報》，1946年9月7日，第4頁。（注：館藏詳細資料第4頁。）
 2. 〈[八號風球今午卸下　颶風威脅經已解除　海上交通午後恢復常態](https://mmis.hkpl.gov.hk/coverpage/-/coverpage/view?_coverpage_WAR_mmisportalportlet_hsf=%E9%A2%A8%E7%90%83&p_r_p_-1078056564_c=QF757YsWv5%2FH7zGe%2FKF%2BFOkSLlNJ0aPr&_coverpage_WAR_mmisportalportlet_o=225&_coverpage_WAR_mmisportalportlet_actual_q=%28%20verbatim_dc.collection%3A%28%22Old%5C%20HK%5C%20Newspapers%22%29%20%29%20AND+%28%20%28%20allTermsMandatory%3A%28true%29%20OR+all_dc.title%3A%28%E9%A2%A8%E7%90%83%29%20OR+all_dc.creator%3A%28%E9%A2%A8%E7%90%83%29%20OR+all_dc.contributor%3A%28%E9%A2%A8%E7%90%83%29%20OR+all_dc.subject%3A%28%E9%A2%A8%E7%90%83%29%20OR+fulltext%3A%28%E9%A2%A8%E7%90%83%29%20OR+all_dc.description%3A%28%E9%A2%A8%E7%90%83%29%20%29%20%29&_coverpage_WAR_mmisportalportlet_sort_order=asc&_coverpage_WAR_mmisportalportlet_sort_field=dc.publicationdate_bsort)〉，《工商晚報》，1946年9月7日，第4頁。
 3. 〈[颶風威脅解除　八號風球除下](https://mmis.hkpl.gov.hk/coverpage/-/coverpage/view?_coverpage_WAR_mmisportalportlet_hsf=%E9%A2%A8%E7%90%83&p_r_p_-1078056564_c=QF757YsWv5%2BQBGt1%2BwUj5jGl8bJTP8iC&_coverpage_WAR_mmisportalportlet_o=227&_coverpage_WAR_mmisportalportlet_actual_q=%28%20verbatim_dc.collection%3A%28%22Old%5C%20HK%5C%20Newspapers%22%29%20%29%20AND+%28%20%28%20allTermsMandatory%3A%28true%29%20OR+all_dc.title%3A%28%E9%A2%A8%E7%90%83%29%20OR+all_dc.creator%3A%28%E9%A2%A8%E7%90%83%29%20OR+all_dc.contributor%3A%28%E9%A2%A8%E7%90%83%29%20OR+all_dc.subject%3A%28%E9%A2%A8%E7%90%83%29%20OR+fulltext%3A%28%E9%A2%A8%E7%90%83%29%20OR+all_dc.description%3A%28%E9%A2%A8%E7%90%83%29%20%29%20%29&_coverpage_WAR_mmisportalportlet_sort_order=asc&_coverpage_WAR_mmisportalportlet_sort_field=dc.publicationdate_bsort)〉，《工商日報》，1946年9月8日，第4頁。
 
-### 無名 No Name 4
+### 無名 Unnamed 4
 1. 〈[一號風球](https://mmis.hkpl.gov.hk/coverpage/-/coverpage/view?_coverpage_WAR_mmisportalportlet_hsf=%E9%A2%A8%E7%90%83&p_r_p_-1078056564_c=QF757YsWv5%2FH7zGe%2FKF%2BFG4H%2B3glhdla&_coverpage_WAR_mmisportalportlet_o=228&_coverpage_WAR_mmisportalportlet_actual_q=%28%20verbatim_dc.collection%3A%28%22Old%5C%20HK%5C%20Newspapers%22%29%20%29%20AND+%28%20%28%20allTermsMandatory%3A%28true%29%20OR+all_dc.title%3A%28%E9%A2%A8%E7%90%83%29%20OR+all_dc.creator%3A%28%E9%A2%A8%E7%90%83%29%20OR+all_dc.contributor%3A%28%E9%A2%A8%E7%90%83%29%20OR+all_dc.subject%3A%28%E9%A2%A8%E7%90%83%29%20OR+fulltext%3A%28%E9%A2%A8%E7%90%83%29%20OR+all_dc.description%3A%28%E9%A2%A8%E7%90%83%29%20%29%20%29&_coverpage_WAR_mmisportalportlet_sort_order=asc&_coverpage_WAR_mmisportalportlet_sort_field=dc.publicationdate_bsort)〉，《工商晚報》，1946年9月11日，第4頁。
 2. 〈[呂宋西北發現颶風　本港懸出一號風球](https://mmis.hkpl.gov.hk/coverpage/-/coverpage/view?_coverpage_WAR_mmisportalportlet_hsf=%E9%A2%A8%E7%90%83&p_r_p_-1078056564_c=QF757YsWv5%2BQBGt1%2BwUj5mGEP%2Fh9DwkS&_coverpage_WAR_mmisportalportlet_o=229&_coverpage_WAR_mmisportalportlet_actual_q=%28%20verbatim_dc.collection%3A%28%22Old%5C%20HK%5C%20Newspapers%22%29%20%29%20AND+%28%20%28%20allTermsMandatory%3A%28true%29%20OR+all_dc.title%3A%28%E9%A2%A8%E7%90%83%29%20OR+all_dc.creator%3A%28%E9%A2%A8%E7%90%83%29%20OR+all_dc.contributor%3A%28%E9%A2%A8%E7%90%83%29%20OR+all_dc.subject%3A%28%E9%A2%A8%E7%90%83%29%20OR+fulltext%3A%28%E9%A2%A8%E7%90%83%29%20OR+all_dc.description%3A%28%E9%A2%A8%E7%90%83%29%20%29%20%29&_coverpage_WAR_mmisportalportlet_sort_order=asc&_coverpage_WAR_mmisportalportlet_sort_field=dc.publicationdate_bsort)〉，《工商日報》，1946年9月12日，第3頁。
 3. 〈[颶風危險已過　風球昨午除下](https://mmis.hkpl.gov.hk/coverpage/-/coverpage/view?_coverpage_WAR_mmisportalportlet_hsf=%E9%A2%A8%E7%90%83&p_r_p_-1078056564_c=QF757YsWv5%2BQBGt1%2BwUj5uShd7Z7Qaqp&_coverpage_WAR_mmisportalportlet_o=230&_coverpage_WAR_mmisportalportlet_actual_q=%28%20verbatim_dc.collection%3A%28%22Old%5C%20HK%5C%20Newspapers%22%29%20%29%20AND+%28%20%28%20allTermsMandatory%3A%28true%29%20OR+all_dc.title%3A%28%E9%A2%A8%E7%90%83%29%20OR+all_dc.creator%3A%28%E9%A2%A8%E7%90%83%29%20OR+all_dc.contributor%3A%28%E9%A2%A8%E7%90%83%29%20OR+all_dc.subject%3A%28%E9%A2%A8%E7%90%83%29%20OR+fulltext%3A%28%E9%A2%A8%E7%90%83%29%20OR+all_dc.description%3A%28%E9%A2%A8%E7%90%83%29%20%29%20%29&_coverpage_WAR_mmisportalportlet_sort_order=asc&_coverpage_WAR_mmisportalportlet_sort_field=dc.publicationdate_bsort)〉，《工商日報》，1946年9月13日，第3頁。
    - 一艘輪船吹斷錨鍊
-### 無名 No Name 5
+### 無名 Unnamed 5
 1. 〈[颶風有襲港勢　天文台懸一號風球](https://mmis.hkpl.gov.hk/coverpage/-/coverpage/view?_coverpage_WAR_mmisportalportlet_hsf=%E9%A2%A8&p_r_p_-1078056564_c=QF757YsWv5%2BQBGt1%2BwUj5hPc%2FRBVyedv&_coverpage_WAR_mmisportalportlet_o=91&_coverpage_WAR_mmisportalportlet_actual_q=%28%20verbatim_dc.collection%3A%28%22Old%5C%20HK%5C%20Newspapers%22%29%20%29%20AND+%28%20%28%20allTermsMandatory%3A%28true%29%20OR+all_dc.title%3A%28%E9%A2%B1%E9%A2%A8%29%20OR+all_dc.creator%3A%28%E9%A2%B1%E9%A2%A8%29%20OR+all_dc.contributor%3A%28%E9%A2%B1%E9%A2%A8%29%20OR+all_dc.subject%3A%28%E9%A2%B1%E9%A2%A8%29%20OR+fulltext%3A%28%E9%A2%B1%E9%A2%A8%29%20OR+all_dc.description%3A%28%E9%A2%B1%E9%A2%A8%29%20%29%20%29&_coverpage_WAR_mmisportalportlet_sort_order=asc&_coverpage_WAR_mmisportalportlet_sort_field=dc.publicationdate_bsort&_coverpage_WAR_mmisportalportlet_formDate=1643700784121)〉，《工商日報》，1946年9月26日，第3頁。
 2. 〈[一號風球　今晨除下　航機班次明日恢復](https://mmis.hkpl.gov.hk/coverpage/-/coverpage/view?_coverpage_WAR_mmisportalportlet_hsf=%E9%A2%A8%E7%90%83&p_r_p_-1078056564_c=QF757YsWv5%2FH7zGe%2FKF%2BFNvrjQXlicc%2B&_coverpage_WAR_mmisportalportlet_o=231&_coverpage_WAR_mmisportalportlet_actual_q=%28%20verbatim_dc.collection%3A%28%22Old%5C%20HK%5C%20Newspapers%22%29%20%29%20AND+%28%20%28%20allTermsMandatory%3A%28true%29%20OR+all_dc.title%3A%28%E9%A2%A8%E7%90%83%29%20OR+all_dc.creator%3A%28%E9%A2%A8%E7%90%83%29%20OR+all_dc.contributor%3A%28%E9%A2%A8%E7%90%83%29%20OR+all_dc.subject%3A%28%E9%A2%A8%E7%90%83%29%20OR+fulltext%3A%28%E9%A2%A8%E7%90%83%29%20OR+all_dc.description%3A%28%E9%A2%A8%E7%90%83%29%20%29%20%29&_coverpage_WAR_mmisportalportlet_sort_order=asc&_coverpage_WAR_mmisportalportlet_sort_field=dc.publicationdate_bsort)〉，《工商晚報》，1946年9月26日，第4頁。
 3. 〈[颶風　吹向閩海岸　風球已除下](https://mmis.hkpl.gov.hk/coverpage/-/coverpage/view?_coverpage_WAR_mmisportalportlet_hsf=%E9%A2%A8%E7%90%83&p_r_p_-1078056564_c=QF757YsWv5%2BQBGt1%2BwUj5vYwQIkuwbOR&_coverpage_WAR_mmisportalportlet_o=233&_coverpage_WAR_mmisportalportlet_actual_q=%28%20verbatim_dc.collection%3A%28%22Old%5C%20HK%5C%20Newspapers%22%29%20%29%20AND+%28%20%28%20allTermsMandatory%3A%28true%29%20OR+all_dc.title%3A%28%E9%A2%A8%E7%90%83%29%20OR+all_dc.creator%3A%28%E9%A2%A8%E7%90%83%29%20OR+all_dc.contributor%3A%28%E9%A2%A8%E7%90%83%29%20OR+all_dc.subject%3A%28%E9%A2%A8%E7%90%83%29%20OR+fulltext%3A%28%E9%A2%A8%E7%90%83%29%20OR+all_dc.description%3A%28%E9%A2%A8%E7%90%83%29%20%29%20%29&_coverpage_WAR_mmisportalportlet_sort_order=asc&_coverpage_WAR_mmisportalportlet_sort_field=dc.publicationdate_bsort)〉，《工商日報》，1946年9月27日，第3頁。
-### 無名 No Name 6
+### 無名 Unnamed 6
 1. 〈[今晨懸出　一號風球](https://mmis.hkpl.gov.hk/coverpage/-/coverpage/view?_coverpage_WAR_mmisportalportlet_hsf=%E9%A2%A8%E7%90%83&p_r_p_-1078056564_c=QF757YsWv5%2FH7zGe%2FKF%2BFMYdXItpZ%2BHa&_coverpage_WAR_mmisportalportlet_o=234&_coverpage_WAR_mmisportalportlet_actual_q=%28%20verbatim_dc.collection%3A%28%22Old%5C%20HK%5C%20Newspapers%22%29%20%29%20AND+%28%20%28%20allTermsMandatory%3A%28true%29%20OR+all_dc.title%3A%28%E9%A2%A8%E7%90%83%29%20OR+all_dc.creator%3A%28%E9%A2%A8%E7%90%83%29%20OR+all_dc.contributor%3A%28%E9%A2%A8%E7%90%83%29%20OR+all_dc.subject%3A%28%E9%A2%A8%E7%90%83%29%20OR+fulltext%3A%28%E9%A2%A8%E7%90%83%29%20OR+all_dc.description%3A%28%E9%A2%A8%E7%90%83%29%20%29%20%29&_coverpage_WAR_mmisportalportlet_sort_order=asc&_coverpage_WAR_mmisportalportlet_sort_field=dc.publicationdate_bsort)〉，《工商晚報》，1946年10月13日，第4頁。
 2. 〈[港外發現颶風　昨晚懸出　五號風球](https://mmis.hkpl.gov.hk/coverpage/-/coverpage/view?_coverpage_WAR_mmisportalportlet_hsf=%E9%A2%A8%E7%90%83&p_r_p_-1078056564_c=QF757YsWv5%2BQBGt1%2BwUj5gXr8iL4skur&_coverpage_WAR_mmisportalportlet_o=235&_coverpage_WAR_mmisportalportlet_actual_q=%28%20verbatim_dc.collection%3A%28%22Old%5C%20HK%5C%20Newspapers%22%29%20%29%20AND+%28%20%28%20allTermsMandatory%3A%28true%29%20OR+all_dc.title%3A%28%E9%A2%A8%E7%90%83%29%20OR+all_dc.creator%3A%28%E9%A2%A8%E7%90%83%29%20OR+all_dc.contributor%3A%28%E9%A2%A8%E7%90%83%29%20OR+all_dc.subject%3A%28%E9%A2%A8%E7%90%83%29%20OR+fulltext%3A%28%E9%A2%A8%E7%90%83%29%20OR+all_dc.description%3A%28%E9%A2%A8%E7%90%83%29%20%29%20%29&_coverpage_WAR_mmisportalportlet_sort_order=asc&_coverpage_WAR_mmisportalportlet_sort_field=dc.publicationdate_bsort)〉，《工商日報》，1946年10月14日，第3頁。
 3. 〈[一號風球今晨除下](https://mmis.hkpl.gov.hk/coverpage/-/coverpage/view?_coverpage_WAR_mmisportalportlet_hsf=%E9%A2%A8%E7%90%83&p_r_p_-1078056564_c=QF757YsWv5%2FH7zGe%2FKF%2BFINCUyNMzIfP&_coverpage_WAR_mmisportalportlet_o=236&_coverpage_WAR_mmisportalportlet_actual_q=%28%20verbatim_dc.collection%3A%28%22Old%5C%20HK%5C%20Newspapers%22%29%20%29%20AND+%28%20%28%20allTermsMandatory%3A%28true%29%20OR+all_dc.title%3A%28%E9%A2%A8%E7%90%83%29%20OR+all_dc.creator%3A%28%E9%A2%A8%E7%90%83%29%20OR+all_dc.contributor%3A%28%E9%A2%A8%E7%90%83%29%20OR+all_dc.subject%3A%28%E9%A2%A8%E7%90%83%29%20OR+fulltext%3A%28%E9%A2%A8%E7%90%83%29%20OR+all_dc.description%3A%28%E9%A2%A8%E7%90%83%29%20%29%20%29&_coverpage_WAR_mmisportalportlet_sort_order=asc&_coverpage_WAR_mmisportalportlet_sort_field=dc.publicationdate_bsort)〉，《工商晚報》，1946年10月14日，第4頁。
@@ -64,7 +64,7 @@ date: 2022-01-26
 1. 〈[港外颶風警報　懸出一號風球](https://mmis.hkpl.gov.hk/coverpage/-/coverpage/view?_coverpage_WAR_mmisportalportlet_hsf=%E9%A2%A8%E7%90%83&p_r_p_-1078056564_c=QF757YsWv5%2BQBGt1%2BwUj5ouxPdZBayw1&_coverpage_WAR_mmisportalportlet_o=239&_coverpage_WAR_mmisportalportlet_actual_q=%28%20verbatim_dc.collection%3A%28%22Old%5C%20HK%5C%20Newspapers%22%29%20%29%20AND+%28%20%28%20allTermsMandatory%3A%28true%29%20OR+all_dc.title%3A%28%E9%A2%A8%E7%90%83%29%20OR+all_dc.creator%3A%28%E9%A2%A8%E7%90%83%29%20OR+all_dc.contributor%3A%28%E9%A2%A8%E7%90%83%29%20OR+all_dc.subject%3A%28%E9%A2%A8%E7%90%83%29%20OR+fulltext%3A%28%E9%A2%A8%E7%90%83%29%20OR+all_dc.description%3A%28%E9%A2%A8%E7%90%83%29%20%29%20%29&_coverpage_WAR_mmisportalportlet_sort_order=asc&_coverpage_WAR_mmisportalportlet_sort_field=dc.publicationdate_bsort)〉，《工商日報》，1947年6月22日，第3頁。
 2. 〈[一號風球　今晨卸下　颶風吹向汕厦](https://mmis.hkpl.gov.hk/coverpage/-/coverpage/view?_coverpage_WAR_mmisportalportlet_hsf=%E9%A2%A8%E7%90%83&p_r_p_-1078056564_c=QF757YsWv5%2FH7zGe%2FKF%2BFFh2xLN%2B%2FkAQ&_coverpage_WAR_mmisportalportlet_o=238&_coverpage_WAR_mmisportalportlet_actual_q=%28%20verbatim_dc.collection%3A%28%22Old%5C%20HK%5C%20Newspapers%22%29%20%29%20AND+%28%20%28%20allTermsMandatory%3A%28true%29%20OR+all_dc.title%3A%28%E9%A2%A8%E7%90%83%29%20OR+all_dc.creator%3A%28%E9%A2%A8%E7%90%83%29%20OR+all_dc.contributor%3A%28%E9%A2%A8%E7%90%83%29%20OR+all_dc.subject%3A%28%E9%A2%A8%E7%90%83%29%20OR+fulltext%3A%28%E9%A2%A8%E7%90%83%29%20OR+all_dc.description%3A%28%E9%A2%A8%E7%90%83%29%20%29%20%29&_coverpage_WAR_mmisportalportlet_sort_order=asc&_coverpage_WAR_mmisportalportlet_sort_field=dc.publicationdate_bsort)〉，《工商晚報》，1947年6月22日，第4頁。
 3. 〈[一號風球撤下　滬民航昨停開](https://mmis.hkpl.gov.hk/coverpage/-/coverpage/view?_coverpage_WAR_mmisportalportlet_hsf=%E9%A2%A8%E7%90%83&p_r_p_-1078056564_c=QF757YsWv58JCjtBMMIqom1MU9mNqMxV&_coverpage_WAR_mmisportalportlet_o=240&_coverpage_WAR_mmisportalportlet_actual_q=%28%20verbatim_dc.collection%3A%28%22Old%5C%20HK%5C%20Newspapers%22%29%20%29%20AND+%28%20%28%20allTermsMandatory%3A%28true%29%20OR+all_dc.title%3A%28%E9%A2%A8%E7%90%83%29%20OR+all_dc.creator%3A%28%E9%A2%A8%E7%90%83%29%20OR+all_dc.contributor%3A%28%E9%A2%A8%E7%90%83%29%20OR+all_dc.subject%3A%28%E9%A2%A8%E7%90%83%29%20OR+fulltext%3A%28%E9%A2%A8%E7%90%83%29%20OR+all_dc.description%3A%28%E9%A2%A8%E7%90%83%29%20%29%20%29&_coverpage_WAR_mmisportalportlet_sort_order=asc&_coverpage_WAR_mmisportalportlet_sort_field=dc.publicationdate_bsort)〉，《華僑日報》，1947年6月23日，第1張第3頁。
-### 無名 No Name 1
+### 無名 Unnamed 1
 1. 〈[港外發現颶風　懸出一號風球](https://mmis.hkpl.gov.hk/coverpage/-/coverpage/view?_coverpage_WAR_mmisportalportlet_hsf=%E9%A2%A8%E7%90%83&p_r_p_-1078056564_c=QF757YsWv5%2BQBGt1%2BwUj5rDsplRmqPZn&_coverpage_WAR_mmisportalportlet_o=242&_coverpage_WAR_mmisportalportlet_actual_q=%28%20verbatim_dc.collection%3A%28%22Old%5C%20HK%5C%20Newspapers%22%29%20%29%20AND+%28%20%28%20allTermsMandatory%3A%28true%29%20OR+all_dc.title%3A%28%E9%A2%A8%E7%90%83%29%20OR+all_dc.creator%3A%28%E9%A2%A8%E7%90%83%29%20OR+all_dc.contributor%3A%28%E9%A2%A8%E7%90%83%29%20OR+all_dc.subject%3A%28%E9%A2%A8%E7%90%83%29%20OR+fulltext%3A%28%E9%A2%A8%E7%90%83%29%20OR+all_dc.description%3A%28%E9%A2%A8%E7%90%83%29%20%29%20%29&_coverpage_WAR_mmisportalportlet_sort_order=asc&_coverpage_WAR_mmisportalportlet_sort_field=dc.publicationdate_bsort)〉，《工商日報》，1947年7月19日，第3頁。
 2. 〈[颶風可能襲港　一號風球懸出](https://mmis.hkpl.gov.hk/coverpage/-/coverpage/view?_coverpage_WAR_mmisportalportlet_hsf=%E9%A2%A8%E7%90%83&p_r_p_-1078056564_c=QF757YsWv58JCjtBMMIqotBwbNC5r2Z9&_coverpage_WAR_mmisportalportlet_o=243&_coverpage_WAR_mmisportalportlet_actual_q=%28%20verbatim_dc.collection%3A%28%22Old%5C%20HK%5C%20Newspapers%22%29%20%29%20AND+%28%20%28%20allTermsMandatory%3A%28true%29%20OR+all_dc.title%3A%28%E9%A2%A8%E7%90%83%29%20OR+all_dc.creator%3A%28%E9%A2%A8%E7%90%83%29%20OR+all_dc.contributor%3A%28%E9%A2%A8%E7%90%83%29%20OR+all_dc.subject%3A%28%E9%A2%A8%E7%90%83%29%20OR+fulltext%3A%28%E9%A2%A8%E7%90%83%29%20OR+all_dc.description%3A%28%E9%A2%A8%E7%90%83%29%20%29%20%29&_coverpage_WAR_mmisportalportlet_sort_order=asc&_coverpage_WAR_mmisportalportlet_sort_field=dc.publicationdate_bsort)〉，《華僑日報》，1947年7月19日，第1張第4頁。
 3. 〈[風球今晨除下](https://mmis.hkpl.gov.hk/coverpage/-/coverpage/view?_coverpage_WAR_mmisportalportlet_hsf=%E9%A2%A8%E7%90%83&p_r_p_-1078056564_c=QF757YsWv5%2FH7zGe%2FKF%2BFBO2XcYXfwsv&_coverpage_WAR_mmisportalportlet_o=241&_coverpage_WAR_mmisportalportlet_actual_q=%28%20verbatim_dc.collection%3A%28%22Old%5C%20HK%5C%20Newspapers%22%29%20%29%20AND+%28%20%28%20allTermsMandatory%3A%28true%29%20OR+all_dc.title%3A%28%E9%A2%A8%E7%90%83%29%20OR+all_dc.creator%3A%28%E9%A2%A8%E7%90%83%29%20OR+all_dc.contributor%3A%28%E9%A2%A8%E7%90%83%29%20OR+all_dc.subject%3A%28%E9%A2%A8%E7%90%83%29%20OR+fulltext%3A%28%E9%A2%A8%E7%90%83%29%20OR+all_dc.description%3A%28%E9%A2%A8%E7%90%83%29%20%29%20%29&_coverpage_WAR_mmisportalportlet_sort_order=asc&_coverpage_WAR_mmisportalportlet_sort_field=dc.publicationdate_bsort)〉，《工商晚報》，1947年7月19日，第4頁。
@@ -74,7 +74,7 @@ date: 2022-01-26
 ### 美德莉 Mildred
 1. 〈[今晨懸出一號風球](https://mmis.hkpl.gov.hk/coverpage/-/coverpage/view?_coverpage_WAR_mmisportalportlet_hsf=%E9%A2%A8%E7%90%83&p_r_p_-1078056564_c=QF757YsWv5%2FH7zGe%2FKF%2BFEiugPqE4EyN&_coverpage_WAR_mmisportalportlet_o=246&_coverpage_WAR_mmisportalportlet_actual_q=%28%20verbatim_dc.collection%3A%28%22Old%5C%20HK%5C%20Newspapers%22%29%20%29%20AND+%28%20%28%20allTermsMandatory%3A%28true%29%20OR+all_dc.title%3A%28%E9%A2%A8%E7%90%83%29%20OR+all_dc.creator%3A%28%E9%A2%A8%E7%90%83%29%20OR+all_dc.contributor%3A%28%E9%A2%A8%E7%90%83%29%20OR+all_dc.subject%3A%28%E9%A2%A8%E7%90%83%29%20OR+fulltext%3A%28%E9%A2%A8%E7%90%83%29%20OR+all_dc.description%3A%28%E9%A2%A8%E7%90%83%29%20%29%20%29&_coverpage_WAR_mmisportalportlet_sort_order=asc&_coverpage_WAR_mmisportalportlet_sort_field=dc.publicationdate_bsort)〉，《工商晚報》，1947年9月25日，第4頁。
 2. 〈[颶風改向　風球除下](https://mmis.hkpl.gov.hk/coverpage/-/coverpage/view?_coverpage_WAR_mmisportalportlet_hsf=%E9%A2%A8%E7%90%83&p_r_p_-1078056564_c=QF757YsWv58JCjtBMMIqomDrRstd4Y%2Fg&_coverpage_WAR_mmisportalportlet_o=247&_coverpage_WAR_mmisportalportlet_actual_q=%28%20verbatim_dc.collection%3A%28%22Old%5C%20HK%5C%20Newspapers%22%29%20%29%20AND+%28%20%28%20allTermsMandatory%3A%28true%29%20OR+all_dc.title%3A%28%E9%A2%A8%E7%90%83%29%20OR+all_dc.creator%3A%28%E9%A2%A8%E7%90%83%29%20OR+all_dc.contributor%3A%28%E9%A2%A8%E7%90%83%29%20OR+all_dc.subject%3A%28%E9%A2%A8%E7%90%83%29%20OR+fulltext%3A%28%E9%A2%A8%E7%90%83%29%20OR+all_dc.description%3A%28%E9%A2%A8%E7%90%83%29%20%29%20%29&_coverpage_WAR_mmisportalportlet_sort_order=asc&_coverpage_WAR_mmisportalportlet_sort_field=dc.publicationdate_bsort)〉，《華僑日報》，1947年9月26日，第1張第4頁。
-### 無名 No Name 2
+### 無名 Unnamed 2
 1. 〈[今晨懸出一號風球　颶風今晚可能襲港](https://mmis.hkpl.gov.hk/coverpage/-/coverpage/view?_coverpage_WAR_mmisportalportlet_hsf=%E9%A2%A8%E7%90%83&p_r_p_-1078056564_c=QF757YsWv5%2FH7zGe%2FKF%2BFF3mK8p%2BgtED&_coverpage_WAR_mmisportalportlet_o=248&_coverpage_WAR_mmisportalportlet_actual_q=%28%20verbatim_dc.collection%3A%28%22Old%5C%20HK%5C%20Newspapers%22%29%20%29%20AND+%28%20%28%20allTermsMandatory%3A%28true%29%20OR+all_dc.title%3A%28%E9%A2%A8%E7%90%83%29%20OR+all_dc.creator%3A%28%E9%A2%A8%E7%90%83%29%20OR+all_dc.contributor%3A%28%E9%A2%A8%E7%90%83%29%20OR+all_dc.subject%3A%28%E9%A2%A8%E7%90%83%29%20OR+fulltext%3A%28%E9%A2%A8%E7%90%83%29%20OR+all_dc.description%3A%28%E9%A2%A8%E7%90%83%29%20%29%20%29&_coverpage_WAR_mmisportalportlet_sort_order=asc&_coverpage_WAR_mmisportalportlet_sort_field=dc.publicationdate_bsort)〉，《工商晚報》，1947年10月2日，第4頁。
 2. 〈[港外發現颶風　天文台懸一號風球](https://mmis.hkpl.gov.hk/coverpage/-/coverpage/view?_coverpage_WAR_mmisportalportlet_hsf=%E9%A2%A8%E7%90%83&p_r_p_-1078056564_c=QF757YsWv5%2BQBGt1%2BwUj5gOqxA8JKpkk&_coverpage_WAR_mmisportalportlet_o=250&_coverpage_WAR_mmisportalportlet_actual_q=%28%20verbatim_dc.collection%3A%28%22Old%5C%20HK%5C%20Newspapers%22%29%20%29%20AND+%28%20%28%20allTermsMandatory%3A%28true%29%20OR+all_dc.title%3A%28%E9%A2%A8%E7%90%83%29%20OR+all_dc.creator%3A%28%E9%A2%A8%E7%90%83%29%20OR+all_dc.contributor%3A%28%E9%A2%A8%E7%90%83%29%20OR+all_dc.subject%3A%28%E9%A2%A8%E7%90%83%29%20OR+fulltext%3A%28%E9%A2%A8%E7%90%83%29%20OR+all_dc.description%3A%28%E9%A2%A8%E7%90%83%29%20%29%20%29&_coverpage_WAR_mmisportalportlet_sort_order=asc&_coverpage_WAR_mmisportalportlet_sort_field=dc.publicationdate_bsort)〉，《工商日報》，1947年10月3日，第3頁。
 3. 〈[颶風已過　一號風球除下](https://mmis.hkpl.gov.hk/coverpage/-/coverpage/view?_coverpage_WAR_mmisportalportlet_hsf=%E9%A2%A8%E7%90%83&p_r_p_-1078056564_c=QF757YsWv5%2FH7zGe%2FKF%2BFEvGjTEjsY34&_coverpage_WAR_mmisportalportlet_o=249&_coverpage_WAR_mmisportalportlet_actual_q=%28%20verbatim_dc.collection%3A%28%22Old%5C%20HK%5C%20Newspapers%22%29%20%29%20AND+%28%20%28%20allTermsMandatory%3A%28true%29%20OR+all_dc.title%3A%28%E9%A2%A8%E7%90%83%29%20OR+all_dc.creator%3A%28%E9%A2%A8%E7%90%83%29%20OR+all_dc.contributor%3A%28%E9%A2%A8%E7%90%83%29%20OR+all_dc.subject%3A%28%E9%A2%A8%E7%90%83%29%20OR+fulltext%3A%28%E9%A2%A8%E7%90%83%29%20OR+all_dc.description%3A%28%E9%A2%A8%E7%90%83%29%20%29%20%29&_coverpage_WAR_mmisportalportlet_sort_order=asc&_coverpage_WAR_mmisportalportlet_sort_field=dc.publicationdate_bsort)〉，《工商晚報》，1947年10月3日，第4頁。
@@ -88,7 +88,7 @@ date: 2022-01-26
 5. 〈[濟華輪開滬　途遇颶風　機房入水迅速獲救　拖返本港今晨可到](https://mmis.hkpl.gov.hk/coverpage/-/coverpage/view?_coverpage_WAR_mmisportalportlet_hsf=%E9%A2%A8%E7%90%83&p_r_p_-1078056564_c=QF757YsWv5%2BQBGt1%2BwUj5jb3xEZuE5ee&_coverpage_WAR_mmisportalportlet_o=256&_coverpage_WAR_mmisportalportlet_actual_q=%28%20verbatim_dc.collection%3A%28%22Old%5C%20HK%5C%20Newspapers%22%29%20%29%20AND+%28%20%28%20allTermsMandatory%3A%28true%29%20OR+all_dc.title%3A%28%E9%A2%A8%E7%90%83%29%20OR+all_dc.creator%3A%28%E9%A2%A8%E7%90%83%29%20OR+all_dc.contributor%3A%28%E9%A2%A8%E7%90%83%29%20OR+all_dc.subject%3A%28%E9%A2%A8%E7%90%83%29%20OR+fulltext%3A%28%E9%A2%A8%E7%90%83%29%20OR+all_dc.description%3A%28%E9%A2%A8%E7%90%83%29%20%29%20%29&_coverpage_WAR_mmisportalportlet_sort_order=asc&_coverpage_WAR_mmisportalportlet_sort_field=dc.publicationdate_bsort)〉，《工商日報》，1947年10月9日，第3頁。
 6. 〈[港外漁船遇風　約四十艘失踪　適值本港亦遇風警無法派船救援　三艘沉船五十餘人葬身魚腹](https://mmis.hkpl.gov.hk/coverpage/-/coverpage/view?_coverpage_WAR_mmisportalportlet_hsf=%E9%A2%A8%E7%90%83&p_r_p_-1078056564_c=QF757YsWv5%2BQBGt1%2BwUj5jb3xEZuE5ee&_coverpage_WAR_mmisportalportlet_o=256&_coverpage_WAR_mmisportalportlet_actual_q=%28%20verbatim_dc.collection%3A%28%22Old%5C%20HK%5C%20Newspapers%22%29%20%29%20AND+%28%20%28%20allTermsMandatory%3A%28true%29%20OR+all_dc.title%3A%28%E9%A2%A8%E7%90%83%29%20OR+all_dc.creator%3A%28%E9%A2%A8%E7%90%83%29%20OR+all_dc.contributor%3A%28%E9%A2%A8%E7%90%83%29%20OR+all_dc.subject%3A%28%E9%A2%A8%E7%90%83%29%20OR+fulltext%3A%28%E9%A2%A8%E7%90%83%29%20OR+all_dc.description%3A%28%E9%A2%A8%E7%90%83%29%20%29%20%29&_coverpage_WAR_mmisportalportlet_sort_order=asc&_coverpage_WAR_mmisportalportlet_sort_field=dc.publicationdate_bsort)〉，《工商日報》，1947年10月9日，第3頁。
 ## 1948年
-### 無名 No Name 1
+### 無名 Unnamed 1
 1. 〈[颶風吹過台灣菲島　今午可能襲港　昨晚十時懸出七號風球](https://mmis.hkpl.gov.hk/coverpage/-/coverpage/view?_coverpage_WAR_mmisportalportlet_hsf=%E9%A2%A8%E7%90%83&p_r_p_-1078056564_c=QF757YsWv588VgQiieHy%2B6BcJYLJ1U4j&_coverpage_WAR_mmisportalportlet_o=259&_coverpage_WAR_mmisportalportlet_actual_q=%28%20verbatim_dc.collection%3A%28%22Old%5C%20HK%5C%20Newspapers%22%29%20%29%20AND+%28%20%28%20allTermsMandatory%3A%28true%29%20OR+all_dc.title%3A%28%E9%A2%A8%E7%90%83%29%20OR+all_dc.creator%3A%28%E9%A2%A8%E7%90%83%29%20OR+all_dc.contributor%3A%28%E9%A2%A8%E7%90%83%29%20OR+all_dc.subject%3A%28%E9%A2%A8%E7%90%83%29%20OR+fulltext%3A%28%E9%A2%A8%E7%90%83%29%20OR+all_dc.description%3A%28%E9%A2%A8%E7%90%83%29%20%29%20%29&_coverpage_WAR_mmisportalportlet_sort_order=asc&_coverpage_WAR_mmisportalportlet_sort_field=dc.publicationdate_bsort)〉，《工商日報》，1948年7月23日，第4頁。
 2. 〈[今晨回懸第一號風球　颶風威脅似成過去　港九交通未受影响](https://mmis.hkpl.gov.hk/coverpage/-/coverpage/view?_coverpage_WAR_mmisportalportlet_hsf=%E9%A2%A8%E7%90%83&p_r_p_-1078056564_c=QF757YsWv5%2FH7zGe%2FKF%2BFKURZjshBpDK&_coverpage_WAR_mmisportalportlet_o=258&_coverpage_WAR_mmisportalportlet_actual_q=%28%20verbatim_dc.collection%3A%28%22Old%5C%20HK%5C%20Newspapers%22%29%20%29%20AND+%28%20%28%20allTermsMandatory%3A%28true%29%20OR+all_dc.title%3A%28%E9%A2%A8%E7%90%83%29%20OR+all_dc.creator%3A%28%E9%A2%A8%E7%90%83%29%20OR+all_dc.contributor%3A%28%E9%A2%A8%E7%90%83%29%20OR+all_dc.subject%3A%28%E9%A2%A8%E7%90%83%29%20OR+fulltext%3A%28%E9%A2%A8%E7%90%83%29%20OR+all_dc.description%3A%28%E9%A2%A8%E7%90%83%29%20%29%20%29&_coverpage_WAR_mmisportalportlet_sort_order=asc&_coverpage_WAR_mmisportalportlet_sort_field=dc.publicationdate_bsort)〉，《工商晚報》，1948年7月23日，第4頁。
 3. 〈[七號風球昨夜掛出　如果颱風繼續向本港吹來　開往港外的小輪或要停開](https://mmis.hkpl.gov.hk/coverpage/-/coverpage/view?_coverpage_WAR_mmisportalportlet_hsf=%E9%A2%A8%E7%90%83&p_r_p_-1078056564_c=QF757YsWv59H%2FuxqfBwEJKVIzbOw%2FZqc&_coverpage_WAR_mmisportalportlet_o=260&_coverpage_WAR_mmisportalportlet_actual_q=%28%20verbatim_dc.collection%3A%28%22Old%5C%20HK%5C%20Newspapers%22%29%20%29%20AND+%28%20%28%20allTermsMandatory%3A%28true%29%20OR+all_dc.title%3A%28%E9%A2%A8%E7%90%83%29%20OR+all_dc.creator%3A%28%E9%A2%A8%E7%90%83%29%20OR+all_dc.contributor%3A%28%E9%A2%A8%E7%90%83%29%20OR+all_dc.subject%3A%28%E9%A2%A8%E7%90%83%29%20OR+fulltext%3A%28%E9%A2%A8%E7%90%83%29%20OR+all_dc.description%3A%28%E9%A2%A8%E7%90%83%29%20%29%20%29&_coverpage_WAR_mmisportalportlet_sort_order=asc&_coverpage_WAR_mmisportalportlet_sort_field=dc.publicationdate_bsort)〉，《大公報》，1948年7月23日，第1張；第4版。
@@ -165,7 +165,7 @@ date: 2022-01-26
     - 長洲損害
     - 沉船多宗
 14. 〈[塌屋・塌棚・洩電　昨日三宗](https://mmis.hkpl.gov.hk/coverpage/-/coverpage/view?_coverpage_WAR_mmisportalportlet_hsf=%E9%A2%A8%E7%90%83&p_r_p_-1078056564_c=QF757YsWv588VgQiieHy%2B0M57r04XypN&_coverpage_WAR_mmisportalportlet_o=269&_coverpage_WAR_mmisportalportlet_actual_q=%28%20verbatim_dc.collection%3A%28%22Old%5C%20HK%5C%20Newspapers%22%29%20%29%20AND+%28%20%28%20allTermsMandatory%3A%28true%29%20OR+all_dc.title%3A%28%E9%A2%A8%E7%90%83%29%20OR+all_dc.creator%3A%28%E9%A2%A8%E7%90%83%29%20OR+all_dc.contributor%3A%28%E9%A2%A8%E7%90%83%29%20OR+all_dc.subject%3A%28%E9%A2%A8%E7%90%83%29%20OR+fulltext%3A%28%E9%A2%A8%E7%90%83%29%20OR+all_dc.description%3A%28%E9%A2%A8%E7%90%83%29%20%29%20%29&_coverpage_WAR_mmisportalportlet_sort_order=asc&_coverpage_WAR_mmisportalportlet_sort_field=dc.publicationdate_bsort)〉，《工商日報》，1948年7月29日，第5頁。
-### 無名 No Name 2
+### 無名 Unnamed 2
 1. 〈[昨晚懸出七號風球　颶風可能今晨襲港](https://mmis.hkpl.gov.hk/coverpage/-/coverpage/view?_coverpage_WAR_mmisportalportlet_hsf=%E9%A2%A8%E7%90%83&p_r_p_-1078056564_c=QF757YsWv588VgQiieHy%2B%2BmFmx1lHkwc&_coverpage_WAR_mmisportalportlet_o=271&_coverpage_WAR_mmisportalportlet_actual_q=%28%20verbatim_dc.collection%3A%28%22Old%5C%20HK%5C%20Newspapers%22%29%20%29%20AND+%28%20%28%20allTermsMandatory%3A%28true%29%20OR+all_dc.title%3A%28%E9%A2%A8%E7%90%83%29%20OR+all_dc.creator%3A%28%E9%A2%A8%E7%90%83%29%20OR+all_dc.contributor%3A%28%E9%A2%A8%E7%90%83%29%20OR+all_dc.subject%3A%28%E9%A2%A8%E7%90%83%29%20OR+fulltext%3A%28%E9%A2%A8%E7%90%83%29%20OR+all_dc.description%3A%28%E9%A2%A8%E7%90%83%29%20%29%20%29&_coverpage_WAR_mmisportalportlet_sort_order=asc&_coverpage_WAR_mmisportalportlet_sort_field=dc.publicationdate_bsort)〉，《工商日報》，1948年9月3日，第5頁。
 2. 〈[颶風漸迫近本港　今晨懸八號風球　海空交通停頓早班火車停開](https://mmis.hkpl.gov.hk/coverpage/-/coverpage/view?_coverpage_WAR_mmisportalportlet_hsf=%E9%A2%A8%E7%90%83&p_r_p_-1078056564_c=QF757YsWv5%2FH7zGe%2FKF%2BFAOepnQ3O5Ok&_coverpage_WAR_mmisportalportlet_o=272&_coverpage_WAR_mmisportalportlet_actual_q=%28%20verbatim_dc.collection%3A%28%22Old%5C%20HK%5C%20Newspapers%22%29%20%29%20AND+%28%20%28%20allTermsMandatory%3A%28true%29%20OR+all_dc.title%3A%28%E9%A2%A8%E7%90%83%29%20OR+all_dc.creator%3A%28%E9%A2%A8%E7%90%83%29%20OR+all_dc.contributor%3A%28%E9%A2%A8%E7%90%83%29%20OR+all_dc.subject%3A%28%E9%A2%A8%E7%90%83%29%20OR+fulltext%3A%28%E9%A2%A8%E7%90%83%29%20OR+all_dc.description%3A%28%E9%A2%A8%E7%90%83%29%20%29%20%29&_coverpage_WAR_mmisportalportlet_sort_order=asc&_coverpage_WAR_mmisportalportlet_sort_field=dc.publicationdate_bsort)〉，《工商晚報》，1948年9月3日，第4頁。
 3. 〈[颶風迫香港　昨日下午三時半懸一號風球　昨夕十時廿分改懸七號風燈　預測今晨風勢加强](https://mmis.hkpl.gov.hk/coverpage/-/coverpage/view?_coverpage_WAR_mmisportalportlet_hsf=%E9%A2%A8%E7%90%83&p_r_p_-1078056564_c=QF757YsWv58JCjtBMMIqomalhkUP%2FfQc&_coverpage_WAR_mmisportalportlet_o=273&_coverpage_WAR_mmisportalportlet_actual_q=%28%20verbatim_dc.collection%3A%28%22Old%5C%20HK%5C%20Newspapers%22%29%20%29%20AND+%28%20%28%20allTermsMandatory%3A%28true%29%20OR+all_dc.title%3A%28%E9%A2%A8%E7%90%83%29%20OR+all_dc.creator%3A%28%E9%A2%A8%E7%90%83%29%20OR+all_dc.contributor%3A%28%E9%A2%A8%E7%90%83%29%20OR+all_dc.subject%3A%28%E9%A2%A8%E7%90%83%29%20OR+fulltext%3A%28%E9%A2%A8%E7%90%83%29%20OR+all_dc.description%3A%28%E9%A2%A8%E7%90%83%29%20%29%20%29&_coverpage_WAR_mmisportalportlet_sort_order=asc&_coverpage_WAR_mmisportalportlet_sort_field=dc.publicationdate_bsort)〉，《華僑日報》，1948年9月3日，第1張第4頁。
@@ -212,7 +212,7 @@ date: 2022-01-26
 1. 〈[一號風球掛出　颶風在太平洋上發現　昨晚離港二百一十哩](https://mmis.hkpl.gov.hk/coverpage/-/coverpage/view?_coverpage_WAR_mmisportalportlet_hsf=%E9%A2%A8%E7%90%83&p_r_p_-1078056564_c=QF757YsWv59H%2FuxqfBwEJGR5RFDHEFKy&_coverpage_WAR_mmisportalportlet_o=287&_coverpage_WAR_mmisportalportlet_actual_q=%28%20verbatim_dc.collection%3A%28%22Old%5C%20HK%5C%20Newspapers%22%29%20%29%20AND+%28%20%28%20allTermsMandatory%3A%28true%29%20OR+all_dc.title%3A%28%E9%A2%A8%E7%90%83%29%20OR+all_dc.creator%3A%28%E9%A2%A8%E7%90%83%29%20OR+all_dc.contributor%3A%28%E9%A2%A8%E7%90%83%29%20OR+all_dc.subject%3A%28%E9%A2%A8%E7%90%83%29%20OR+fulltext%3A%28%E9%A2%A8%E7%90%83%29%20OR+all_dc.description%3A%28%E9%A2%A8%E7%90%83%29%20%29%20%29&_coverpage_WAR_mmisportalportlet_sort_order=asc&_coverpage_WAR_mmisportalportlet_sort_field=dc.publicationdate_bsort)〉，《大公報》，1949年7月28日，第1張；第4版。
 2. 〈[昨夕天文台發出報告　颶風似不襲港　昨日午後懸一號風球](https://mmis.hkpl.gov.hk/coverpage/-/coverpage/view?_coverpage_WAR_mmisportalportlet_hsf=%E9%A2%A8%E7%90%83&p_r_p_-1078056564_c=QF757YsWv58JCjtBMMIqoved3zKJ7QKH&_coverpage_WAR_mmisportalportlet_o=288&_coverpage_WAR_mmisportalportlet_actual_q=%28%20verbatim_dc.collection%3A%28%22Old%5C%20HK%5C%20Newspapers%22%29%20%29%20AND+%28%20%28%20allTermsMandatory%3A%28true%29%20OR+all_dc.title%3A%28%E9%A2%A8%E7%90%83%29%20OR+all_dc.creator%3A%28%E9%A2%A8%E7%90%83%29%20OR+all_dc.contributor%3A%28%E9%A2%A8%E7%90%83%29%20OR+all_dc.subject%3A%28%E9%A2%A8%E7%90%83%29%20OR+fulltext%3A%28%E9%A2%A8%E7%90%83%29%20OR+all_dc.description%3A%28%E9%A2%A8%E7%90%83%29%20%29%20%29&_coverpage_WAR_mmisportalportlet_sort_order=asc&_coverpage_WAR_mmisportalportlet_sort_field=dc.publicationdate_bsort)〉，《華僑日報》，1949年7月28日，第2張第1頁。
 3. 〈[颶風威脅解除　一號風球除下](https://mmis.hkpl.gov.hk/coverpage/-/coverpage/view?_coverpage_WAR_mmisportalportlet_hsf=%E9%A2%A8%E7%90%83&p_r_p_-1078056564_c=QF757YsWv59H%2FuxqfBwEJMgha2kJmxv6&_coverpage_WAR_mmisportalportlet_o=289&_coverpage_WAR_mmisportalportlet_actual_q=%28%20verbatim_dc.collection%3A%28%22Old%5C%20HK%5C%20Newspapers%22%29%20%29%20AND+%28%20%28%20allTermsMandatory%3A%28true%29%20OR+all_dc.title%3A%28%E9%A2%A8%E7%90%83%29%20OR+all_dc.creator%3A%28%E9%A2%A8%E7%90%83%29%20OR+all_dc.contributor%3A%28%E9%A2%A8%E7%90%83%29%20OR+all_dc.subject%3A%28%E9%A2%A8%E7%90%83%29%20OR+fulltext%3A%28%E9%A2%A8%E7%90%83%29%20OR+all_dc.description%3A%28%E9%A2%A8%E7%90%83%29%20%29%20%29&_coverpage_WAR_mmisportalportlet_sort_order=asc&_coverpage_WAR_mmisportalportlet_sort_field=dc.publicationdate_bsort)〉，《大公報》，1949年7月29日，第1張；第4版。
-### 無名 No Name 1
+### 無名 Unnamed 1
 1. 〈[颶風愈來愈兇　九號風球懸出　今晨可能襲港　風球三易今晨近二時懸九號風球](https://mmis.hkpl.gov.hk/coverpage/-/coverpage/view?_coverpage_WAR_mmisportalportlet_hsf=%E9%A2%A8%E7%90%83&p_r_p_-1078056564_c=QF757YsWv58JCjtBMMIqouhMbDSCXqiI&_coverpage_WAR_mmisportalportlet_o=292&_coverpage_WAR_mmisportalportlet_actual_q=%28%20verbatim_dc.collection%3A%28%22Old%5C%20HK%5C%20Newspapers%22%29%20%29%20AND+%28%20%28%20allTermsMandatory%3A%28true%29%20OR+all_dc.title%3A%28%E9%A2%A8%E7%90%83%29%20OR+all_dc.creator%3A%28%E9%A2%A8%E7%90%83%29%20OR+all_dc.contributor%3A%28%E9%A2%A8%E7%90%83%29%20OR+all_dc.subject%3A%28%E9%A2%A8%E7%90%83%29%20OR+fulltext%3A%28%E9%A2%A8%E7%90%83%29%20OR+all_dc.description%3A%28%E9%A2%A8%E7%90%83%29%20%29%20%29&_coverpage_WAR_mmisportalportlet_sort_order=asc&_coverpage_WAR_mmisportalportlet_sort_field=dc.publicationdate_bsort)〉，《華僑日報》，1949年9月8日，第2張第1頁。
     - 風勢預測
     - 夜深警告
@@ -265,7 +265,7 @@ date: 2022-01-26
     - 颶風行踪
 17. 〈[港內外各線小輪　今日全通](https://mmis.hkpl.gov.hk/coverpage/-/coverpage/view?_coverpage_WAR_mmisportalportlet_hsf=%E9%A2%A8%E7%90%83&p_r_p_-1078056564_c=QF757YsWv58JCjtBMMIqosAJA5mciMQi&_coverpage_WAR_mmisportalportlet_o=295&_coverpage_WAR_mmisportalportlet_actual_q=%28%20verbatim_dc.collection%3A%28%22Old%5C%20HK%5C%20Newspapers%22%29%20%29%20AND+%28%20%28%20allTermsMandatory%3A%28true%29%20OR+all_dc.title%3A%28%E9%A2%A8%E7%90%83%29%20OR+all_dc.creator%3A%28%E9%A2%A8%E7%90%83%29%20OR+all_dc.contributor%3A%28%E9%A2%A8%E7%90%83%29%20OR+all_dc.subject%3A%28%E9%A2%A8%E7%90%83%29%20OR+fulltext%3A%28%E9%A2%A8%E7%90%83%29%20OR+all_dc.description%3A%28%E9%A2%A8%E7%90%83%29%20%29%20%29&_coverpage_WAR_mmisportalportlet_sort_order=asc&_coverpage_WAR_mmisportalportlet_sort_field=dc.publicationdate_bsort)〉，《華僑日報》，1949年9月9日，第2張第1頁。
 18. 〈[昨來港快車　兩班誤點](https://mmis.hkpl.gov.hk/coverpage/-/coverpage/view?_coverpage_WAR_mmisportalportlet_hsf=%E9%A2%A8%E7%90%83&p_r_p_-1078056564_c=QF757YsWv58JCjtBMMIqosAJA5mciMQi&_coverpage_WAR_mmisportalportlet_o=295&_coverpage_WAR_mmisportalportlet_actual_q=%28%20verbatim_dc.collection%3A%28%22Old%5C%20HK%5C%20Newspapers%22%29%20%29%20AND+%28%20%28%20allTermsMandatory%3A%28true%29%20OR+all_dc.title%3A%28%E9%A2%A8%E7%90%83%29%20OR+all_dc.creator%3A%28%E9%A2%A8%E7%90%83%29%20OR+all_dc.contributor%3A%28%E9%A2%A8%E7%90%83%29%20OR+all_dc.subject%3A%28%E9%A2%A8%E7%90%83%29%20OR+fulltext%3A%28%E9%A2%A8%E7%90%83%29%20OR+all_dc.description%3A%28%E9%A2%A8%E7%90%83%29%20%29%20%29&_coverpage_WAR_mmisportalportlet_sort_order=asc&_coverpage_WAR_mmisportalportlet_sort_field=dc.publicationdate_bsort)〉，《華僑日報》，1949年9月9日，第2張第1頁。
-### 無名 No Name 2
+### 無名 Unnamed 2
 1. 〈[如颶風方向不變　今午將襲港　天文台昨懸出一號風球　渡海小輪今晨可能停航](https://mmis.hkpl.gov.hk/coverpage/-/coverpage/view?_coverpage_WAR_mmisportalportlet_hsf=%E9%A2%A8%E7%90%83&p_r_p_-1078056564_c=QF757YsWv5%2Bh5KT9sfcXnOPe1a88jYrC&_coverpage_WAR_mmisportalportlet_o=296&_coverpage_WAR_mmisportalportlet_actual_q=%28%20verbatim_dc.collection%3A%28%22Old%5C%20HK%5C%20Newspapers%22%29%20%29%20AND+%28%20%28%20allTermsMandatory%3A%28true%29%20OR+all_dc.title%3A%28%E9%A2%A8%E7%90%83%29%20OR+all_dc.creator%3A%28%E9%A2%A8%E7%90%83%29%20OR+all_dc.contributor%3A%28%E9%A2%A8%E7%90%83%29%20OR+all_dc.subject%3A%28%E9%A2%A8%E7%90%83%29%20OR+fulltext%3A%28%E9%A2%A8%E7%90%83%29%20OR+all_dc.description%3A%28%E9%A2%A8%E7%90%83%29%20%29%20%29&_coverpage_WAR_mmisportalportlet_sort_order=asc&_coverpage_WAR_mmisportalportlet_sort_field=dc.publicationdate_bsort)〉，《工商日報》，1949年10月4日，第5頁。
 2. 〈[一號風球　今午除下](https://mmis.hkpl.gov.hk/coverpage/-/coverpage/view?_coverpage_WAR_mmisportalportlet_hsf=%E9%A2%A8%E7%90%83&p_r_p_-1078056564_c=QF757YsWv5%2FH7zGe%2FKF%2BFMRsR5tA0f4Q&_coverpage_WAR_mmisportalportlet_o=297&_coverpage_WAR_mmisportalportlet_actual_q=%28%20verbatim_dc.collection%3A%28%22Old%5C%20HK%5C%20Newspapers%22%29%20%29%20AND+%28%20%28%20allTermsMandatory%3A%28true%29%20OR+all_dc.title%3A%28%E9%A2%A8%E7%90%83%29%20OR+all_dc.creator%3A%28%E9%A2%A8%E7%90%83%29%20OR+all_dc.contributor%3A%28%E9%A2%A8%E7%90%83%29%20OR+all_dc.subject%3A%28%E9%A2%A8%E7%90%83%29%20OR+fulltext%3A%28%E9%A2%A8%E7%90%83%29%20OR+all_dc.description%3A%28%E9%A2%A8%E7%90%83%29%20%29%20%29&_coverpage_WAR_mmisportalportlet_sort_order=asc&_coverpage_WAR_mmisportalportlet_sort_field=dc.publicationdate_bsort)〉，《工商晚報》，1949年10月4日，第5頁。
 3. 〈[颶風吹向汕頭　本港解除威脅　一號風球昨午已除下](https://mmis.hkpl.gov.hk/coverpage/-/coverpage/view?_coverpage_WAR_mmisportalportlet_hsf=%E9%A2%A8%E7%90%83&p_r_p_-1078056564_c=QF757YsWv5%2Bh5KT9sfcXnCOauVQ2LtGr&_coverpage_WAR_mmisportalportlet_o=298&_coverpage_WAR_mmisportalportlet_actual_q=%28%20verbatim_dc.collection%3A%28%22Old%5C%20HK%5C%20Newspapers%22%29%20%29%20AND+%28%20%28%20allTermsMandatory%3A%28true%29%20OR+all_dc.title%3A%28%E9%A2%A8%E7%90%83%29%20OR+all_dc.creator%3A%28%E9%A2%A8%E7%90%83%29%20OR+all_dc.contributor%3A%28%E9%A2%A8%E7%90%83%29%20OR+all_dc.subject%3A%28%E9%A2%A8%E7%90%83%29%20OR+fulltext%3A%28%E9%A2%A8%E7%90%83%29%20OR+all_dc.description%3A%28%E9%A2%A8%E7%90%83%29%20%29%20%29&_coverpage_WAR_mmisportalportlet_sort_order=asc&_coverpage_WAR_mmisportalportlet_sort_field=dc.publicationdate_bsort)〉，《工商日報》，1949年10月5日，第5頁。
@@ -273,14 +273,14 @@ date: 2022-01-26
     - 航空交通下午恢復
     - 輪船多艘延遲到港
 4. 〈[風球解除　港九已無威脅　颶風可能襲厦](https://mmis.hkpl.gov.hk/coverpage/-/coverpage/view?_coverpage_WAR_mmisportalportlet_hsf=%E9%A2%A8%E7%90%83&p_r_p_-1078056564_c=QF757YsWv59H%2FuxqfBwEJDzVfXRlZbW0&_coverpage_WAR_mmisportalportlet_o=299&_coverpage_WAR_mmisportalportlet_actual_q=%28%20verbatim_dc.collection%3A%28%22Old%5C%20HK%5C%20Newspapers%22%29%20%29%20AND+%28%20%28%20allTermsMandatory%3A%28true%29%20OR+all_dc.title%3A%28%E9%A2%A8%E7%90%83%29%20OR+all_dc.creator%3A%28%E9%A2%A8%E7%90%83%29%20OR+all_dc.contributor%3A%28%E9%A2%A8%E7%90%83%29%20OR+all_dc.subject%3A%28%E9%A2%A8%E7%90%83%29%20OR+fulltext%3A%28%E9%A2%A8%E7%90%83%29%20OR+all_dc.description%3A%28%E9%A2%A8%E7%90%83%29%20%29%20%29&_coverpage_WAR_mmisportalportlet_sort_order=asc&_coverpage_WAR_mmisportalportlet_sort_field=dc.publicationdate_bsort)〉，《大公報》，1949年10月5日，第1張；第4版。
-### 無名 No Name 3
+### 無名 Unnamed 3
 1. 〈[今晨一號風球　海外颶風向本港推進中](https://mmis.hkpl.gov.hk/coverpage/-/coverpage/view?_coverpage_WAR_mmisportalportlet_hsf=%E9%A2%A8%E7%90%83&p_r_p_-1078056564_c=QF757YsWv5%2FH7zGe%2FKF%2BFMgGRZ%2FUUgC2&_coverpage_WAR_mmisportalportlet_o=300&_coverpage_WAR_mmisportalportlet_actual_q=%28%20verbatim_dc.collection%3A%28%22Old%5C%20HK%5C%20Newspapers%22%29%20%29%20AND+%28%20%28%20allTermsMandatory%3A%28true%29%20OR+all_dc.title%3A%28%E9%A2%A8%E7%90%83%29%20OR+all_dc.creator%3A%28%E9%A2%A8%E7%90%83%29%20OR+all_dc.contributor%3A%28%E9%A2%A8%E7%90%83%29%20OR+all_dc.subject%3A%28%E9%A2%A8%E7%90%83%29%20OR+fulltext%3A%28%E9%A2%A8%E7%90%83%29%20OR+all_dc.description%3A%28%E9%A2%A8%E7%90%83%29%20%29%20%29&_coverpage_WAR_mmisportalportlet_sort_order=asc&_coverpage_WAR_mmisportalportlet_sort_field=dc.publicationdate_bsort)〉，《工商晚報》，1949年10月22日，第2頁。
 2. 〈[昨晨從西太平洋吹來　颶風一度威脅本港　凌晨四時懸一號風球午間始除下](https://mmis.hkpl.gov.hk/coverpage/-/coverpage/view?_coverpage_WAR_mmisportalportlet_hsf=%E9%A2%A8%E7%90%83&p_r_p_-1078056564_c=QF757YsWv58JCjtBMMIqorUzsozgdTgz&_coverpage_WAR_mmisportalportlet_o=301&_coverpage_WAR_mmisportalportlet_actual_q=%28%20verbatim_dc.collection%3A%28%22Old%5C%20HK%5C%20Newspapers%22%29%20%29%20AND+%28%20%28%20allTermsMandatory%3A%28true%29%20OR+all_dc.title%3A%28%E9%A2%A8%E7%90%83%29%20OR+all_dc.creator%3A%28%E9%A2%A8%E7%90%83%29%20OR+all_dc.contributor%3A%28%E9%A2%A8%E7%90%83%29%20OR+all_dc.subject%3A%28%E9%A2%A8%E7%90%83%29%20OR+fulltext%3A%28%E9%A2%A8%E7%90%83%29%20OR+all_dc.description%3A%28%E9%A2%A8%E7%90%83%29%20%29%20%29&_coverpage_WAR_mmisportalportlet_sort_order=asc&_coverpage_WAR_mmisportalportlet_sort_field=dc.publicationdate_bsort)〉，《華僑日報》，1949年10月23日，第2張第1頁。
 3. 〈[颶風掠過港南　風球昨除下](https://mmis.hkpl.gov.hk/coverpage/-/coverpage/view?_coverpage_WAR_mmisportalportlet_hsf=%E9%A2%A8%E7%90%83&p_r_p_-1078056564_c=QF757YsWv5%2Bh5KT9sfcXnPgorHUhZwiq&_coverpage_WAR_mmisportalportlet_o=302&_coverpage_WAR_mmisportalportlet_actual_q=%28%20verbatim_dc.collection%3A%28%22Old%5C%20HK%5C%20Newspapers%22%29%20%29%20AND+%28%20%28%20allTermsMandatory%3A%28true%29%20OR+all_dc.title%3A%28%E9%A2%A8%E7%90%83%29%20OR+all_dc.creator%3A%28%E9%A2%A8%E7%90%83%29%20OR+all_dc.contributor%3A%28%E9%A2%A8%E7%90%83%29%20OR+all_dc.subject%3A%28%E9%A2%A8%E7%90%83%29%20OR+fulltext%3A%28%E9%A2%A8%E7%90%83%29%20OR+all_dc.description%3A%28%E9%A2%A8%E7%90%83%29%20%29%20%29&_coverpage_WAR_mmisportalportlet_sort_order=asc&_coverpage_WAR_mmisportalportlet_sort_field=dc.publicationdate_bsort)〉，《工商日報》，1949年10月23日，第6頁。
 ## 1950年
-### 無名 No Name 1
+### 無名 Unnamed 1
 - 待查
-### 無名 No Name 2
+### 無名 Unnamed 2
 1. 〈[今年首次出現風球　昨在南方海面發現一股颶風　已向西方吹去不會進襲香港](https://mmis.hkpl.gov.hk/coverpage/-/coverpage/view?_coverpage_WAR_mmisportalportlet_hsf=%E9%A2%A8%E7%90%83&p_r_p_-1078056564_c=QF757YsWv59H%2FuxqfBwEJIMEkXvfRx%2FK&_coverpage_WAR_mmisportalportlet_o=307&_coverpage_WAR_mmisportalportlet_actual_q=%28%20verbatim_dc.collection%3A%28%22Old%5C%20HK%5C%20Newspapers%22%29%20%29%20AND+%28%20%28%20allTermsMandatory%3A%28true%29%20OR+all_dc.title%3A%28%E9%A2%A8%E7%90%83%29%20OR+all_dc.creator%3A%28%E9%A2%A8%E7%90%83%29%20OR+all_dc.contributor%3A%28%E9%A2%A8%E7%90%83%29%20OR+all_dc.subject%3A%28%E9%A2%A8%E7%90%83%29%20OR+fulltext%3A%28%E9%A2%A8%E7%90%83%29%20OR+all_dc.description%3A%28%E9%A2%A8%E7%90%83%29%20%29%20%29&_coverpage_WAR_mmisportalportlet_sort_order=asc&_coverpage_WAR_mmisportalportlet_sort_field=dc.publicationdate_bsort)〉，《大公報》，1950年7月27日，第1張；第4版。
 2. 〈[昨懸一號風球　颶風在港南二百哩　英空軍曾派機觀測](https://mmis.hkpl.gov.hk/coverpage/-/coverpage/view?_coverpage_WAR_mmisportalportlet_hsf=%E9%A2%A8%E7%90%83&p_r_p_-1078056564_c=QF757YsWv5%2Bh5KT9sfcXnFX4aor3bdCX&_coverpage_WAR_mmisportalportlet_o=306&_coverpage_WAR_mmisportalportlet_actual_q=%28%20verbatim_dc.collection%3A%28%22Old%5C%20HK%5C%20Newspapers%22%29%20%29%20AND+%28%20%28%20allTermsMandatory%3A%28true%29%20OR+all_dc.title%3A%28%E9%A2%A8%E7%90%83%29%20OR+all_dc.creator%3A%28%E9%A2%A8%E7%90%83%29%20OR+all_dc.contributor%3A%28%E9%A2%A8%E7%90%83%29%20OR+all_dc.subject%3A%28%E9%A2%A8%E7%90%83%29%20OR+fulltext%3A%28%E9%A2%A8%E7%90%83%29%20OR+all_dc.description%3A%28%E9%A2%A8%E7%90%83%29%20%29%20%29&_coverpage_WAR_mmisportalportlet_sort_order=asc&_coverpage_WAR_mmisportalportlet_sort_field=dc.publicationdate_bsort)〉，《工商日報》，1950年7月27日，第5頁。
 3. 〈[今晨仍懸一號風球　颶風中心稍向西移](https://mmis.hkpl.gov.hk/coverpage/-/coverpage/view?_coverpage_WAR_mmisportalportlet_hsf=%E9%A2%A8%E7%90%83&p_r_p_-1078056564_c=QF757YsWv5%2FH7zGe%2FKF%2BFK9cmCBg5DOd&_coverpage_WAR_mmisportalportlet_o=305&_coverpage_WAR_mmisportalportlet_actual_q=%28%20verbatim_dc.collection%3A%28%22Old%5C%20HK%5C%20Newspapers%22%29%20%29%20AND+%28%20%28%20allTermsMandatory%3A%28true%29%20OR+all_dc.title%3A%28%E9%A2%A8%E7%90%83%29%20OR+all_dc.creator%3A%28%E9%A2%A8%E7%90%83%29%20OR+all_dc.contributor%3A%28%E9%A2%A8%E7%90%83%29%20OR+all_dc.subject%3A%28%E9%A2%A8%E7%90%83%29%20OR+fulltext%3A%28%E9%A2%A8%E7%90%83%29%20OR+all_dc.description%3A%28%E9%A2%A8%E7%90%83%29%20%29%20%29&_coverpage_WAR_mmisportalportlet_sort_order=asc&_coverpage_WAR_mmisportalportlet_sort_field=dc.publicationdate_bsort)〉，《工商晚報》，1950年7月27日，第4頁。
@@ -292,7 +292,7 @@ date: 2022-01-26
     - 海面交通如常
     - 澳亦曾懸風球
 8. 〈[一號風球　昨午除下](https://mmis.hkpl.gov.hk/coverpage/-/coverpage/view?_coverpage_WAR_mmisportalportlet_hsf=%E9%A2%A8%E7%90%83&p_r_p_-1078056564_c=QF757YsWv5%2Bh5KT9sfcXnL2%2BAkdSjXd0&_coverpage_WAR_mmisportalportlet_o=312&_coverpage_WAR_mmisportalportlet_actual_q=%28%20verbatim_dc.collection%3A%28%22Old%5C%20HK%5C%20Newspapers%22%29%20%29%20AND+%28%20%28%20allTermsMandatory%3A%28true%29%20OR+all_dc.title%3A%28%E9%A2%A8%E7%90%83%29%20OR+all_dc.creator%3A%28%E9%A2%A8%E7%90%83%29%20OR+all_dc.contributor%3A%28%E9%A2%A8%E7%90%83%29%20OR+all_dc.subject%3A%28%E9%A2%A8%E7%90%83%29%20OR+fulltext%3A%28%E9%A2%A8%E7%90%83%29%20OR+all_dc.description%3A%28%E9%A2%A8%E7%90%83%29%20%29%20%29&_coverpage_WAR_mmisportalportlet_sort_order=asc&_coverpage_WAR_mmisportalportlet_sort_field=dc.publicationdate_bsort)〉，《工商日報》，1950年7月28日，第5頁。
-### 無名 No Name 3
+### 無名 Unnamed 3
 - 待查
 ### 奧西亞 Ossia
 1. 〈[颶風進入中國海　今日可能襲港　預料下午或轉吹暴風　昨日下午懸一號風球](https://mmis.hkpl.gov.hk/coverpage/-/coverpage/view?_coverpage_WAR_mmisportalportlet_hsf=%E9%A2%A8%E7%90%83&p_r_p_-1078056564_c=QF757YsWv5%2Bh5KT9sfcXnPMFvYIsnPCw&_coverpage_WAR_mmisportalportlet_o=312&_coverpage_WAR_mmisportalportlet_actual_q=%28%20verbatim_dc.collection%3A%28%22Old%5C%20HK%5C%20Newspapers%22%29%20%29%20AND+%28%20%28%20allTermsMandatory%3A%28true%29%20OR+all_dc.title%3A%28%E9%A2%A8%E7%90%83%29%20OR+all_dc.creator%3A%28%E9%A2%A8%E7%90%83%29%20OR+all_dc.contributor%3A%28%E9%A2%A8%E7%90%83%29%20OR+all_dc.subject%3A%28%E9%A2%A8%E7%90%83%29%20OR+fulltext%3A%28%E9%A2%A8%E7%90%83%29%20OR+all_dc.description%3A%28%E9%A2%A8%E7%90%83%29%20%29%20%29&_coverpage_WAR_mmisportalportlet_sort_order=asc&_coverpage_WAR_mmisportalportlet_sort_field=dc.publicationdate_bsort)〉，《工商日報》，1950年10月3日，第5頁。
@@ -351,10 +351,10 @@ date: 2022-01-26
     - 吹向海南
 22. 〈[颶風影響居民生活](https://mmis.hkpl.gov.hk/coverpage/-/coverpage/view?_coverpage_WAR_mmisportalportlet_hsf=%E9%A2%A8%E7%90%83&p_r_p_-1078056564_c=QF757YsWv58JCjtBMMIqohrnD8xVFAN6&_coverpage_WAR_mmisportalportlet_o=322&_coverpage_WAR_mmisportalportlet_actual_q=%28%20verbatim_dc.collection%3A%28%22Old%5C%20HK%5C%20Newspapers%22%29%20%29%20AND+%28%20%28%20allTermsMandatory%3A%28true%29%20OR+all_dc.title%3A%28%E9%A2%A8%E7%90%83%29%20OR+all_dc.creator%3A%28%E9%A2%A8%E7%90%83%29%20OR+all_dc.contributor%3A%28%E9%A2%A8%E7%90%83%29%20OR+all_dc.subject%3A%28%E9%A2%A8%E7%90%83%29%20OR+fulltext%3A%28%E9%A2%A8%E7%90%83%29%20OR+all_dc.description%3A%28%E9%A2%A8%E7%90%83%29%20%29%20%29&_coverpage_WAR_mmisportalportlet_sort_order=asc&_coverpage_WAR_mmisportalportlet_sort_field=dc.publicationdate_bsort)〉，《華僑日報》，1950年10月6日，第2張第1頁。
 23. 〈[昨日颶風侵襲港九海陸各方情形攝影](https://mmis.hkpl.gov.hk/coverpage/-/coverpage/view?_coverpage_WAR_mmisportalportlet_hsf=%E9%A2%A8%E7%90%83&p_r_p_-1078056564_c=QF757YsWv58JCjtBMMIqohrnD8xVFAN6&_coverpage_WAR_mmisportalportlet_o=322&_coverpage_WAR_mmisportalportlet_actual_q=%28%20verbatim_dc.collection%3A%28%22Old%5C%20HK%5C%20Newspapers%22%29%20%29%20AND+%28%20%28%20allTermsMandatory%3A%28true%29%20OR+all_dc.title%3A%28%E9%A2%A8%E7%90%83%29%20OR+all_dc.creator%3A%28%E9%A2%A8%E7%90%83%29%20OR+all_dc.contributor%3A%28%E9%A2%A8%E7%90%83%29%20OR+all_dc.subject%3A%28%E9%A2%A8%E7%90%83%29%20OR+fulltext%3A%28%E9%A2%A8%E7%90%83%29%20OR+all_dc.description%3A%28%E9%A2%A8%E7%90%83%29%20%29%20%29&_coverpage_WAR_mmisportalportlet_sort_order=asc&_coverpage_WAR_mmisportalportlet_sort_field=dc.publicationdate_bsort)〉，《華僑日報》，1950年10月6日，第2張第1頁。（注：新聞照片。）
-### 無名 No Name 4
+### 無名 Unnamed 4
 - 待查。
 ## 1951年
-### 無名 No Name 1
+### 無名 Unnamed 1
 1. 〈[八號風球除下　颶風吹去粵南　風力中心曾一度接近本港　本港對外交通昨因風停頓](https://mmis.hkpl.gov.hk/coverpage/-/coverpage/view?_coverpage_WAR_mmisportalportlet_hsf=%E9%A2%A8%E7%90%83&p_r_p_-1078056564_c=QF757YsWv5%2BZh7v7hMb5iU3CiEdB4qi5&_coverpage_WAR_mmisportalportlet_o=324&_coverpage_WAR_mmisportalportlet_actual_q=%28%20verbatim_dc.collection%3A%28%22Old%5C%20HK%5C%20Newspapers%22%29%20%29%20AND+%28%20%28%20allTermsMandatory%3A%28true%29%20OR+all_dc.title%3A%28%E9%A2%A8%E7%90%83%29%20OR+all_dc.creator%3A%28%E9%A2%A8%E7%90%83%29%20OR+all_dc.contributor%3A%28%E9%A2%A8%E7%90%83%29%20OR+all_dc.subject%3A%28%E9%A2%A8%E7%90%83%29%20OR+fulltext%3A%28%E9%A2%A8%E7%90%83%29%20OR+all_dc.description%3A%28%E9%A2%A8%E7%90%83%29%20%29%20%29&_coverpage_WAR_mmisportalportlet_sort_order=asc&_coverpage_WAR_mmisportalportlet_sort_field=dc.publicationdate_bsort)〉，《工商日報》，1951年5月14日，第4頁。
     - 颶風位於海南附近
     - 風力中心接近本港
@@ -374,7 +374,7 @@ date: 2022-01-26
     - 兩艇沉沒小火虛驚
     - 意外事件發生多起
 4. 〈[澳門一度懸出八號風球示警](https://mmis.hkpl.gov.hk/coverpage/-/coverpage/view?_coverpage_WAR_mmisportalportlet_hsf=%E9%A2%A8%E7%90%83&p_r_p_-1078056564_c=QF757YsWv5%2BZh7v7hMb5ifsouyQsiRfE&_coverpage_WAR_mmisportalportlet_o=326&_coverpage_WAR_mmisportalportlet_actual_q=%28%20verbatim_dc.collection%3A%28%22Old%5C%20HK%5C%20Newspapers%22%29%20%29%20AND+%28%20%28%20allTermsMandatory%3A%28true%29%20OR+all_dc.title%3A%28%E9%A2%A8%E7%90%83%29%20OR+all_dc.creator%3A%28%E9%A2%A8%E7%90%83%29%20OR+all_dc.contributor%3A%28%E9%A2%A8%E7%90%83%29%20OR+all_dc.subject%3A%28%E9%A2%A8%E7%90%83%29%20OR+fulltext%3A%28%E9%A2%A8%E7%90%83%29%20OR+all_dc.description%3A%28%E9%A2%A8%E7%90%83%29%20%29%20%29&_coverpage_WAR_mmisportalportlet_sort_order=asc&_coverpage_WAR_mmisportalportlet_sort_field=dc.publicationdate_bsort)〉，《工商日報》，1951年5月15日，第7頁。
-### 無名 No Name 2
+### 無名 Unnamed 2
 1. 〈[颶風威脅解除了　八號風球除下掛了七個鐘頭　艇隻走避一空港海白浪滔滔　客輪吹上沙灘　玻璃打傷五人](https://mmis.hkpl.gov.hk/coverpage/-/coverpage/view?_coverpage_WAR_mmisportalportlet_hsf=%E9%A2%A8%E7%90%83&p_r_p_-1078056564_c=QF757YsWv59H%2FuxqfBwEJJT6ua27uOy%2B&_coverpage_WAR_mmisportalportlet_o=327&_coverpage_WAR_mmisportalportlet_actual_q=%28%20verbatim_dc.collection%3A%28%22Old%5C%20HK%5C%20Newspapers%22%29%20%29%20AND+%28%20%28%20allTermsMandatory%3A%28true%29%20OR+all_dc.title%3A%28%E9%A2%A8%E7%90%83%29%20OR+all_dc.creator%3A%28%E9%A2%A8%E7%90%83%29%20OR+all_dc.contributor%3A%28%E9%A2%A8%E7%90%83%29%20OR+all_dc.subject%3A%28%E9%A2%A8%E7%90%83%29%20OR+fulltext%3A%28%E9%A2%A8%E7%90%83%29%20OR+all_dc.description%3A%28%E9%A2%A8%E7%90%83%29%20%29%20%29&_coverpage_WAR_mmisportalportlet_sort_order=asc&_coverpage_WAR_mmisportalportlet_sort_field=dc.publicationdate_bsort)〉，《大公報》，1951年6月20日，第1張；第4版。（注：附圖片說明。）
 2. 〈[昨日下午懸出八號風球　昨晚十一時已除下　本港一度戒備　颶風吹向粵南](https://mmis.hkpl.gov.hk/coverpage/-/coverpage/view?_coverpage_WAR_mmisportalportlet_hsf=%E9%A2%A8%E7%90%83&p_r_p_-1078056564_c=QF757YsWv5%2BZh7v7hMb5ibkWRyFh676K&_coverpage_WAR_mmisportalportlet_o=328&_coverpage_WAR_mmisportalportlet_actual_q=%28%20verbatim_dc.collection%3A%28%22Old%5C%20HK%5C%20Newspapers%22%29%20%29%20AND+%28%20%28%20allTermsMandatory%3A%28true%29%20OR+all_dc.title%3A%28%E9%A2%A8%E7%90%83%29%20OR+all_dc.creator%3A%28%E9%A2%A8%E7%90%83%29%20OR+all_dc.contributor%3A%28%E9%A2%A8%E7%90%83%29%20OR+all_dc.subject%3A%28%E9%A2%A8%E7%90%83%29%20OR+fulltext%3A%28%E9%A2%A8%E7%90%83%29%20OR+all_dc.description%3A%28%E9%A2%A8%E7%90%83%29%20%29%20%29&_coverpage_WAR_mmisportalportlet_sort_order=asc&_coverpage_WAR_mmisportalportlet_sort_field=dc.publicationdate_bsort)〉，《工商日報》，1951年6月20日，第5頁。
     - 下午四時八號風球
@@ -385,47 +385,47 @@ date: 2022-01-26
 3. 〈[昨日灣仔譚臣道　大風吹跌玻璃　壓傷避雨途人](https://mmis.hkpl.gov.hk/coverpage/-/coverpage/view?_coverpage_WAR_mmisportalportlet_hsf=%E9%A2%A8%E7%90%83&p_r_p_-1078056564_c=QF757YsWv5%2BZh7v7hMb5ibkWRyFh676K&_coverpage_WAR_mmisportalportlet_o=328&_coverpage_WAR_mmisportalportlet_actual_q=%28%20verbatim_dc.collection%3A%28%22Old%5C%20HK%5C%20Newspapers%22%29%20%29%20AND+%28%20%28%20allTermsMandatory%3A%28true%29%20OR+all_dc.title%3A%28%E9%A2%A8%E7%90%83%29%20OR+all_dc.creator%3A%28%E9%A2%A8%E7%90%83%29%20OR+all_dc.contributor%3A%28%E9%A2%A8%E7%90%83%29%20OR+all_dc.subject%3A%28%E9%A2%A8%E7%90%83%29%20OR+fulltext%3A%28%E9%A2%A8%E7%90%83%29%20OR+all_dc.description%3A%28%E9%A2%A8%E7%90%83%29%20%29%20%29&_coverpage_WAR_mmisportalportlet_sort_order=asc&_coverpage_WAR_mmisportalportlet_sort_field=dc.publicationdate_bsort)〉，《工商日報》，1951年6月20日，第5頁。
 ### 露爾斯 Louise
 1. 〈[颶風威脅本港　一號風球懸出　天氣受影響昨日最炎熱](https://mmis.hkpl.gov.hk/coverpage/-/coverpage/view?_coverpage_WAR_mmisportalportlet_hsf=%E9%A2%A8%E7%90%83&p_r_p_-1078056564_c=QF757YsWv5%2FH7zGe%2FKF%2BFFd46lnepC2H&_coverpage_WAR_mmisportalportlet_o=329&_coverpage_WAR_mmisportalportlet_actual_q=%28%20verbatim_dc.collection%3A%28%22Old%5C%20HK%5C%20Newspapers%22%29%20%29%20AND+%28%20%28%20allTermsMandatory%3A%28true%29%20OR+all_dc.title%3A%28%E9%A2%A8%E7%90%83%29%20OR+all_dc.creator%3A%28%E9%A2%A8%E7%90%83%29%20OR+all_dc.contributor%3A%28%E9%A2%A8%E7%90%83%29%20OR+all_dc.subject%3A%28%E9%A2%A8%E7%90%83%29%20OR+fulltext%3A%28%E9%A2%A8%E7%90%83%29%20OR+all_dc.description%3A%28%E9%A2%A8%E7%90%83%29%20%29%20%29&_coverpage_WAR_mmisportalportlet_sort_order=asc&_coverpage_WAR_mmisportalportlet_sort_field=dc.publicationdate_bsort)〉，《工商晚報》，1951年7月31日，第4頁。
-### 無名 No Name 3
-### 無名 No Name 4
+### 無名 Unnamed 3
+### 無名 Unnamed 4
 ### 奧娜 Ora
 ### 帕特 Pat
 ## 1952年
 ### 夏綠蒂 Charlotte
 ### 愛瑪 Emma
 ### 夏麗 Harriet
-### 無名 No Name 1
-### 無名 No Name 2
+### 無名 Unnamed 1
+### 無名 Unnamed 2
 ### 洛伊斯 Lois
 ### 諾娜 Nona
-### 無名 No Name 3
-### 無名 No Name 4
+### 無名 Unnamed 3
+### 無名 Unnamed 4
 ## 1953年
-### 無名 No Name 1
+### 無名 Unnamed 1
 ### 奧菲莉亞 Ophelia
 ### 麗妲 Rita
 ### 蘇姍 Susan
-### 無名 No Name 2
+### 無名 Unnamed 2
 ### 比蒂 Betty
 ## 1954年
 ### 愛茜 Elsie
-### 無名 No Name 1
+### 無名 Unnamed 1
 ### 艾黛 Ida
-### 無名 No Name 2
+### 無名 Unnamed 2
 ### 蘭茜 Nancy
 ### 柏美娜 Pamela
 ### 露比 Ruby
 ## 1955年
-### 無名 No Name 1
-### 無名 No Name 2
+### 無名 Unnamed 1
+### 無名 Unnamed 2
 ### 姬蒂 Kate
 ## 1956年
-### 無名 No Name 1
+### 無名 Unnamed 1
 ### 維娜 Vera
-### 無名 No Name 2
+### 無名 Unnamed 2
 ### 夏綠蒂 Charlotte
 ### 珍妮 Jean
 ## 1957年
-### 無名 No Name 1
+### 無名 Unnamed 1
 ### 芸蒂 Wendy
 <!--關鍵詞：溫黛-->
 1. 〈[菲律賓東南洋面　颶風溫黛小姐　向西北偏西吹　時速十浬本港已予警戒](https://mmis.hkpl.gov.hk/coverpage/-/coverpage/view?_coverpage_WAR_mmisportalportlet_hsf=%E6%BA%AB%E9%BB%9B&p_r_p_-1078056564_c=QF757YsWv59a9PNz3lScYvQb6LSCvVRR&_coverpage_WAR_mmisportalportlet_o=0&_coverpage_WAR_mmisportalportlet_actual_q=%28%20verbatim_dc.collection%3A%28%22Old%5C%20HK%5C%20Newspapers%22%29%20%29%20AND+%28%20%28%20allTermsMandatory%3A%28true%29%20OR+all_dc.title%3A%28%E6%BA%AB%E9%BB%9B%29%20OR+all_dc.creator%3A%28%E6%BA%AB%E9%BB%9B%29%20OR+all_dc.contributor%3A%28%E6%BA%AB%E9%BB%9B%29%20OR+all_dc.subject%3A%28%E6%BA%AB%E9%BB%9B%29%20OR+fulltext%3A%28%E6%BA%AB%E9%BB%9B%29%20OR+all_dc.description%3A%28%E6%BA%AB%E9%BB%9B%29%20%29%20%29&_coverpage_WAR_mmisportalportlet_sort_order=asc&_coverpage_WAR_mmisportalportlet_sort_field=dc.publicationdate_bsort)〉，《工商日報》，1957年7月14日，第5頁。
@@ -483,24 +483,24 @@ date: 2022-01-26
 25. 〈[颶風溫黛在菲島　造成空前大災害　千人失踪難民三萬無家可歸　居民七萬五千面臨嚴重糧荒](https://mmis.hkpl.gov.hk/coverpage/-/coverpage/view?_coverpage_WAR_mmisportalportlet_hsf=%E6%BA%AB%E9%BB%9B&p_r_p_-1078056564_c=QF757YsWv59a9PNz3lScYr0nYUFP04g%2B&_coverpage_WAR_mmisportalportlet_o=11&_coverpage_WAR_mmisportalportlet_actual_q=%28%20verbatim_dc.collection%3A%28%22Old%5C%20HK%5C%20Newspapers%22%29%20%29%20AND+%28%20%28%20allTermsMandatory%3A%28true%29%20OR+all_dc.title%3A%28%E6%BA%AB%E9%BB%9B%29%20OR+all_dc.creator%3A%28%E6%BA%AB%E9%BB%9B%29%20OR+all_dc.contributor%3A%28%E6%BA%AB%E9%BB%9B%29%20OR+all_dc.subject%3A%28%E6%BA%AB%E9%BB%9B%29%20OR+fulltext%3A%28%E6%BA%AB%E9%BB%9B%29%20OR+all_dc.description%3A%28%E6%BA%AB%E9%BB%9B%29%20%29%20%29&_coverpage_WAR_mmisportalportlet_sort_order=asc&_coverpage_WAR_mmisportalportlet_sort_field=dc.publicationdate_bsort)〉，《工商日報》，1957年7月18日，第2頁。
 26. 〈[溫黛小姐過港　帶走萬元杉木](https://mmis.hkpl.gov.hk/coverpage/-/coverpage/view?_coverpage_WAR_mmisportalportlet_hsf=%E6%BA%AB%E9%BB%9B&p_r_p_-1078056564_c=QF757YsWv5%2FH7zGe%2FKF%2BFOFQJT8NXb5n&_coverpage_WAR_mmisportalportlet_o=12&_coverpage_WAR_mmisportalportlet_actual_q=%28%20verbatim_dc.collection%3A%28%22Old%5C%20HK%5C%20Newspapers%22%29%20%29%20AND+%28%20%28%20allTermsMandatory%3A%28true%29%20OR+all_dc.title%3A%28%E6%BA%AB%E9%BB%9B%29%20OR+all_dc.creator%3A%28%E6%BA%AB%E9%BB%9B%29%20OR+all_dc.contributor%3A%28%E6%BA%AB%E9%BB%9B%29%20OR+all_dc.subject%3A%28%E6%BA%AB%E9%BB%9B%29%20OR+fulltext%3A%28%E6%BA%AB%E9%BB%9B%29%20OR+all_dc.description%3A%28%E6%BA%AB%E9%BB%9B%29%20%29%20%29&_coverpage_WAR_mmisportalportlet_sort_order=asc&_coverpage_WAR_mmisportalportlet_sort_field=dc.publicationdate_bsort)〉，《華僑日報》，1957年7月22日，第2張第2頁。
 
-### 無名 No Name 2
-### 無名 No Name 3
+### 無名 Unnamed 2
+### 無名 Unnamed 3
 ### 嘉曼 Carmen 
 ### 姬羅莉亞 Gloria
-### 無名 No Name 4
+### 無名 Unnamed 4
 ## 1958年
-### 無名 No Name 1
-### 無名 No Name 2
-### 無名 No Name 3
-### 無名 No Name 4
-### 無名 No Name 5
+### 無名 Unnamed 1
+### 無名 Unnamed 2
+### 無名 Unnamed 3
+### 無名 Unnamed 4
+### 無名 Unnamed 5
 ## 1959年
 ### 葦黛 Wilda
 ### 娜拉 Nora
 ## 1960年
 ### 瑪麗 Mary
 ### 奧麗芙 Olive
-### 無名 No Name
+### 無名 Unnamed
 ### 戴莉斯 Trix
 ### 愛娜斯 Agnes
 ### 伊蘭 Elaine
@@ -515,7 +515,7 @@ date: 2022-01-26
 ### 奧嘉 Olga
 ### 莎莉 Sally
 ## 1962年
-### 無名 No Name
+### 無名 Unnamed
 ### 姬蒂 Kate
 ### 溫黛 Wanda
 <!--關鍵詞：溫黛-->
@@ -752,12 +752,12 @@ date: 2022-01-26
 ### 伊蘭 Elaine
 ## 1969年
 ### 維奧娜 Viola
-### 無名 No Name
+### 無名 Unnamed
 ### 愛茜 Elsie
 ### 霍蘿茜 Flossie
 ## 1970年
 ### 露比 Ruby
-### 無名 No Name
+### 無名 Unnamed
 ### 維奧莉 Violet
 ### 喬治亞 Georgia
 ### 愛莉斯 Iris
@@ -773,7 +773,7 @@ date: 2022-01-26
 ### 黛娜 Della
 ### 伊蘭 Elaine
 ## 1972年
-### 無名 No Name
+### 無名 Unnamed
 ### 奧娜 Ora
 ### 蘇姍 Susan
 ### 柯娜 Cora
@@ -789,7 +789,7 @@ date: 2022-01-26
 ### 娜拉 Nora
 ### 露芙 Ruth
 ## 1974年
-### 無名 No Name
+### 無名 Unnamed
 ### 戴娜 Dinah
 ### 艾菲 Ivy
 ### 戴莉斯 Trix
@@ -801,8 +801,8 @@ date: 2022-01-26
 ### 姬羅莉亞 Gloria
 ### 艾瑪 Irma
 ## 1975年
-### 無名 No Name 1
-### 無名 No Name 2
+### 無名 Unnamed 1
+### 無名 Unnamed 2
 ### 愛麗斯 Alice
 ### 比蒂 Betty
 ### 桃麗斯 Doris
@@ -816,7 +816,7 @@ date: 2022-01-26
 ### 愛莉斯 Iris
 ## 1977年
 ### 露芙 Ruth
-### 無名 No Name
+### 無名 Unnamed
 ### 莎娜 Sarah
 ### 黛瑪 Thelma
 ### 愛媚 Amy
@@ -835,17 +835,17 @@ date: 2022-01-26
 ### 艾利斯 Ellis
 ### 戈登 Gordon
 ### 荷貝 Hope
-### 無名 No Name
+### 無名 Unnamed
 ### 蘭茜 Nancy
 ### 麥克 Mac
 ## 1980年
 ### 喬治亞 Georgia
 ### 赫伯特 Herbert
 ### 艾黛 Ida
-### 無名 No Name 1
+### 無名 Unnamed 1
 ### 喬伊 Joe
 ### 甘茵 Kim
-### 無名 No Name 2
+### 無名 Unnamed 2
 ### 露芙 Ruth
 ### 珀西 Percy
 ### 卡里 Cary
@@ -877,14 +877,14 @@ date: 2022-01-26
 ### 艾克 Ike
 ## 1985年
 ### 哈爾 Hal
-### 無名 No Name
+### 無名 Unnamed
 ### 戴絲 Tess
 ### 華爾 Val
 ### 黛蒂 Dot
 ## 1986年
 ### 蓓姬 Peggy
-### 無名 No Name 1
-### 無名 No Name 2
+### 無名 Unnamed 1
+### 無名 Unnamed 2
 ### 韋恩 Wayne
 ### 愛倫 Ellen
 ## 1987年

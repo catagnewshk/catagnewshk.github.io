@@ -1,1 +1,14 @@
-export const data = JSON.parse("{\"key\":\"v-d59ede6e\",\"path\":\"/nature/drought.html\",\"title\":\"旱災\",\"lang\":\"zh-TW\",\"frontmatter\":{\"lang\":\"zh-TW\",\"title\":\"旱災\",\"description\":\"香港新聞報道，自然災害，天災，旱災。\",\"author\":false,\"date\":\"2022-01-26T00:00:00.000Z\",\"category\":[\"自然\"],\"head\":[[\"meta\",{\"property\":\"og:url\",\"content\":\"https://newshk.github.io/nature/drought.html\"}],[\"meta\",{\"property\":\"og:site_name\",\"content\":\"香港新聞類編\"}],[\"meta\",{\"property\":\"og:title\",\"content\":\"旱災\"}],[\"meta\",{\"property\":\"og:description\",\"content\":\"香港新聞報道，自然災害，天災，旱災。\"}],[\"meta\",{\"property\":\"og:type\",\"content\":\"article\"}],[\"meta\",{\"property\":\"og:updated_time\",\"content\":\"2022-08-24T06:00:50.000Z\"}],[\"meta\",{\"property\":\"og:locale\",\"content\":\"zh-TW\"}],[\"meta\",{\"property\":\"article:published_time\",\"content\":\"2022-01-26T00:00:00.000Z\"}],[\"meta\",{\"property\":\"article:modified_time\",\"content\":\"2022-08-24T06:00:50.000Z\"}]]},\"excerpt\":\"\",\"headers\":[],\"git\":{\"createdTime\":1661320850000,\"updatedTime\":1661320850000,\"contributors\":[{\"name\":\"NGKINCHUNG\",\"email\":\"archaeology.cn@outlook.com\",\"commits\":1}]},\"readingTime\":{\"minutes\":0.11,\"words\":32},\"filePathRelative\":\"nature/drought.md\",\"localizedDate\":\"2022年1月26日\"}")
+export const data = JSON.parse("{\"key\":\"v-d59ede6e\",\"path\":\"/nature/drought.html\",\"title\":\"旱災\",\"lang\":\"zh-TW\",\"frontmatter\":{\"lang\":\"zh-TW\",\"title\":\"旱災\",\"description\":\"香港新聞報道，自然災害，天災，旱災。\",\"author\":false,\"date\":\"2022-01-26T00:00:00.000Z\",\"category\":[\"自然\"],\"head\":[[\"meta\",{\"property\":\"og:url\",\"content\":\"https://newshk.github.io/nature/drought.html\"}],[\"meta\",{\"property\":\"og:site_name\",\"content\":\"香港新聞類編\"}],[\"meta\",{\"property\":\"og:title\",\"content\":\"旱災\"}],[\"meta\",{\"property\":\"og:description\",\"content\":\"香港新聞報道，自然災害，天災，旱災。\"}],[\"meta\",{\"property\":\"og:type\",\"content\":\"article\"}],[\"meta\",{\"property\":\"og:locale\",\"content\":\"zh-TW\"}],[\"meta\",{\"property\":\"article:published_time\",\"content\":\"2022-01-26T00:00:00.000Z\"}]]},\"excerpt\":\"\",\"headers\":[],\"readingTime\":{\"minutes\":0.11,\"words\":32},\"filePathRelative\":\"nature/drought.md\",\"localizedDate\":\"2022年1月26日\"}")
+
+if (import.meta.webpackHot) {
+  import.meta.webpackHot.accept()
+  if (__VUE_HMR_RUNTIME__.updatePageData) {
+    __VUE_HMR_RUNTIME__.updatePageData(data)
+  }
+}
+
+if (import.meta.hot) {
+  import.meta.hot.accept(({ data }) => {
+    __VUE_HMR_RUNTIME__.updatePageData(data)
+  })
+}
