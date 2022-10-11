@@ -45,6 +45,12 @@ export const pagesComponents = {
   "v-2c435f90": defineAsyncComponent(() => import(/* webpackChunkName: "v-2c435f90" */"/Users/ngkinchung/Documents/GitHub/newshk.github.io/docs/.vuepress/.temp/pages/charity/index.html.vue")),
   // path: /charity/relief.html
   "v-42d0ae58": defineAsyncComponent(() => import(/* webpackChunkName: "v-42d0ae58" */"/Users/ngkinchung/Documents/GitHub/newshk.github.io/docs/.vuepress/.temp/pages/charity/relief.html.vue")),
+  // path: /communication/
+  "v-80d6135c": defineAsyncComponent(() => import(/* webpackChunkName: "v-80d6135c" */"/Users/ngkinchung/Documents/GitHub/newshk.github.io/docs/.vuepress/.temp/pages/communication/index.html.vue")),
+  // path: /communication/radio.html
+  "v-6e77ace0": defineAsyncComponent(() => import(/* webpackChunkName: "v-6e77ace0" */"/Users/ngkinchung/Documents/GitHub/newshk.github.io/docs/.vuepress/.temp/pages/communication/radio.html.vue")),
+  // path: /communication/telephone.html
+  "v-e63623b2": defineAsyncComponent(() => import(/* webpackChunkName: "v-e63623b2" */"/Users/ngkinchung/Documents/GitHub/newshk.github.io/docs/.vuepress/.temp/pages/communication/telephone.html.vue")),
   // path: /culture/cantonese-opera.html
   "v-6758a279": defineAsyncComponent(() => import(/* webpackChunkName: "v-6758a279" */"/Users/ngkinchung/Documents/GitHub/newshk.github.io/docs/.vuepress/.temp/pages/culture/cantonese-opera.html.vue")),
   // path: /culture/dragon-boat-festival.html
@@ -55,22 +61,16 @@ export const pagesComponents = {
   "v-5dc51ec2": defineAsyncComponent(() => import(/* webpackChunkName: "v-5dc51ec2" */"/Users/ngkinchung/Documents/GitHub/newshk.github.io/docs/.vuepress/.temp/pages/culture/tin-hau-festival.html.vue")),
   // path: /culture/yu-lan-festival.html
   "v-0acba414": defineAsyncComponent(() => import(/* webpackChunkName: "v-0acba414" */"/Users/ngkinchung/Documents/GitHub/newshk.github.io/docs/.vuepress/.temp/pages/culture/yu-lan-festival.html.vue")),
-  // path: /government/
-  "v-ab46e876": defineAsyncComponent(() => import(/* webpackChunkName: "v-ab46e876" */"/Users/ngkinchung/Documents/GitHub/newshk.github.io/docs/.vuepress/.temp/pages/government/index.html.vue")),
-  // path: /hospital/
-  "v-6525c348": defineAsyncComponent(() => import(/* webpackChunkName: "v-6525c348" */"/Users/ngkinchung/Documents/GitHub/newshk.github.io/docs/.vuepress/.temp/pages/hospital/index.html.vue")),
-  // path: /communication/
-  "v-80d6135c": defineAsyncComponent(() => import(/* webpackChunkName: "v-80d6135c" */"/Users/ngkinchung/Documents/GitHub/newshk.github.io/docs/.vuepress/.temp/pages/communication/index.html.vue")),
-  // path: /communication/radio.html
-  "v-6e77ace0": defineAsyncComponent(() => import(/* webpackChunkName: "v-6e77ace0" */"/Users/ngkinchung/Documents/GitHub/newshk.github.io/docs/.vuepress/.temp/pages/communication/radio.html.vue")),
-  // path: /communication/telephone.html
-  "v-e63623b2": defineAsyncComponent(() => import(/* webpackChunkName: "v-e63623b2" */"/Users/ngkinchung/Documents/GitHub/newshk.github.io/docs/.vuepress/.temp/pages/communication/telephone.html.vue")),
   // path: /economy/fishery.html
   "v-3c7f55ef": defineAsyncComponent(() => import(/* webpackChunkName: "v-3c7f55ef" */"/Users/ngkinchung/Documents/GitHub/newshk.github.io/docs/.vuepress/.temp/pages/economy/fishery.html.vue")),
   // path: /economy/manufacturing.html
   "v-4d3b4785": defineAsyncComponent(() => import(/* webpackChunkName: "v-4d3b4785" */"/Users/ngkinchung/Documents/GitHub/newshk.github.io/docs/.vuepress/.temp/pages/economy/manufacturing.html.vue")),
   // path: /economy/tourism.html
   "v-ce7add90": defineAsyncComponent(() => import(/* webpackChunkName: "v-ce7add90" */"/Users/ngkinchung/Documents/GitHub/newshk.github.io/docs/.vuepress/.temp/pages/economy/tourism.html.vue")),
+  // path: /government/
+  "v-ab46e876": defineAsyncComponent(() => import(/* webpackChunkName: "v-ab46e876" */"/Users/ngkinchung/Documents/GitHub/newshk.github.io/docs/.vuepress/.temp/pages/government/index.html.vue")),
+  // path: /hospital/
+  "v-6525c348": defineAsyncComponent(() => import(/* webpackChunkName: "v-6525c348" */"/Users/ngkinchung/Documents/GitHub/newshk.github.io/docs/.vuepress/.temp/pages/hospital/index.html.vue")),
   // path: /housing/
   "v-6fb86c2a": defineAsyncComponent(() => import(/* webpackChunkName: "v-6fb86c2a" */"/Users/ngkinchung/Documents/GitHub/newshk.github.io/docs/.vuepress/.temp/pages/housing/index.html.vue")),
   // path: /housing/private.html
