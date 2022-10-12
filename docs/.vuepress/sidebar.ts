@@ -10,6 +10,7 @@ export default sidebar({
     "earthquake",
   ],
   "/culture/": [
+    "archaeology",
     "dragon-boat-festival",
     "jiao-festival",
     "tin-hau-festival",

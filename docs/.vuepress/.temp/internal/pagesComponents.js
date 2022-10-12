@@ -7,8 +7,6 @@ export const pagesComponents = {
   "v-229fc57d": defineAsyncComponent(() => import(/* webpackChunkName: "v-229fc57d" */"/Users/ngkinchung/Documents/GitHub/newshk.github.io/docs/.vuepress/.temp/pages/ad.html.vue")),
   // path: /agriculture.html
   "v-32076e41": defineAsyncComponent(() => import(/* webpackChunkName: "v-32076e41" */"/Users/ngkinchung/Documents/GitHub/newshk.github.io/docs/.vuepress/.temp/pages/agriculture.html.vue")),
-  // path: /archaeology.html
-  "v-2df2e028": defineAsyncComponent(() => import(/* webpackChunkName: "v-2df2e028" */"/Users/ngkinchung/Documents/GitHub/newshk.github.io/docs/.vuepress/.temp/pages/archaeology.html.vue")),
   // path: /cholera.html
   "v-45b02480": defineAsyncComponent(() => import(/* webpackChunkName: "v-45b02480" */"/Users/ngkinchung/Documents/GitHub/newshk.github.io/docs/.vuepress/.temp/pages/cholera.html.vue")),
   // path: /influenza.html
@@ -17,8 +15,6 @@ export const pagesComponents = {
   "v-6c96476a": defineAsyncComponent(() => import(/* webpackChunkName: "v-6c96476a" */"/Users/ngkinchung/Documents/GitHub/newshk.github.io/docs/.vuepress/.temp/pages/labour-dispute.html.vue")),
   // path: /legislation.html
   "v-65df0a9e": defineAsyncComponent(() => import(/* webpackChunkName: "v-65df0a9e" */"/Users/ngkinchung/Documents/GitHub/newshk.github.io/docs/.vuepress/.temp/pages/legislation.html.vue")),
-  // path: /lunar-new-year.html
-  "v-1c6f789f": defineAsyncComponent(() => import(/* webpackChunkName: "v-1c6f789f" */"/Users/ngkinchung/Documents/GitHub/newshk.github.io/docs/.vuepress/.temp/pages/lunar-new-year.html.vue")),
   // path: /marine-accident.html
   "v-236d5fd8": defineAsyncComponent(() => import(/* webpackChunkName: "v-236d5fd8" */"/Users/ngkinchung/Documents/GitHub/newshk.github.io/docs/.vuepress/.temp/pages/marine-accident.html.vue")),
   // path: /market.html
@@ -51,22 +47,26 @@ export const pagesComponents = {
   "v-6e77ace0": defineAsyncComponent(() => import(/* webpackChunkName: "v-6e77ace0" */"/Users/ngkinchung/Documents/GitHub/newshk.github.io/docs/.vuepress/.temp/pages/communication/radio.html.vue")),
   // path: /communication/telephone.html
   "v-e63623b2": defineAsyncComponent(() => import(/* webpackChunkName: "v-e63623b2" */"/Users/ngkinchung/Documents/GitHub/newshk.github.io/docs/.vuepress/.temp/pages/communication/telephone.html.vue")),
-  // path: /culture/cantonese-opera.html
-  "v-6758a279": defineAsyncComponent(() => import(/* webpackChunkName: "v-6758a279" */"/Users/ngkinchung/Documents/GitHub/newshk.github.io/docs/.vuepress/.temp/pages/culture/cantonese-opera.html.vue")),
-  // path: /culture/dragon-boat-festival.html
-  "v-bb4adcd8": defineAsyncComponent(() => import(/* webpackChunkName: "v-bb4adcd8" */"/Users/ngkinchung/Documents/GitHub/newshk.github.io/docs/.vuepress/.temp/pages/culture/dragon-boat-festival.html.vue")),
-  // path: /culture/jiao-festival.html
-  "v-be4a340a": defineAsyncComponent(() => import(/* webpackChunkName: "v-be4a340a" */"/Users/ngkinchung/Documents/GitHub/newshk.github.io/docs/.vuepress/.temp/pages/culture/jiao-festival.html.vue")),
-  // path: /culture/tin-hau-festival.html
-  "v-5dc51ec2": defineAsyncComponent(() => import(/* webpackChunkName: "v-5dc51ec2" */"/Users/ngkinchung/Documents/GitHub/newshk.github.io/docs/.vuepress/.temp/pages/culture/tin-hau-festival.html.vue")),
-  // path: /culture/yu-lan-festival.html
-  "v-0acba414": defineAsyncComponent(() => import(/* webpackChunkName: "v-0acba414" */"/Users/ngkinchung/Documents/GitHub/newshk.github.io/docs/.vuepress/.temp/pages/culture/yu-lan-festival.html.vue")),
   // path: /economy/fishery.html
   "v-3c7f55ef": defineAsyncComponent(() => import(/* webpackChunkName: "v-3c7f55ef" */"/Users/ngkinchung/Documents/GitHub/newshk.github.io/docs/.vuepress/.temp/pages/economy/fishery.html.vue")),
   // path: /economy/manufacturing.html
   "v-4d3b4785": defineAsyncComponent(() => import(/* webpackChunkName: "v-4d3b4785" */"/Users/ngkinchung/Documents/GitHub/newshk.github.io/docs/.vuepress/.temp/pages/economy/manufacturing.html.vue")),
   // path: /economy/tourism.html
   "v-ce7add90": defineAsyncComponent(() => import(/* webpackChunkName: "v-ce7add90" */"/Users/ngkinchung/Documents/GitHub/newshk.github.io/docs/.vuepress/.temp/pages/economy/tourism.html.vue")),
+  // path: /culture/archaeology.html
+  "v-39369569": defineAsyncComponent(() => import(/* webpackChunkName: "v-39369569" */"/Users/ngkinchung/Documents/GitHub/newshk.github.io/docs/.vuepress/.temp/pages/culture/archaeology.html.vue")),
+  // path: /culture/cantonese-opera.html
+  "v-6758a279": defineAsyncComponent(() => import(/* webpackChunkName: "v-6758a279" */"/Users/ngkinchung/Documents/GitHub/newshk.github.io/docs/.vuepress/.temp/pages/culture/cantonese-opera.html.vue")),
+  // path: /culture/dragon-boat-festival.html
+  "v-bb4adcd8": defineAsyncComponent(() => import(/* webpackChunkName: "v-bb4adcd8" */"/Users/ngkinchung/Documents/GitHub/newshk.github.io/docs/.vuepress/.temp/pages/culture/dragon-boat-festival.html.vue")),
+  // path: /culture/jiao-festival.html
+  "v-be4a340a": defineAsyncComponent(() => import(/* webpackChunkName: "v-be4a340a" */"/Users/ngkinchung/Documents/GitHub/newshk.github.io/docs/.vuepress/.temp/pages/culture/jiao-festival.html.vue")),
+  // path: /culture/lunar-new-year.html
+  "v-0e9da084": defineAsyncComponent(() => import(/* webpackChunkName: "v-0e9da084" */"/Users/ngkinchung/Documents/GitHub/newshk.github.io/docs/.vuepress/.temp/pages/culture/lunar-new-year.html.vue")),
+  // path: /culture/tin-hau-festival.html
+  "v-5dc51ec2": defineAsyncComponent(() => import(/* webpackChunkName: "v-5dc51ec2" */"/Users/ngkinchung/Documents/GitHub/newshk.github.io/docs/.vuepress/.temp/pages/culture/tin-hau-festival.html.vue")),
+  // path: /culture/yu-lan-festival.html
+  "v-0acba414": defineAsyncComponent(() => import(/* webpackChunkName: "v-0acba414" */"/Users/ngkinchung/Documents/GitHub/newshk.github.io/docs/.vuepress/.temp/pages/culture/yu-lan-festival.html.vue")),
   // path: /government/
   "v-ab46e876": defineAsyncComponent(() => import(/* webpackChunkName: "v-ab46e876" */"/Users/ngkinchung/Documents/GitHub/newshk.github.io/docs/.vuepress/.temp/pages/government/index.html.vue")),
   // path: /hospital/
