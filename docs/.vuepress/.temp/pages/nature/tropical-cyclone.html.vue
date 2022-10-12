@@ -595,7 +595,26 @@
 <li>〈<a href="https://mmis.hkpl.gov.hk/coverpage/-/coverpage/view?_coverpage_WAR_mmisportalportlet_hsf=%E9%A2%A8%E7%90%83&amp;p_r_p_-1078056564_c=QF757YsWv59LNzTcr43VV7DM%2FqsXFo7b&amp;_coverpage_WAR_mmisportalportlet_o=335&amp;_coverpage_WAR_mmisportalportlet_actual_q=%28%20verbatim_dc.collection%3A%28%22Old%5C%20HK%5C%20Newspapers%22%29%20%29%20AND+%28%20%28%20allTermsMandatory%3A%28true%29%20OR+all_dc.title%3A%28%E9%A2%A8%E7%90%83%29%20OR+all_dc.creator%3A%28%E9%A2%A8%E7%90%83%29%20OR+all_dc.contributor%3A%28%E9%A2%A8%E7%90%83%29%20OR+all_dc.subject%3A%28%E9%A2%A8%E7%90%83%29%20OR+fulltext%3A%28%E9%A2%A8%E7%90%83%29%20OR+all_dc.description%3A%28%E9%A2%A8%E7%90%83%29%20%29%20%29&amp;_coverpage_WAR_mmisportalportlet_sort_order=asc&amp;_coverpage_WAR_mmisportalportlet_sort_field=dc.publicationdate_bsort" target="_blank" rel="noopener noreferrer">補辦人口登記　昨受風雨影響　已登記者不得再領新登記表<ExternalLinkIcon/></a>〉，《大公報》，1951年8月2日，第4頁。</li>
 </ol>
 <h3 id="無名-unnamed-3-3" tabindex="-1"><a class="header-anchor" href="#無名-unnamed-3-3" aria-hidden="true">#</a> 無名 Unnamed 3</h3>
-<h3 id="無名-unnamed-4-2" tabindex="-1"><a class="header-anchor" href="#無名-unnamed-4-2" aria-hidden="true">#</a> 無名 Unnamed 4</h3>
+<ul>
+<li>待查</li>
+</ul>
+<h3 id="無名-unnamed-4-一號風球" tabindex="-1"><a class="header-anchor" href="#無名-unnamed-4-一號風球" aria-hidden="true">#</a> 無名 Unnamed 4 #一號風球</h3>
+<ol>
+<li>〈<a href="https://mmis.hkpl.gov.hk/coverpage/-/coverpage/view?_coverpage_WAR_mmisportalportlet_hsf=%E9%A2%A8%E7%90%83&amp;p_r_p_-1078056564_c=QF757YsWv58JCjtBMMIqorSTKyq00MKf&amp;_coverpage_WAR_mmisportalportlet_o=336&amp;_coverpage_WAR_mmisportalportlet_actual_q=%28%20verbatim_dc.collection%3A%28%22Old%5C%20HK%5C%20Newspapers%22%29%20%29%20AND+%28%20%28%20allTermsMandatory%3A%28true%29%20OR+all_dc.title%3A%28%E9%A2%A8%E7%90%83%29%20OR+all_dc.creator%3A%28%E9%A2%A8%E7%90%83%29%20OR+all_dc.contributor%3A%28%E9%A2%A8%E7%90%83%29%20OR+all_dc.subject%3A%28%E9%A2%A8%E7%90%83%29%20OR+fulltext%3A%28%E9%A2%A8%E7%90%83%29%20OR+all_dc.description%3A%28%E9%A2%A8%E7%90%83%29%20%29%20%29&amp;_coverpage_WAR_mmisportalportlet_sort_order=asc&amp;_coverpage_WAR_mmisportalportlet_sort_field=dc.publicationdate_bsort" target="_blank" rel="noopener noreferrer">颶風他吹　昨日經過港南本港略受影響　早懸一號風球至夜撤下<ExternalLinkIcon/></a>〉，《華僑日報》，1951年9月3日，第2張第1頁。
+<ul>
+<li>風狂雨驟</li>
+<li>威脅可能陸續低減</li>
+<li>昨日下午雨驟風狂</li>
+<li>海陸交通未受影響</li>
+<li>石門開穗因風停止</li>
+<li>囗囗囗囗風機停航（注：小標題前4字不明</li>
+</ul>
+</li>
+<li>〈<a href="https://mmis.hkpl.gov.hk/coverpage/-/coverpage/view?_coverpage_WAR_mmisportalportlet_hsf=%E9%A2%A8%E7%90%83&amp;p_r_p_-1078056564_c=QF757YsWv58JCjtBMMIqorSTKyq00MKf&amp;_coverpage_WAR_mmisportalportlet_o=336&amp;_coverpage_WAR_mmisportalportlet_actual_q=%28%20verbatim_dc.collection%3A%28%22Old%5C%20HK%5C%20Newspapers%22%29%20%29%20AND+%28%20%28%20allTermsMandatory%3A%28true%29%20OR+all_dc.title%3A%28%E9%A2%A8%E7%90%83%29%20OR+all_dc.creator%3A%28%E9%A2%A8%E7%90%83%29%20OR+all_dc.contributor%3A%28%E9%A2%A8%E7%90%83%29%20OR+all_dc.subject%3A%28%E9%A2%A8%E7%90%83%29%20OR+fulltext%3A%28%E9%A2%A8%E7%90%83%29%20OR+all_dc.description%3A%28%E9%A2%A8%E7%90%83%29%20%29%20%29&amp;_coverpage_WAR_mmisportalportlet_sort_order=asc&amp;_coverpage_WAR_mmisportalportlet_sort_field=dc.publicationdate_bsort" target="_blank" rel="noopener noreferrer">四船艇翻沉失蹤　十餘人無下落　狂風中海面發生五宗意外事件<ExternalLinkIcon/></a>〉，《華僑日報》，1951年9月3日，第2張第1頁。</li>
+<li>〈<a href="https://mmis.hkpl.gov.hk/coverpage/-/coverpage/view?_coverpage_WAR_mmisportalportlet_hsf=%E9%A2%A8%E7%90%83&amp;p_r_p_-1078056564_c=QF757YsWv59H%2FuxqfBwEJFAosnwpxs4u&amp;_coverpage_WAR_mmisportalportlet_o=337&amp;_coverpage_WAR_mmisportalportlet_actual_q=%28%20verbatim_dc.collection%3A%28%22Old%5C%20HK%5C%20Newspapers%22%29%20%29%20AND+%28%20%28%20allTermsMandatory%3A%28true%29%20OR+all_dc.title%3A%28%E9%A2%A8%E7%90%83%29%20OR+all_dc.creator%3A%28%E9%A2%A8%E7%90%83%29%20OR+all_dc.contributor%3A%28%E9%A2%A8%E7%90%83%29%20OR+all_dc.subject%3A%28%E9%A2%A8%E7%90%83%29%20OR+fulltext%3A%28%E9%A2%A8%E7%90%83%29%20OR+all_dc.description%3A%28%E9%A2%A8%E7%90%83%29%20%29%20%29&amp;_coverpage_WAR_mmisportalportlet_sort_order=asc&amp;_coverpage_WAR_mmisportalportlet_sort_field=dc.publicationdate_bsort" target="_blank" rel="noopener noreferrer">一號風球卸下　颶風威脅解除　港九交通昨天未受影響　三小船出事十個人失蹤<ExternalLinkIcon/></a>〉，《大公報》，1951年9月3日，第1張；第4版。</li>
+<li>〈<a href="https://mmis.hkpl.gov.hk/coverpage/-/coverpage/view?_coverpage_WAR_mmisportalportlet_hsf=%E9%A2%A8%E7%90%83&amp;p_r_p_-1078056564_c=QF757YsWv59H%2FuxqfBwEJFAosnwpxs4u&amp;_coverpage_WAR_mmisportalportlet_o=337&amp;_coverpage_WAR_mmisportalportlet_actual_q=%28%20verbatim_dc.collection%3A%28%22Old%5C%20HK%5C%20Newspapers%22%29%20%29%20AND+%28%20%28%20allTermsMandatory%3A%28true%29%20OR+all_dc.title%3A%28%E9%A2%A8%E7%90%83%29%20OR+all_dc.creator%3A%28%E9%A2%A8%E7%90%83%29%20OR+all_dc.contributor%3A%28%E9%A2%A8%E7%90%83%29%20OR+all_dc.subject%3A%28%E9%A2%A8%E7%90%83%29%20OR+fulltext%3A%28%E9%A2%A8%E7%90%83%29%20OR+all_dc.description%3A%28%E9%A2%A8%E7%90%83%29%20%29%20%29&amp;_coverpage_WAR_mmisportalportlet_sort_order=asc&amp;_coverpage_WAR_mmisportalportlet_sort_field=dc.publicationdate_bsort" target="_blank" rel="noopener noreferrer">長沙灣因風惹禍　五人昨劇鬥　各持利斧鐵板猛砍猛打　大家都受傷全被警捉去<ExternalLinkIcon/></a>〉，《大公報》，1951年9月3日，第1張；第4版。</li>
+<li>〈<a href="https://mmis.hkpl.gov.hk/coverpage/-/coverpage/view?_coverpage_WAR_mmisportalportlet_hsf=%E9%A2%A8%E7%90%83&amp;p_r_p_-1078056564_c=QF757YsWv59H%2FuxqfBwEJFAosnwpxs4u&amp;_coverpage_WAR_mmisportalportlet_o=337&amp;_coverpage_WAR_mmisportalportlet_actual_q=%28%20verbatim_dc.collection%3A%28%22Old%5C%20HK%5C%20Newspapers%22%29%20%29%20AND+%28%20%28%20allTermsMandatory%3A%28true%29%20OR+all_dc.title%3A%28%E9%A2%A8%E7%90%83%29%20OR+all_dc.creator%3A%28%E9%A2%A8%E7%90%83%29%20OR+all_dc.contributor%3A%28%E9%A2%A8%E7%90%83%29%20OR+all_dc.subject%3A%28%E9%A2%A8%E7%90%83%29%20OR+fulltext%3A%28%E9%A2%A8%E7%90%83%29%20OR+all_dc.description%3A%28%E9%A2%A8%E7%90%83%29%20%29%20%29&amp;_coverpage_WAR_mmisportalportlet_sort_order=asc&amp;_coverpage_WAR_mmisportalportlet_sort_field=dc.publicationdate_bsort" target="_blank" rel="noopener noreferrer">強風之下　海有浮屍<ExternalLinkIcon/></a>〉，《大公報》，1951年9月3日，第1張；第4版。</li>
+</ol>
 <h3 id="奧娜-ora" tabindex="-1"><a class="header-anchor" href="#奧娜-ora" aria-hidden="true">#</a> 奧娜 Ora</h3>
 <h3 id="帕特-pat" tabindex="-1"><a class="header-anchor" href="#帕特-pat" aria-hidden="true">#</a> 帕特 Pat</h3>
 <h2 id="_1952年" tabindex="-1"><a class="header-anchor" href="#_1952年" aria-hidden="true">#</a> 1952年</h2>
@@ -607,7 +626,7 @@
 <h3 id="洛伊斯-lois" tabindex="-1"><a class="header-anchor" href="#洛伊斯-lois" aria-hidden="true">#</a> 洛伊斯 Lois</h3>
 <h3 id="諾娜-nona" tabindex="-1"><a class="header-anchor" href="#諾娜-nona" aria-hidden="true">#</a> 諾娜 Nona</h3>
 <h3 id="無名-unnamed-3-4" tabindex="-1"><a class="header-anchor" href="#無名-unnamed-3-4" aria-hidden="true">#</a> 無名 Unnamed 3</h3>
-<h3 id="無名-unnamed-4-3" tabindex="-1"><a class="header-anchor" href="#無名-unnamed-4-3" aria-hidden="true">#</a> 無名 Unnamed 4</h3>
+<h3 id="無名-unnamed-4-2" tabindex="-1"><a class="header-anchor" href="#無名-unnamed-4-2" aria-hidden="true">#</a> 無名 Unnamed 4</h3>
 <h2 id="_1953年" tabindex="-1"><a class="header-anchor" href="#_1953年" aria-hidden="true">#</a> 1953年</h2>
 <h3 id="無名-unnamed-1-7" tabindex="-1"><a class="header-anchor" href="#無名-unnamed-1-7" aria-hidden="true">#</a> 無名 Unnamed 1</h3>
 <h3 id="奧菲莉亞-ophelia" tabindex="-1"><a class="header-anchor" href="#奧菲莉亞-ophelia" aria-hidden="true">#</a> 奧菲莉亞 Ophelia</h3>
@@ -724,12 +743,12 @@
 <h3 id="無名-unnamed-3-5" tabindex="-1"><a class="header-anchor" href="#無名-unnamed-3-5" aria-hidden="true">#</a> 無名 Unnamed 3</h3>
 <h3 id="嘉曼-carmen" tabindex="-1"><a class="header-anchor" href="#嘉曼-carmen" aria-hidden="true">#</a> 嘉曼 Carmen</h3>
 <h3 id="姬羅莉亞-gloria" tabindex="-1"><a class="header-anchor" href="#姬羅莉亞-gloria" aria-hidden="true">#</a> 姬羅莉亞 Gloria</h3>
-<h3 id="無名-unnamed-4-4" tabindex="-1"><a class="header-anchor" href="#無名-unnamed-4-4" aria-hidden="true">#</a> 無名 Unnamed 4</h3>
+<h3 id="無名-unnamed-4-3" tabindex="-1"><a class="header-anchor" href="#無名-unnamed-4-3" aria-hidden="true">#</a> 無名 Unnamed 4</h3>
 <h2 id="_1958年" tabindex="-1"><a class="header-anchor" href="#_1958年" aria-hidden="true">#</a> 1958年</h2>
 <h3 id="無名-unnamed-1-12" tabindex="-1"><a class="header-anchor" href="#無名-unnamed-1-12" aria-hidden="true">#</a> 無名 Unnamed 1</h3>
 <h3 id="無名-unnamed-2-12" tabindex="-1"><a class="header-anchor" href="#無名-unnamed-2-12" aria-hidden="true">#</a> 無名 Unnamed 2</h3>
 <h3 id="無名-unnamed-3-6" tabindex="-1"><a class="header-anchor" href="#無名-unnamed-3-6" aria-hidden="true">#</a> 無名 Unnamed 3</h3>
-<h3 id="無名-unnamed-4-5" tabindex="-1"><a class="header-anchor" href="#無名-unnamed-4-5" aria-hidden="true">#</a> 無名 Unnamed 4</h3>
+<h3 id="無名-unnamed-4-4" tabindex="-1"><a class="header-anchor" href="#無名-unnamed-4-4" aria-hidden="true">#</a> 無名 Unnamed 4</h3>
 <h3 id="無名-unnamed-5-1" tabindex="-1"><a class="header-anchor" href="#無名-unnamed-5-1" aria-hidden="true">#</a> 無名 Unnamed 5</h3>
 <h2 id="_1959年" tabindex="-1"><a class="header-anchor" href="#_1959年" aria-hidden="true">#</a> 1959年</h2>
 <h3 id="葦黛-wilda" tabindex="-1"><a class="header-anchor" href="#葦黛-wilda" aria-hidden="true">#</a> 葦黛 Wilda</h3>
