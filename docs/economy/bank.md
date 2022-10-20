@@ -1,11 +1,14 @@
 ---
 lang: zh-TW
-title: 滙豐銀行
-sidebar: auto
+title: 銀行
+description: 
+author: false
+category: 經濟
+date: 2022-01-26
 ---
 
-# 滙豐銀行
-## 1946年
+# 銀行
+## 滙豐銀行
 > 關鍵詞：滙豐
 1. 〈[滙豐銀行　保險箱　全部修理](https://mmis.hkpl.gov.hk/coverpage/-/coverpage/view?_coverpage_WAR_mmisportalportlet_hsf=%E6%BB%99%E8%B1%90&p_r_p_-1078056564_c=QF757YsWv5%2BQBGt1%2BwUj5godKWfP9ta7&_coverpage_WAR_mmisportalportlet_o=358&_coverpage_WAR_mmisportalportlet_actual_q=%28%20verbatim_dc.collection%3A%28%22Old%5C%20HK%5C%20Newspapers%22%29%20%29%20AND+%28%20%28%20allTermsMandatory%3A%28true%29%20OR+all_dc.title%3A%28%E6%BB%99%E8%B1%90%29%20OR+all_dc.creator%3A%28%E6%BB%99%E8%B1%90%29%20OR+all_dc.contributor%3A%28%E6%BB%99%E8%B1%90%29%20OR+all_dc.subject%3A%28%E6%BB%99%E8%B1%90%29%20OR+fulltext%3A%28%E6%BB%99%E8%B1%90%29%20OR+all_dc.description%3A%28%E6%BB%99%E8%B1%90%29%20%29%20%29&_coverpage_WAR_mmisportalportlet_sort_field=dc.publicationdate_bsort&_coverpage_WAR_mmisportalportlet_sort_order=asc)〉，《工商日報》，1946年2月18日，第4頁。
 2. 〈[滙豐銀行總理摩斯　今日可抵港　有助解決金融問題](https://mmis.hkpl.gov.hk/coverpage/-/coverpage/view?_coverpage_WAR_mmisportalportlet_hsf=%E6%BB%99%E8%B1%90&p_r_p_-1078056564_c=QF757YsWv5%2BQBGt1%2BwUj5o6wjIwV%2Ft%2Fw&_coverpage_WAR_mmisportalportlet_o=360&_coverpage_WAR_mmisportalportlet_actual_q=%28%20verbatim_dc.collection%3A%28%22Old%5C%20HK%5C%20Newspapers%22%29%20%29%20AND+%28%20%28%20allTermsMandatory%3A%28true%29%20OR+all_dc.title%3A%28%E6%BB%99%E8%B1%90%29%20OR+all_dc.creator%3A%28%E6%BB%99%E8%B1%90%29%20OR+all_dc.contributor%3A%28%E6%BB%99%E8%B1%90%29%20OR+all_dc.subject%3A%28%E6%BB%99%E8%B1%90%29%20OR+fulltext%3A%28%E6%BB%99%E8%B1%90%29%20OR+all_dc.description%3A%28%E6%BB%99%E8%B1%90%29%20%29%20%29&_coverpage_WAR_mmisportalportlet_sort_order=asc&_coverpage_WAR_mmisportalportlet_sort_field=dc.publicationdate_bsort)〉，《工商日報》，1946年4月13日，第4頁。

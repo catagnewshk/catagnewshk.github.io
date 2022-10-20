@@ -1,1 +1,14 @@
-export const data = JSON.parse("{\"key\":\"v-5c7dcd74\",\"path\":\"/nature/flooding.html\",\"title\":\"澇災\",\"lang\":\"zh-TW\",\"frontmatter\":{\"lang\":\"zh-TW\",\"title\":\"澇災\",\"description\":\"香港新聞報道，自然災害，天災，澇災。\",\"author\":false,\"date\":\"2022-01-26T00:00:00.000Z\",\"category\":[\"自然\"],\"head\":[[\"meta\",{\"property\":\"og:url\",\"content\":\"https://newshk.github.io/nature/flooding.html\"}],[\"meta\",{\"property\":\"og:site_name\",\"content\":\"香港新聞類編\"}],[\"meta\",{\"property\":\"og:title\",\"content\":\"澇災\"}],[\"meta\",{\"property\":\"og:description\",\"content\":\"香港新聞報道，自然災害，天災，澇災。\"}],[\"meta\",{\"property\":\"og:type\",\"content\":\"article\"}],[\"meta\",{\"property\":\"og:updated_time\",\"content\":\"2022-10-07T15:53:22.000Z\"}],[\"meta\",{\"property\":\"og:locale\",\"content\":\"zh-TW\"}],[\"meta\",{\"property\":\"article:published_time\",\"content\":\"2022-01-26T00:00:00.000Z\"}],[\"meta\",{\"property\":\"article:modified_time\",\"content\":\"2022-10-07T15:53:22.000Z\"}]]},\"excerpt\":\"\",\"headers\":[{\"level\":2,\"title\":\"1947年\",\"slug\":\"_1947年\",\"children\":[]},{\"level\":2,\"title\":\"1948年\",\"slug\":\"_1948年\",\"children\":[]}],\"git\":{\"createdTime\":1661320850000,\"updatedTime\":1665158002000,\"contributors\":[{\"name\":\"NGKINCHUNG\",\"email\":\"archaeology.cn@outlook.com\",\"commits\":2}]},\"readingTime\":{\"minutes\":2.42,\"words\":727},\"filePathRelative\":\"nature/flooding.md\",\"localizedDate\":\"2022年1月26日\"}")
+export const data = JSON.parse("{\"key\":\"v-5c7dcd74\",\"path\":\"/nature/flooding.html\",\"title\":\"澇災\",\"lang\":\"zh-TW\",\"frontmatter\":{\"lang\":\"zh-TW\",\"title\":\"澇災\",\"description\":\"香港新聞報道，自然災害，天災，澇災。\",\"author\":false,\"date\":\"2022-01-26T00:00:00.000Z\",\"category\":[\"自然\"],\"head\":[[\"meta\",{\"property\":\"og:url\",\"content\":\"https://newshk.github.io/nature/flooding.html\"}],[\"meta\",{\"property\":\"og:site_name\",\"content\":\"香港新聞類編\"}],[\"meta\",{\"property\":\"og:title\",\"content\":\"澇災\"}],[\"meta\",{\"property\":\"og:description\",\"content\":\"香港新聞報道，自然災害，天災，澇災。\"}],[\"meta\",{\"property\":\"og:type\",\"content\":\"article\"}],[\"meta\",{\"property\":\"og:locale\",\"content\":\"zh-TW\"}],[\"meta\",{\"property\":\"article:published_time\",\"content\":\"2022-01-26T00:00:00.000Z\"}]]},\"excerpt\":\"\",\"headers\":[{\"level\":2,\"title\":\"1947年\",\"slug\":\"_1947年\",\"children\":[]},{\"level\":2,\"title\":\"1948年\",\"slug\":\"_1948年\",\"children\":[]}],\"readingTime\":{\"minutes\":2.42,\"words\":727},\"filePathRelative\":\"nature/flooding.md\",\"localizedDate\":\"2022年1月26日\"}")
+
+if (import.meta.webpackHot) {
+  import.meta.webpackHot.accept()
+  if (__VUE_HMR_RUNTIME__.updatePageData) {
+    __VUE_HMR_RUNTIME__.updatePageData(data)
+  }
+}
+
+if (import.meta.hot) {
+  import.meta.hot.accept(({ data }) => {
+    __VUE_HMR_RUNTIME__.updatePageData(data)
+  })
+}
