@@ -16,4 +16,8 @@ export default navbar([
         prefix: "/economy/",
         children: ["fishery.md","manufacturing.md","tourism",],
       },
+      {
+        text: "關於",
+        link: "/about.md",
+      },     
 ]);
