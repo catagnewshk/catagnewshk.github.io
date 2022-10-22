@@ -1,14 +1,1 @@
-export const data = JSON.parse("{\"key\":\"v-0164c790\",\"path\":\"/culture/library.html\",\"title\":\"圖書館\",\"lang\":\"zh-TW\",\"frontmatter\":{\"lang\":\"zh-TW\",\"title\":\"圖書館\",\"sidebar\":\"auto\",\"summary\":\"圖書館\",\"head\":[[\"meta\",{\"property\":\"og:url\",\"content\":\"https://newshk.github.io/culture/library.html\"}],[\"meta\",{\"property\":\"og:site_name\",\"content\":\"香港新聞類編\"}],[\"meta\",{\"property\":\"og:title\",\"content\":\"圖書館\"}],[\"meta\",{\"property\":\"og:type\",\"content\":\"article\"}],[\"meta\",{\"property\":\"og:locale\",\"content\":\"zh-TW\"}]]},\"excerpt\":\"\",\"headers\":[{\"level\":2,\"title\":\"\",\"slug\":\"\",\"children\":[]}],\"readingTime\":{\"minutes\":0.04,\"words\":12},\"filePathRelative\":\"culture/library.md\"}")
-
-if (import.meta.webpackHot) {
-  import.meta.webpackHot.accept()
-  if (__VUE_HMR_RUNTIME__.updatePageData) {
-    __VUE_HMR_RUNTIME__.updatePageData(data)
-  }
-}
-
-if (import.meta.hot) {
-  import.meta.hot.accept(({ data }) => {
-    __VUE_HMR_RUNTIME__.updatePageData(data)
-  })
-}
+export const data = JSON.parse("{\"key\":\"v-0164c790\",\"path\":\"/culture/library.html\",\"title\":\"圖書館\",\"lang\":\"zh-TW\",\"frontmatter\":{\"lang\":\"zh-TW\",\"title\":\"圖書館\",\"sidebar\":\"auto\",\"summary\":\"圖書館\",\"head\":[[\"meta\",{\"property\":\"og:url\",\"content\":\"https://newshk.github.io/culture/library.html\"}],[\"meta\",{\"property\":\"og:site_name\",\"content\":\"香港新聞類編\"}],[\"meta\",{\"property\":\"og:title\",\"content\":\"圖書館\"}],[\"meta\",{\"property\":\"og:type\",\"content\":\"article\"}],[\"meta\",{\"property\":\"og:updated_time\",\"content\":\"2022-10-20T14:00:10.000Z\"}],[\"meta\",{\"property\":\"og:locale\",\"content\":\"zh-TW\"}],[\"meta\",{\"property\":\"article:modified_time\",\"content\":\"2022-10-20T14:00:10.000Z\"}]]},\"excerpt\":\"\",\"headers\":[{\"level\":2,\"title\":\"\",\"slug\":\"\",\"children\":[]}],\"git\":{\"createdTime\":1666274410000,\"updatedTime\":1666274410000,\"contributors\":[{\"name\":\"NGKINCHUNG\",\"email\":\"archaeology.cn@outlook.com\",\"commits\":1}]},\"readingTime\":{\"minutes\":0.04,\"words\":12},\"filePathRelative\":\"culture/library.md\",\"localizedDate\":\"2022年10月20日\"}")

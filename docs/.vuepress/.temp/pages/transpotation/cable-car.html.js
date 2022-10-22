@@ -1,14 +1,1 @@
-export const data = JSON.parse("{\"key\":\"v-26f12915\",\"path\":\"/transpotation/cable-car.html\",\"title\":\"纜車\",\"lang\":\"zh-TW\",\"frontmatter\":{\"lang\":\"zh-TW\",\"title\":\"纜車\",\"sidebar\":\"auto\",\"summary\":\"纜車\",\"head\":[[\"meta\",{\"property\":\"og:url\",\"content\":\"https://newshk.github.io/transpotation/cable-car.html\"}],[\"meta\",{\"property\":\"og:site_name\",\"content\":\"香港新聞類編\"}],[\"meta\",{\"property\":\"og:title\",\"content\":\"纜車\"}],[\"meta\",{\"property\":\"og:type\",\"content\":\"article\"}],[\"meta\",{\"property\":\"og:locale\",\"content\":\"zh-TW\"}]]},\"excerpt\":\"\",\"headers\":[],\"readingTime\":{\"minutes\":0.03,\"words\":10},\"filePathRelative\":\"transpotation/cable-car.md\"}")
-
-if (import.meta.webpackHot) {
-  import.meta.webpackHot.accept()
-  if (__VUE_HMR_RUNTIME__.updatePageData) {
-    __VUE_HMR_RUNTIME__.updatePageData(data)
-  }
-}
-
-if (import.meta.hot) {
-  import.meta.hot.accept(({ data }) => {
-    __VUE_HMR_RUNTIME__.updatePageData(data)
-  })
-}
+export const data = JSON.parse("{\"key\":\"v-26f12915\",\"path\":\"/transpotation/cable-car.html\",\"title\":\"纜車\",\"lang\":\"zh-TW\",\"frontmatter\":{\"lang\":\"zh-TW\",\"title\":\"纜車\",\"sidebar\":\"auto\",\"summary\":\"纜車\",\"head\":[[\"meta\",{\"property\":\"og:url\",\"content\":\"https://newshk.github.io/transpotation/cable-car.html\"}],[\"meta\",{\"property\":\"og:site_name\",\"content\":\"香港新聞類編\"}],[\"meta\",{\"property\":\"og:title\",\"content\":\"纜車\"}],[\"meta\",{\"property\":\"og:type\",\"content\":\"article\"}],[\"meta\",{\"property\":\"og:updated_time\",\"content\":\"2022-10-20T14:00:10.000Z\"}],[\"meta\",{\"property\":\"og:locale\",\"content\":\"zh-TW\"}],[\"meta\",{\"property\":\"article:modified_time\",\"content\":\"2022-10-20T14:00:10.000Z\"}]]},\"excerpt\":\"\",\"headers\":[],\"git\":{\"createdTime\":1666274410000,\"updatedTime\":1666274410000,\"contributors\":[{\"name\":\"NGKINCHUNG\",\"email\":\"archaeology.cn@outlook.com\",\"commits\":1}]},\"readingTime\":{\"minutes\":0.03,\"words\":10},\"filePathRelative\":\"transpotation/cable-car.md\",\"localizedDate\":\"2022年10月20日\"}")

@@ -53,12 +53,22 @@ export const pagesData = {
   "v-5dc51ec2": () => import(/* webpackChunkName: "v-5dc51ec2" */"/Users/ngkinchung/Documents/GitHub/newshk.github.io/docs/.vuepress/.temp/pages/culture/tin-hau-festival.html.js").then(({ data }) => data),
   // path: /culture/yu-lan-festival.html
   "v-0acba414": () => import(/* webpackChunkName: "v-0acba414" */"/Users/ngkinchung/Documents/GitHub/newshk.github.io/docs/.vuepress/.temp/pages/culture/yu-lan-festival.html.js").then(({ data }) => data),
-  // path: /government/
-  "v-ab46e876": () => import(/* webpackChunkName: "v-ab46e876" */"/Users/ngkinchung/Documents/GitHub/newshk.github.io/docs/.vuepress/.temp/pages/government/index.html.js").then(({ data }) => data),
   // path: /education/middle-school.html
   "v-4f17a226": () => import(/* webpackChunkName: "v-4f17a226" */"/Users/ngkinchung/Documents/GitHub/newshk.github.io/docs/.vuepress/.temp/pages/education/middle-school.html.js").then(({ data }) => data),
   // path: /education/primary-school.html
   "v-4bdc954c": () => import(/* webpackChunkName: "v-4bdc954c" */"/Users/ngkinchung/Documents/GitHub/newshk.github.io/docs/.vuepress/.temp/pages/education/primary-school.html.js").then(({ data }) => data),
+  // path: /economy/agriculture.html
+  "v-2f13a4f2": () => import(/* webpackChunkName: "v-2f13a4f2" */"/Users/ngkinchung/Documents/GitHub/newshk.github.io/docs/.vuepress/.temp/pages/economy/agriculture.html.js").then(({ data }) => data),
+  // path: /economy/bank.html
+  "v-296293b3": () => import(/* webpackChunkName: "v-296293b3" */"/Users/ngkinchung/Documents/GitHub/newshk.github.io/docs/.vuepress/.temp/pages/economy/bank.html.js").then(({ data }) => data),
+  // path: /economy/fishery.html
+  "v-3c7f55ef": () => import(/* webpackChunkName: "v-3c7f55ef" */"/Users/ngkinchung/Documents/GitHub/newshk.github.io/docs/.vuepress/.temp/pages/economy/fishery.html.js").then(({ data }) => data),
+  // path: /economy/manufacturing.html
+  "v-4d3b4785": () => import(/* webpackChunkName: "v-4d3b4785" */"/Users/ngkinchung/Documents/GitHub/newshk.github.io/docs/.vuepress/.temp/pages/economy/manufacturing.html.js").then(({ data }) => data),
+  // path: /economy/tourism.html
+  "v-ce7add90": () => import(/* webpackChunkName: "v-ce7add90" */"/Users/ngkinchung/Documents/GitHub/newshk.github.io/docs/.vuepress/.temp/pages/economy/tourism.html.js").then(({ data }) => data),
+  // path: /government/
+  "v-ab46e876": () => import(/* webpackChunkName: "v-ab46e876" */"/Users/ngkinchung/Documents/GitHub/newshk.github.io/docs/.vuepress/.temp/pages/government/index.html.js").then(({ data }) => data),
   // path: /infrastructure/
   "v-a9016a5a": () => import(/* webpackChunkName: "v-a9016a5a" */"/Users/ngkinchung/Documents/GitHub/newshk.github.io/docs/.vuepress/.temp/pages/infrastructure/index.html.js").then(({ data }) => data),
   // path: /infrastructure/bridge.html
@@ -77,16 +87,6 @@ export const pagesData = {
   "v-73e5daf0": () => import(/* webpackChunkName: "v-73e5daf0" */"/Users/ngkinchung/Documents/GitHub/newshk.github.io/docs/.vuepress/.temp/pages/infrastructure/town-gas.html.js").then(({ data }) => data),
   // path: /infrastructure/tunnel.html
   "v-3f8e74be": () => import(/* webpackChunkName: "v-3f8e74be" */"/Users/ngkinchung/Documents/GitHub/newshk.github.io/docs/.vuepress/.temp/pages/infrastructure/tunnel.html.js").then(({ data }) => data),
-  // path: /economy/agriculture.html
-  "v-2f13a4f2": () => import(/* webpackChunkName: "v-2f13a4f2" */"/Users/ngkinchung/Documents/GitHub/newshk.github.io/docs/.vuepress/.temp/pages/economy/agriculture.html.js").then(({ data }) => data),
-  // path: /economy/bank.html
-  "v-296293b3": () => import(/* webpackChunkName: "v-296293b3" */"/Users/ngkinchung/Documents/GitHub/newshk.github.io/docs/.vuepress/.temp/pages/economy/bank.html.js").then(({ data }) => data),
-  // path: /economy/fishery.html
-  "v-3c7f55ef": () => import(/* webpackChunkName: "v-3c7f55ef" */"/Users/ngkinchung/Documents/GitHub/newshk.github.io/docs/.vuepress/.temp/pages/economy/fishery.html.js").then(({ data }) => data),
-  // path: /economy/manufacturing.html
-  "v-4d3b4785": () => import(/* webpackChunkName: "v-4d3b4785" */"/Users/ngkinchung/Documents/GitHub/newshk.github.io/docs/.vuepress/.temp/pages/economy/manufacturing.html.js").then(({ data }) => data),
-  // path: /economy/tourism.html
-  "v-ce7add90": () => import(/* webpackChunkName: "v-ce7add90" */"/Users/ngkinchung/Documents/GitHub/newshk.github.io/docs/.vuepress/.temp/pages/economy/tourism.html.js").then(({ data }) => data),
   // path: /nature/cold-snap.html
   "v-e35c0e96": () => import(/* webpackChunkName: "v-e35c0e96" */"/Users/ngkinchung/Documents/GitHub/newshk.github.io/docs/.vuepress/.temp/pages/nature/cold-snap.html.js").then(({ data }) => data),
   // path: /nature/drought.html
