@@ -1,14 +1,1 @@
-export const data = JSON.parse("{\"key\":\"v-57e41c04\",\"path\":\"/landside.html\",\"title\":\"山泥傾瀉\",\"lang\":\"zh-TW\",\"frontmatter\":{\"lang\":\"zh-TW\",\"title\":\"山泥傾瀉\",\"sidebar\":\"auto\",\"summary\":\"山泥傾瀉\",\"head\":[[\"meta\",{\"property\":\"og:url\",\"content\":\"https://newshk.github.io/landside.html\"}],[\"meta\",{\"property\":\"og:site_name\",\"content\":\"香港新聞類編\"}],[\"meta\",{\"property\":\"og:title\",\"content\":\"山泥傾瀉\"}],[\"meta\",{\"property\":\"og:type\",\"content\":\"article\"}],[\"meta\",{\"property\":\"og:locale\",\"content\":\"zh-TW\"}]]},\"excerpt\":\"\",\"headers\":[],\"readingTime\":{\"minutes\":0.05,\"words\":14},\"filePathRelative\":\"landside.md\"}")
-
-if (import.meta.webpackHot) {
-  import.meta.webpackHot.accept()
-  if (__VUE_HMR_RUNTIME__.updatePageData) {
-    __VUE_HMR_RUNTIME__.updatePageData(data)
-  }
-}
-
-if (import.meta.hot) {
-  import.meta.hot.accept(({ data }) => {
-    __VUE_HMR_RUNTIME__.updatePageData(data)
-  })
-}
+export const data = JSON.parse("{\"key\":\"v-57e41c04\",\"path\":\"/landside.html\",\"title\":\"山泥傾瀉\",\"lang\":\"zh-TW\",\"frontmatter\":{\"lang\":\"zh-TW\",\"title\":\"山泥傾瀉\",\"description\":\"香港新聞報道，自然災害，天災，山泥傾瀉。\",\"author\":false,\"date\":\"2022-01-26T00:00:00.000Z\",\"category\":[\"自然\"],\"head\":[[\"meta\",{\"property\":\"og:url\",\"content\":\"https://newshk.github.io/landside.html\"}],[\"meta\",{\"property\":\"og:site_name\",\"content\":\"香港新聞類編\"}],[\"meta\",{\"property\":\"og:title\",\"content\":\"山泥傾瀉\"}],[\"meta\",{\"property\":\"og:description\",\"content\":\"香港新聞報道，自然災害，天災，山泥傾瀉。\"}],[\"meta\",{\"property\":\"og:type\",\"content\":\"article\"}],[\"meta\",{\"property\":\"og:updated_time\",\"content\":\"2022-08-24T06:00:50.000Z\"}],[\"meta\",{\"property\":\"og:locale\",\"content\":\"zh-TW\"}],[\"meta\",{\"property\":\"article:published_time\",\"content\":\"2022-01-26T00:00:00.000Z\"}],[\"meta\",{\"property\":\"article:modified_time\",\"content\":\"2022-08-24T06:00:50.000Z\"}]]},\"excerpt\":\"\",\"headers\":[],\"git\":{\"createdTime\":1661260029000,\"updatedTime\":1661320850000,\"contributors\":[{\"name\":\"NGKINCHUNG\",\"email\":\"archaeology.cn@outlook.com\",\"commits\":2}]},\"readingTime\":{\"minutes\":0.13,\"words\":38},\"filePathRelative\":\"landside.md\",\"localizedDate\":\"2022年1月26日\"}")

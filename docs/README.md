@@ -9,10 +9,10 @@ actions: false
 features:
   - title: 熱帶氣旋
     details: 1946 ~ 
-    link: /nature/tropical-cyclone
+    link: /tropical-cyclone
   - title: 考古
     details:
-    link: /culture/archaeology    
+    link: /archaeology    
 copyright: true
 footer: false
 ---
