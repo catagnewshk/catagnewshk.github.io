@@ -1,4 +1,4 @@
-<template><div><h1 id="專上院校" tabindex="-1"><a class="header-anchor" href="#專上院校" aria-hidden="true">#</a> 專上院校</h1>
+<template><div><h1 id="專上教育" tabindex="-1"><a class="header-anchor" href="#專上教育" aria-hidden="true">#</a> 專上教育</h1>
 <blockquote>
 <p>名單參考香港教育局<a href="https://www.edb.gov.hk/tc/edu-system/postsecondary/local-higher-edu/institutions/index.html" target="_blank" rel="noopener noreferrer">本地專上課程：院校<ExternalLinkIcon/></a></p>
 </blockquote>

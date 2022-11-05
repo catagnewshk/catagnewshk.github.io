@@ -1,12 +1,12 @@
 ---
 lang: zh-TW
-title: 專上院校
+title: 專上教育
 description: 
 author: false
 date: 2022-11-05
 category: 教育
 ---
-# 專上院校
+# 專上教育
 > 名單參考香港教育局[本地專上課程：院校](https://www.edb.gov.hk/tc/edu-system/postsecondary/local-higher-edu/institutions/index.html)
 ## 香港大學
 ### 籌辦香港大學

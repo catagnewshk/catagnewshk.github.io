@@ -1,9 +1,11 @@
 ---
 lang: zh-TW
-author: NG Kinchung
+title: 鼠疫
+description: 
+author: false
 date: 2022-01-26
+category: 公共衞生
 ---
-
 # 鼠疫
 ## 域外
 1. 〈[福州鼠疫](https://mmis.hkpl.gov.hk/coverpage/-/coverpage/view?_coverpage_WAR_mmisportalportlet_hsf=%E9%BC%A0%E7%96%AB&p_r_p_-1078056564_c=QF757YsWv5%2FH7zGe%2FKF%2BFHgx%2BJBtIX5D&_coverpage_WAR_mmisportalportlet_o=78&_coverpage_WAR_mmisportalportlet_actual_q=%28%20verbatim_dc.collection%3A%28%22Old%5C%20HK%5C%20Newspapers%22%29%20%29%20AND+%28%20%28%20allTermsMandatory%3A%28true%29%20OR+all_dc.title%3A%28%E9%BC%A0%E7%96%AB%29%20OR+all_dc.creator%3A%28%E9%BC%A0%E7%96%AB%29%20OR+all_dc.contributor%3A%28%E9%BC%A0%E7%96%AB%29%20OR+all_dc.subject%3A%28%E9%BC%A0%E7%96%AB%29%20OR+fulltext%3A%28%E9%BC%A0%E7%96%AB%29%20OR+all_dc.description%3A%28%E9%BC%A0%E7%96%AB%29%20%29%20%29&_coverpage_WAR_mmisportalportlet_sort_order=asc&_coverpage_WAR_mmisportalportlet_sort_field=dc.publicationdate_bsort)〉，《工商晚報》，1946年2月27日，第1頁。

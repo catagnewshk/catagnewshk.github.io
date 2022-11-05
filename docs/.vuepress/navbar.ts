@@ -1,20 +1,15 @@
 import { navbar } from "vuepress-theme-hope";
 
 export default navbar([
-    {
-        text: "自然環境",
+      {
+        text: "自然",
         prefix: "/",
-        children: ["tropical-cyclone.md","landside.md","flooding.md","heat-wave.md","cold-snap.md","earthquake.md",],
+        children: ["tropical-cyclone",],
       },
       {
-        text: "文化節慶",
+        text: "文化",
         prefix: "/",
-        children: ["dragon-boat-festival.md","yu-lan-festival.md",],
-      },
-      {
-        text: "經濟活動",
-        prefix: "/",
-        children: ["fishery.md","manufacturing.md","tourism",],
+        children: ["archaeology",],
       },
       {
         text: "教育",

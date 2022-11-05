@@ -18,6 +18,9 @@
 </ol>
 <h2 id="院校招生" tabindex="-1"><a class="header-anchor" href="#院校招生" aria-hidden="true">#</a> 院校招生</h2>
 <h3 id="樹仁大學" tabindex="-1"><a class="header-anchor" href="#樹仁大學" aria-hidden="true">#</a> 樹仁大學</h3>
+<blockquote>
+<p>另見<RouterLink to="/higher-education.html">專上教育——樹仁大學</RouterLink>詞條。</p>
+</blockquote>
 <ol>
 <li>〈北京大學法律學系樹仁大學合辦　法律專業文聘及學位函授教育招生通告〉，《大公報》，1990年6月29日，第5版。</li>
 </ol>

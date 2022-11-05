@@ -1,7 +1,10 @@
 ---
 lang: zh-TW
-author: NG Kinchung
+title: 霍亂
+description: 
+author: false
 date: 2022-01-26
+category: 公共衞生
 ---
 # 霍亂
 ## 1946年
