@@ -17,7 +17,7 @@ export default hopeTheme({
   navbar: navbar,
   sidebar: sidebar,
   footer: "",
-  copyright: "NG, Kinchung @ Peking University",
+  copyright: "NG, Kinchung @ School of Archaeology and Museology, Peking University",
   displayFooter: true,
   pageInfo: ["Category", "Author", "Original", "Date", "Tag", "ReadingTime"],
 

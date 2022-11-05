@@ -2,7 +2,7 @@
 <p>這是一個興趣使然的個人項目。內容不定期更新。</p>
 <p>此資料集意在「以事類編」，整理香港舊新聞。原始資料引自香港公共圖書館建立多媒體資訊系統——<a href="https://mmis.hkpl.gov.hk/web/guest/old-hk-collection" target="_blank" rel="noopener noreferrer">香港舊報紙<ExternalLinkIcon/></a>。另外會補充ProQuest Historical Newspapers: <a href="https://www.proquest.com/hnpsouthchinamorningpost/index" target="_blank" rel="noopener noreferrer"><em>South China Morning Post</em><ExternalLinkIcon/></a>收錄的英文新聞。</p>
 <p>整個項目以1946年為界，分兩大階段進行。首階段整理1946年以後的舊新聞。</p>
-<p>多媒體資訊系統已收集並電子化圖書館藏主要的舊報紙，共145,656項條目。 依創辦年份列舉如下：</p>
+<p>多媒體資訊系統已收集並電子化圖書館藏主要的舊報紙，共145,656項條目。 依創辦年份列舉如下（部分報章會有缺期或缺頁）：</p>
 <ul>
 <li>《遐邇貫珍》（1853-1856）</li>
 <li><em>Hong Kong Daily Press</em>（1864-1941）</li>
@@ -17,5 +17,8 @@
 <li>《大公報》（1938-1991）</li>
 <li>《華僑日報》（1947-1991）</li>
 </ul>
-<p>部分報章會有缺期或缺頁。</p>
+<p>香港舊報紙資料庫極大地方便我們搜集和研究新聞資訊、重大歷史事件。在香港公共圖書館的成果上，此資料集擬補充兩類內容：廣告和香港政府佈告。這兩類內容暫沒有以「單項數據」的形式收錄在香港舊報紙資料庫內。例如廣告，讀者無法用關鍵詞搜索相關內容，故此次整理將按投放廣告的公司歸類。其他細項，如聲明、訃告等也會在梳理主要內容時一併整理錄入。</p>
+<p>誠然，要整理海量的香港舊新聞吃力不討好，個人能力有限，難免錯漏。如有任何錯失，歡迎指出。</p>
+<p>同時，非常期望有心人一同參與整理。</p>
+<p>聯繫電郵：<a href="mailto:ngkinchung@stu.pku.edu.cn">ngkinchung@stu.pku.edu.cn</a></p>
 </div></template>

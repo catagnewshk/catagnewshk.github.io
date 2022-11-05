@@ -17,6 +17,10 @@
 <li>《工商日報》，1946年4月13日，第4頁。</li>
 </ol>
 <h2 id="院校招生" tabindex="-1"><a class="header-anchor" href="#院校招生" aria-hidden="true">#</a> 院校招生</h2>
+<h3 id="樹仁大學" tabindex="-1"><a class="header-anchor" href="#樹仁大學" aria-hidden="true">#</a> 樹仁大學</h3>
+<ol>
+<li>〈北京大學法律學系樹仁大學合辦　法律專業文聘及學位函授教育招生通告〉，《大公報》，1990年6月29日，第5版。</li>
+</ol>
 <h3 id="中華工藝學院" tabindex="-1"><a class="header-anchor" href="#中華工藝學院" aria-hidden="true">#</a> 中華工藝學院</h3>
 <ol>
 <li>〈教授謀生工藝〉，《工商日報》，1946年3月1日，第2頁。</li>

@@ -17,6 +17,11 @@ export default navbar([
         children: ["fishery.md","manufacturing.md","tourism",],
       },
       {
+        text: "教育",
+        prefix: "/",
+        children: ["higher-education",],
+      },
+      {
         text: "關於",
         link: "/about.md",
       },     

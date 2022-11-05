@@ -33,6 +33,8 @@ export const pagesData = {
   "v-6040f3da": () => import(/* webpackChunkName: "v-6040f3da" */"/Users/ngkinchung/Documents/GitHub/newshk.github.io/docs/.vuepress/.temp/pages/earthquake.html.js").then(({ data }) => data),
   // path: /ferry.html
   "v-46592fb8": () => import(/* webpackChunkName: "v-46592fb8" */"/Users/ngkinchung/Documents/GitHub/newshk.github.io/docs/.vuepress/.temp/pages/ferry.html.js").then(({ data }) => data),
+  // path: /fire.html
+  "v-2aa5dcec": () => import(/* webpackChunkName: "v-2aa5dcec" */"/Users/ngkinchung/Documents/GitHub/newshk.github.io/docs/.vuepress/.temp/pages/fire.html.js").then(({ data }) => data),
   // path: /fishery.html
   "v-ca9bc284": () => import(/* webpackChunkName: "v-ca9bc284" */"/Users/ngkinchung/Documents/GitHub/newshk.github.io/docs/.vuepress/.temp/pages/fishery.html.js").then(({ data }) => data),
   // path: /flooding.html
@@ -41,6 +43,8 @@ export const pagesData = {
   "v-1dbd9b33": () => import(/* webpackChunkName: "v-1dbd9b33" */"/Users/ngkinchung/Documents/GitHub/newshk.github.io/docs/.vuepress/.temp/pages/football.html.js").then(({ data }) => data),
   // path: /heat-wave.html
   "v-7f031dc8": () => import(/* webpackChunkName: "v-7f031dc8" */"/Users/ngkinchung/Documents/GitHub/newshk.github.io/docs/.vuepress/.temp/pages/heat-wave.html.js").then(({ data }) => data),
+  // path: /higher-education.html
+  "v-078fbed4": () => import(/* webpackChunkName: "v-078fbed4" */"/Users/ngkinchung/Documents/GitHub/newshk.github.io/docs/.vuepress/.temp/pages/higher-education.html.js").then(({ data }) => data),
   // path: /hillfire.html
   "v-2d2ec0e9": () => import(/* webpackChunkName: "v-2d2ec0e9" */"/Users/ngkinchung/Documents/GitHub/newshk.github.io/docs/.vuepress/.temp/pages/hillfire.html.js").then(({ data }) => data),
   // path: /hospital.html
@@ -135,12 +139,20 @@ export const pagesData = {
   "v-154dc4c4": () => import(/* webpackChunkName: "v-154dc4c4" */"/Users/ngkinchung/Documents/GitHub/newshk.github.io/docs/.vuepress/.temp/pages/star/index.html.js").then(({ data }) => data),
   // path: /timeline/
   "v-01560935": () => import(/* webpackChunkName: "v-01560935" */"/Users/ngkinchung/Documents/GitHub/newshk.github.io/docs/.vuepress/.temp/pages/timeline/index.html.js").then(({ data }) => data),
+  // path: /category/%E5%BB%A3%E5%91%8A/
+  "v-fb9f2810": () => import(/* webpackChunkName: "v-fb9f2810" */"/Users/ngkinchung/Documents/GitHub/newshk.github.io/docs/.vuepress/.temp/pages/category/廣告/index.html.js").then(({ data }) => data),
   // path: /category/%E6%96%87%E5%8C%96/
   "v-215ae5c8": () => import(/* webpackChunkName: "v-215ae5c8" */"/Users/ngkinchung/Documents/GitHub/newshk.github.io/docs/.vuepress/.temp/pages/category/文化/index.html.js").then(({ data }) => data),
   // path: /category/%E7%B6%93%E6%BF%9F/
   "v-70137416": () => import(/* webpackChunkName: "v-70137416" */"/Users/ngkinchung/Documents/GitHub/newshk.github.io/docs/.vuepress/.temp/pages/category/經濟/index.html.js").then(({ data }) => data),
   // path: /category/%E8%87%AA%E7%84%B6/
   "v-2fcde801": () => import(/* webpackChunkName: "v-2fcde801" */"/Users/ngkinchung/Documents/GitHub/newshk.github.io/docs/.vuepress/.temp/pages/category/自然/index.html.js").then(({ data }) => data),
+  // path: /category/%E7%A4%BE%E6%9C%83%E6%84%8F%E5%A4%96/
+  "v-184ae880": () => import(/* webpackChunkName: "v-184ae880" */"/Users/ngkinchung/Documents/GitHub/newshk.github.io/docs/.vuepress/.temp/pages/category/社會意外/index.html.js").then(({ data }) => data),
+  // path: /category/%E6%95%99%E8%82%B2/
+  "v-b0a7813a": () => import(/* webpackChunkName: "v-b0a7813a" */"/Users/ngkinchung/Documents/GitHub/newshk.github.io/docs/.vuepress/.temp/pages/category/教育/index.html.js").then(({ data }) => data),
   // path: /category/%E8%A3%BD%E9%80%A0%E6%A5%AD/
   "v-417695ea": () => import(/* webpackChunkName: "v-417695ea" */"/Users/ngkinchung/Documents/GitHub/newshk.github.io/docs/.vuepress/.temp/pages/category/製造業/index.html.js").then(({ data }) => data),
+  // path: /category/%E5%9F%BA%E5%BB%BA/
+  "v-1d6f94ca": () => import(/* webpackChunkName: "v-1d6f94ca" */"/Users/ngkinchung/Documents/GitHub/newshk.github.io/docs/.vuepress/.temp/pages/category/基建/index.html.js").then(({ data }) => data),
 }
