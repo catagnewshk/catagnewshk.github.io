@@ -1,14 +1,1 @@
-export const data = JSON.parse("{\"key\":\"v-8daa1a0e\",\"path\":\"/\",\"title\":\"香港新聞類編\",\"lang\":\"zh-TW\",\"frontmatter\":{\"home\":true,\"icon\":false,\"title\":\"香港新聞類編\",\"heroImage\":\"/logo.svg\",\"heroText\":\"香港新聞類編\",\"tagline\":false,\"actions\":false,\"features\":[{\"title\":\"熱帶氣旋\",\"details\":\"1946 ~\",\"link\":\"/tropical-cyclone\"},{\"title\":\"考古\",\"details\":null,\"link\":\"/archaeology\"}],\"copyright\":true,\"footer\":false,\"summary\":\"\",\"head\":[[\"meta\",{\"property\":\"og:url\",\"content\":\"https://newshk.github.io/\"}],[\"meta\",{\"property\":\"og:site_name\",\"content\":\"香港新聞類編\"}],[\"meta\",{\"property\":\"og:title\",\"content\":\"香港新聞類編\"}],[\"meta\",{\"property\":\"og:type\",\"content\":\"website\"}],[\"meta\",{\"property\":\"og:locale\",\"content\":\"zh-TW\"}]]},\"excerpt\":\"\",\"headers\":[],\"readingTime\":{\"minutes\":0.15,\"words\":45},\"filePathRelative\":\"README.md\"}")
-
-if (import.meta.webpackHot) {
-  import.meta.webpackHot.accept()
-  if (__VUE_HMR_RUNTIME__.updatePageData) {
-    __VUE_HMR_RUNTIME__.updatePageData(data)
-  }
-}
-
-if (import.meta.hot) {
-  import.meta.hot.accept(({ data }) => {
-    __VUE_HMR_RUNTIME__.updatePageData(data)
-  })
-}
+export const data = JSON.parse("{\"key\":\"v-8daa1a0e\",\"path\":\"/\",\"title\":\"香港新聞類編\",\"lang\":\"zh-TW\",\"frontmatter\":{\"home\":true,\"icon\":false,\"title\":\"香港新聞類編\",\"heroImage\":\"/logo2.svg\",\"heroText\":false,\"tagline\":false,\"actions\":false,\"features\":[{\"title\":\"熱帶氣旋\",\"details\":null,\"link\":\"/tropical-cyclone\"},{\"title\":\"考古\",\"details\":null,\"link\":\"/archaeology\"},{\"title\":\"專上教育\",\"details\":null,\"link\":\"/higher-education\"}],\"copyright\":true,\"footer\":false,\"summary\":\"\",\"head\":[[\"meta\",{\"property\":\"og:url\",\"content\":\"https://newshk.github.io/\"}],[\"meta\",{\"property\":\"og:site_name\",\"content\":\"香港新聞類編\"}],[\"meta\",{\"property\":\"og:title\",\"content\":\"香港新聞類編\"}],[\"meta\",{\"property\":\"og:type\",\"content\":\"website\"}],[\"meta\",{\"property\":\"og:updated_time\",\"content\":\"2022-11-01T14:18:36.000Z\"}],[\"meta\",{\"property\":\"og:locale\",\"content\":\"zh-TW\"}],[\"meta\",{\"property\":\"article:modified_time\",\"content\":\"2022-11-01T14:18:36.000Z\"}]]},\"excerpt\":\"\",\"headers\":[],\"git\":{\"createdTime\":1649826739000,\"updatedTime\":1667312316000,\"contributors\":[{\"name\":\"NGKINCHUNG\",\"email\":\"archaeology.cn@outlook.com\",\"commits\":10}]},\"readingTime\":{\"minutes\":0.16,\"words\":48},\"filePathRelative\":\"README.md\",\"localizedDate\":\"2022年4月13日\"}")

@@ -13,7 +13,7 @@ export default hopeTheme({
     url: "https://newshk.github.io",
   },
   iconAssets: "",
-  logo: "/logo.svg",
+  logo: "/icon.svg",
   navbar: navbar,
   sidebar: sidebar,
   footer: "",

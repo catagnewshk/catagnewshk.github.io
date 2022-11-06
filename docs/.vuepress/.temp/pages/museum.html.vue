@@ -16,4 +16,6 @@
 <li>〈宣布為博物館及文娛中心　香港藝術館本周六開放〉，《華僑日報》，1991年11月13日，第27頁。</li>
 <li>〈香港新藝術館　昨易名藝術館〉，《大公報》，1991年11月13日，第13版。</li>
 </ol>
+<h2 id="李鄭屋漢墓博物館" tabindex="-1"><a class="header-anchor" href="#李鄭屋漢墓博物館" aria-hidden="true">#</a> 李鄭屋漢墓博物館</h2>
+<p>詳見：考古 &gt; <RouterLink to="/archaeology.html">李鄭屋漢墓</RouterLink>。</p>
 </div></template>

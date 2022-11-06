@@ -123,6 +123,8 @@ export const pagesComponents = {
   "v-41e858d8": defineAsyncComponent(() => import(/* webpackChunkName: "v-41e858d8" */"/Users/ngkinchung/Documents/GitHub/newshk.github.io/docs/.vuepress/.temp/pages/tunnel.html.vue")),
   // path: /visual-art.html
   "v-64ece7ac": defineAsyncComponent(() => import(/* webpackChunkName: "v-64ece7ac" */"/Users/ngkinchung/Documents/GitHub/newshk.github.io/docs/.vuepress/.temp/pages/visual-art.html.vue")),
+  // path: /vocational-and-professional-education-and-training.html
+  "v-9bf9601c": defineAsyncComponent(() => import(/* webpackChunkName: "v-9bf9601c" */"/Users/ngkinchung/Documents/GitHub/newshk.github.io/docs/.vuepress/.temp/pages/vocational-and-professional-education-and-training.html.vue")),
   // path: /yu-lan-festival.html
   "v-4ea50135": defineAsyncComponent(() => import(/* webpackChunkName: "v-4ea50135" */"/Users/ngkinchung/Documents/GitHub/newshk.github.io/docs/.vuepress/.temp/pages/yu-lan-festival.html.vue")),
   // path: /404.html
@@ -159,6 +161,4 @@ export const pagesComponents = {
   "v-417695ea": defineAsyncComponent(() => import(/* webpackChunkName: "v-417695ea" */"/Users/ngkinchung/Documents/GitHub/newshk.github.io/docs/.vuepress/.temp/pages/category/製造業/index.html.vue")),
   // path: /category/%E5%9F%BA%E5%BB%BA/
   "v-1d6f94ca": defineAsyncComponent(() => import(/* webpackChunkName: "v-1d6f94ca" */"/Users/ngkinchung/Documents/GitHub/newshk.github.io/docs/.vuepress/.temp/pages/category/基建/index.html.vue")),
-  // path: /vocational-and-professional-education-and-training.html
-  "v-9bf9601c": defineAsyncComponent(() => import(/* webpackChunkName: "v-9bf9601c" */"/Users/ngkinchung/Documents/GitHub/newshk.github.io/docs/.vuepress/.temp/pages/vocational-and-professional-education-and-training.html.vue")),
 }
