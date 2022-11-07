@@ -1,7 +1,4 @@
 User-agent: *
-
 Allow: /
-User-agent:*
 Disallow:
-
-Sitemap: https://newshk.github.io/sitemap.xml
+Sitemap: https://ay1928.github.io/sitemap.xml

@@ -5,11 +5,16 @@ description:
 author: false
 date: 2022-11-05
 category: 教育
+tag:
+    - 大學
+    - 學院
+    - 大專
+    - 專上
 ---
 # 專上教育
 > 名單參考香港教育局[本地專上課程：院校](https://www.edb.gov.hk/tc/edu-system/postsecondary/local-higher-edu/institutions/index.html)
 ## 香港大學
-### 籌辦香港大學
+### 籌辦
 1. 〈[擬創設香港大學堂](https://mmis.hkpl.gov.hk/coverpage/-/coverpage/view?_coverpage_WAR_mmisportalportlet_hsf=香港大學&p_r_p_-1078056564_c=QF757YsWv5%2BakvA8rFW5EuJSiukuHYZu&_coverpage_WAR_mmisportalportlet_o=5&_coverpage_WAR_mmisportalportlet_actual_q=%28%20verbatim_dc.collection%3A%28%22Old%5C%20HK%5C%20Newspapers%22%29%20%29%20AND+%28%20%28%20allTermsMandatory%3A%28true%29%20OR+all_dc.title%3A%28香港大學%29%20OR+all_dc.creator%3A%28香港大學%29%20OR+all_dc.contributor%3A%28香港大學%29%20OR+all_dc.subject%3A%28香港大學%29%20OR+fulltext%3A%28香港大學%29%20OR+all_dc.description%3A%28香港大學%29%20%29%20%29&_coverpage_WAR_mmisportalportlet_sort_order=asc&_coverpage_WAR_mmisportalportlet_sort_field=dc.publicationdate_bsort)〉，《華字日報》，1908年9月12日。
 2. 〈[港督盧制軍香港大學勸捐啟](https://mmis.hkpl.gov.hk/coverpage/-/coverpage/view?_coverpage_WAR_mmisportalportlet_hsf=香港大學&p_r_p_-1078056564_c=QF757YsWv5%2BakvA8rFW5ErtlkPQfpv6J&_coverpage_WAR_mmisportalportlet_o=6&_coverpage_WAR_mmisportalportlet_actual_q=%28%20verbatim_dc.collection%3A%28%22Old%5C%20HK%5C%20Newspapers%22%29%20%29%20AND+%28%20%28%20allTermsMandatory%3A%28true%29%20OR+all_dc.title%3A%28香港大學%29%20OR+all_dc.creator%3A%28香港大學%29%20OR+all_dc.contributor%3A%28香港大學%29%20OR+all_dc.subject%3A%28香港大學%29%20OR+fulltext%3A%28香港大學%29%20OR+all_dc.description%3A%28香港大學%29%20%29%20%29&_coverpage_WAR_mmisportalportlet_sort_order=asc&_coverpage_WAR_mmisportalportlet_sort_field=dc.publicationdate_bsort)〉，《華字日報》，1909年2月16日。
 3. 〈[港督盧制軍香港大學勸捐啟（初續）](https://mmis.hkpl.gov.hk/coverpage/-/coverpage/view?_coverpage_WAR_mmisportalportlet_hsf=香港大學&p_r_p_-1078056564_c=QF757YsWv5%2BakvA8rFW5EuJ%2FXSHoIhVk&_coverpage_WAR_mmisportalportlet_o=7&_coverpage_WAR_mmisportalportlet_actual_q=%28%20verbatim_dc.collection%3A%28%22Old%5C%20HK%5C%20Newspapers%22%29%20%29%20AND+%28%20%28%20allTermsMandatory%3A%28true%29%20OR+all_dc.title%3A%28香港大學%29%20OR+all_dc.creator%3A%28香港大學%29%20OR+all_dc.contributor%3A%28香港大學%29%20OR+all_dc.subject%3A%28香港大學%29%20OR+fulltext%3A%28香港大學%29%20OR+all_dc.description%3A%28香港大學%29%20%29%20%29&_coverpage_WAR_mmisportalportlet_sort_order=asc&_coverpage_WAR_mmisportalportlet_sort_field=dc.publicationdate_bsort)〉，《華字日報》，1909年9月16日。（注：館藏詳細資料第4頁。）
@@ -42,7 +47,7 @@ category: 教育
 30. 〈[政界函請紳支富會議捐助香港大學堂](https://mmis.hkpl.gov.hk/coverpage/-/coverpage/view?_coverpage_WAR_mmisportalportlet_hsf=香港大學&p_r_p_-1078056564_c=QF757YsWv5%2BakvA8rFW5Eo7YUBonc2Tu&_coverpage_WAR_mmisportalportlet_o=29&_coverpage_WAR_mmisportalportlet_actual_q=%28%20verbatim_dc.collection%3A%28%22Old%5C%20HK%5C%20Newspapers%22%29%20%29%20AND+%28%20%28%20allTermsMandatory%3A%28true%29%20OR+all_dc.title%3A%28香港大學%29%20OR+all_dc.creator%3A%28香港大學%29%20OR+all_dc.contributor%3A%28香港大學%29%20OR+all_dc.subject%3A%28香港大學%29%20OR+fulltext%3A%28香港大學%29%20OR+all_dc.description%3A%28香港大學%29%20%29%20%29&_coverpage_WAR_mmisportalportlet_sort_order=asc&_coverpage_WAR_mmisportalportlet_sort_field=dc.publicationdate_bsort)〉，《華字日報》，1909年7月8日。（注：館藏詳細資料第4頁。）
 31. 〈[紳商因香港大學堂事會議捐款](https://mmis.hkpl.gov.hk/coverpage/-/coverpage/view?_coverpage_WAR_mmisportalportlet_hsf=香港大學&p_r_p_-1078056564_c=QF757YsWv5%2BakvA8rFW5EhQanqSVrox5&_coverpage_WAR_mmisportalportlet_o=30&_coverpage_WAR_mmisportalportlet_actual_q=%28%20verbatim_dc.collection%3A%28%22Old%5C%20HK%5C%20Newspapers%22%29%20%29%20AND+%28%20%28%20allTermsMandatory%3A%28true%29%20OR+all_dc.title%3A%28香港大學%29%20OR+all_dc.creator%3A%28香港大學%29%20OR+all_dc.contributor%3A%28香港大學%29%20OR+all_dc.subject%3A%28香港大學%29%20OR+fulltext%3A%28香港大學%29%20OR+all_dc.description%3A%28香港大學%29%20%29%20%29&_coverpage_WAR_mmisportalportlet_sort_order=asc&_coverpage_WAR_mmisportalportlet_sort_field=dc.publicationdate_bsort)〉，《華字日報》，1909年7月10日。
 32. 待續。
-### 香港大學中文部
+### 中文部
 1. 〈[官立中文大學　金秋可開課　名稱擬定香港大學中文部　學制將仿照國內著名大學](https://mmis.hkpl.gov.hk/coverpage/-/coverpage/view?_coverpage_WAR_mmisportalportlet_hsf=中文大學&p_r_p_-1078056564_c=QF757YsWv5%2Bh5KT9sfcXnLMTK61KCyYg&_coverpage_WAR_mmisportalportlet_o=8&_coverpage_WAR_mmisportalportlet_actual_q=%28%20verbatim_dc.collection%3A%28%22Old%5C%20HK%5C%20Newspapers%22%29%20%29%20AND+%28%20%28%20allTermsMandatory%3A%28true%29%20OR+all_dc.title%3A%28中文大學%29%20OR+all_dc.creator%3A%28中文大學%29%20OR+all_dc.contributor%3A%28中文大學%29%20OR+all_dc.subject%3A%28中文大學%29%20OR+fulltext%3A%28中文大學%29%20OR+all_dc.description%3A%28中文大學%29%20%29%20%29&_coverpage_WAR_mmisportalportlet_sort_order=asc&_coverpage_WAR_mmisportalportlet_sort_field=dc.publicationdate_bsort)〉，《工商日報》，1952年5月3日，第5頁。
 2. 〈[官立中文大學　金秋開課　首期招生九百廿人](https://mmis.hkpl.gov.hk/coverpage/-/coverpage/view?_coverpage_WAR_mmisportalportlet_hsf=中文大學&p_r_p_-1078056564_c=QF757YsWv5%2FH7zGe%2FKF%2BFGw3rrDJ%2Fh%2Fn&_coverpage_WAR_mmisportalportlet_o=7&_coverpage_WAR_mmisportalportlet_actual_q=%28%20verbatim_dc.collection%3A%28%22Old%5C%20HK%5C%20Newspapers%22%29%20%29%20AND+%28%20%28%20allTermsMandatory%3A%28true%29%20OR+all_dc.title%3A%28中文大學%29%20OR+all_dc.creator%3A%28中文大學%29%20OR+all_dc.contributor%3A%28中文大學%29%20OR+all_dc.subject%3A%28中文大學%29%20OR+fulltext%3A%28中文大學%29%20OR+all_dc.description%3A%28中文大學%29%20%29%20%29&_coverpage_WAR_mmisportalportlet_sort_order=asc&_coverpage_WAR_mmisportalportlet_sort_field=dc.publicationdate_bsort)〉，《工商晚報》，1952年5月3日，第5頁。
 3. 〈[港大即將設中文部　專家來港研究另設漢文大學問題](https://mmis.hkpl.gov.hk/coverpage/-/coverpage/view?_coverpage_WAR_mmisportalportlet_hsf=中文大學&p_r_p_-1078056564_c=QF757YsWv58JCjtBMMIqohfzO6sEt0Hr&_coverpage_WAR_mmisportalportlet_o=10&_coverpage_WAR_mmisportalportlet_actual_q=%28%20verbatim_dc.collection%3A%28%22Old%5C%20HK%5C%20Newspapers%22%29%20%29%20AND+%28%20%28%20allTermsMandatory%3A%28true%29%20OR+all_dc.title%3A%28中文大學%29%20OR+all_dc.creator%3A%28中文大學%29%20OR+all_dc.contributor%3A%28中文大學%29%20OR+all_dc.subject%3A%28中文大學%29%20OR+fulltext%3A%28中文大學%29%20OR+all_dc.description%3A%28中文大學%29%20%29%20%29&_coverpage_WAR_mmisportalportlet_sort_order=asc&_coverpage_WAR_mmisportalportlet_sort_field=dc.publicationdate_bsort)〉，《華僑日報》，1952年6月16日，第2張第1頁。
@@ -61,6 +66,9 @@ category: 教育
 3. 〈[崇基新亞聯合三校　聯合舉行頒發畢業文憑　港督在訓詞中透露　中文大學成立尚無確期](https://mmis.hkpl.gov.hk/coverpage/-/coverpage/view?_coverpage_WAR_mmisportalportlet_hsf=中文大學&p_r_p_-1078056564_c=QF757YsWv5%2B0xmr2DvYR697BupD%2F%2FLgN&_coverpage_WAR_mmisportalportlet_o=133&_coverpage_WAR_mmisportalportlet_actual_q=%28%20verbatim_dc.collection%3A%28%22Old%5C%20HK%5C%20Newspapers%22%29%20%29%20AND+%28%20%28%20allTermsMandatory%3A%28true%29%20OR+all_dc.title%3A%28中文大學%29%20OR+all_dc.creator%3A%28中文大學%29%20OR+all_dc.contributor%3A%28中文大學%29%20OR+all_dc.subject%3A%28中文大學%29%20OR+fulltext%3A%28中文大學%29%20OR+all_dc.description%3A%28中文大學%29%20%29%20%29&_coverpage_WAR_mmisportalportlet_sort_order=asc&_coverpage_WAR_mmisportalportlet_sort_field=dc.publicationdate_bsort)〉，《工商日報》，1961年2月22日，第7頁。
     - 港督演詞
 4. 待續。
+
+### 教育學院
+1. 〈中文大學教育學院第一屆教育文憑及格名單　二十人就讀　除一人因事缺考外　其他全部及格〉，《華僑日報》，1966年6月9日，第4張第1頁。
 ## 香港科技大學
 ## 香港城市大學
 ## 香港理工大學（曾香港理工學院）
@@ -70,13 +78,34 @@ category: 教育
     - 副題：現正物色校長人選　本年三月時　英國一技術教育家曾來港提供意見　另一位英國專家亦將於下週抵港　協助該學院籌備計劃進行
 3. 待續。
 ## 香港浸會大學
-## 香港教育大學（曾香港教育學院
+
+## 香港教育大學（曾香港教育學院）
+> 關鍵詞：師範
+> 
+> 參考資料：香港教育大學 > 關於教大 > [歷史及校園](https://www.eduhk.hk/zht/history)
+### 在職教師培訓計劃
+### 官立師範學校
+### 羅富國師範專科學校
+1. 〈[教育局辦師範學院　增高私立學校師資　擬定九月期內開課](https://mmis.hkpl.gov.hk/coverpage/-/coverpage/view?_coverpage_WAR_mmisportalportlet_hsf=師範&p_r_p_-1078056564_c=QF757YsWv59H%2FuxqfBwEJAdJse8k80gP&_coverpage_WAR_mmisportalportlet_o=202&_coverpage_WAR_mmisportalportlet_actual_q=%28%20verbatim_dc.collection%3A%28%22Old%5C%20HK%5C%20Newspapers%22%29%20%29%20AND+%28%20%28%20allTermsMandatory%3A%28true%29%20OR+all_dc.title%3A%28師範%29%20OR+all_dc.creator%3A%28師範%29%20OR+all_dc.contributor%3A%28師範%29%20OR+all_dc.subject%3A%28師範%29%20OR+fulltext%3A%28師範%29%20OR+all_dc.description%3A%28師範%29%20%29%20%29&_coverpage_WAR_mmisportalportlet_sort_order=asc&_coverpage_WAR_mmisportalportlet_sort_field=dc.publicationdate_bsort)〉，《大公報》，1939年2月24日，第2張；第6版。
+2. 〈[港府將設新師範學院　各校教員均須入院受訓　在香港大學畢業者可免](https://mmis.hkpl.gov.hk/coverpage/-/coverpage/view?_coverpage_WAR_mmisportalportlet_hsf=師範&p_r_p_-1078056564_c=QF757YsWv59H%2FuxqfBwEJM78jyLAUozF&_coverpage_WAR_mmisportalportlet_o=203&_coverpage_WAR_mmisportalportlet_actual_q=%28%20verbatim_dc.collection%3A%28%22Old%5C%20HK%5C%20Newspapers%22%29%20%29%20AND+%28%20%28%20allTermsMandatory%3A%28true%29%20OR+all_dc.title%3A%28師範%29%20OR+all_dc.creator%3A%28師範%29%20OR+all_dc.contributor%3A%28師範%29%20OR+all_dc.subject%3A%28師範%29%20OR+fulltext%3A%28師範%29%20OR+all_dc.description%3A%28師範%29%20%29%20%29&_coverpage_WAR_mmisportalportlet_sort_order=asc&_coverpage_WAR_mmisportalportlet_sort_field=dc.publicationdate_bsort)〉，《華字日報》，1939年2月24日，第2張第3頁。
+3. 〈[本港教育司擬辦師範學校　九月開學現在討論中　招考學生須中學畢業](https://mmis.hkpl.gov.hk/coverpage/-/coverpage/view?_coverpage_WAR_mmisportalportlet_hsf=師範&p_r_p_-1078056564_c=QF757YsWv59H%2FuxqfBwEJEBXSzgzhPD2&_coverpage_WAR_mmisportalportlet_o=204&_coverpage_WAR_mmisportalportlet_actual_q=%28%20verbatim_dc.collection%3A%28%22Old%5C%20HK%5C%20Newspapers%22%29%20%29%20AND+%28%20%28%20allTermsMandatory%3A%28true%29%20OR+all_dc.title%3A%28師範%29%20OR+all_dc.creator%3A%28師範%29%20OR+all_dc.contributor%3A%28師範%29%20OR+all_dc.subject%3A%28師範%29%20OR+fulltext%3A%28師範%29%20OR+all_dc.description%3A%28師範%29%20%29%20%29&_coverpage_WAR_mmisportalportlet_sort_order=asc&_coverpage_WAR_mmisportalportlet_sort_field=dc.publicationdate_bsort)〉，《大公報》，1939年3月18日，第2張；第6版。
+4. 待續。
+### 葛量洪師範專科學校
+### 柏立基師範專科學校
+### 香港工商師範學院
+### 語文教育學院
 ## 香港都會大學（原香港公開大學）
+
 ## 香港恆生大學
 ## 嶺南大學
+1. 〈嶺南大學同學會　七百多人昨聯歡〉，《大公報》，1991年10月27日，第7版。
 ## 香港樹仁大學
-
+1. 〈[樹仁大學預科班即起接受入學申請](https://mmis.hkpl.gov.hk/coverpage/-/coverpage/view?_coverpage_WAR_mmisportalportlet_hsf=樹仁大學&p_r_p_-1078056564_c=QF757YsWv5%2Bn4efK8nHqL8c7nt5xKG6c&_coverpage_WAR_mmisportalportlet_o=1&_coverpage_WAR_mmisportalportlet_actual_q=%28%20verbatim_dc.collection%3A%28%22Old%5C%20HK%5C%20Newspapers%22%29%20%29%20AND+%28%20%28%20allTermsMandatory%3A%28true%29%20OR+all_dc.title%3A%28樹仁大學%29%20OR+all_dc.creator%3A%28樹仁大學%29%20OR+all_dc.contributor%3A%28樹仁大學%29%20OR+all_dc.subject%3A%28樹仁大學%29%20OR+fulltext%3A%28樹仁大學%29%20OR+all_dc.description%3A%28樹仁大學%29%20%29%20%29&_coverpage_WAR_mmisportalportlet_sort_order=asc&_coverpage_WAR_mmisportalportlet_sort_field=dc.publicationdate_bsort)〉，《工商日報》，1981年8月12日，第5頁。
 ## 香港演藝學院
+1. 〈[香港演藝學院臨時董事局成員委出　一九八五年招收新生](https://mmis.hkpl.gov.hk/coverpage/-/coverpage/view?_coverpage_WAR_mmisportalportlet_hsf=演藝學院&p_r_p_-1078056564_c=QF757YsWv595P2B4OmBy5ykx9r2Al%2BYA&_coverpage_WAR_mmisportalportlet_o=2&_coverpage_WAR_mmisportalportlet_actual_q=%28%20verbatim_dc.collection%3A%28%22Old%5C%20HK%5C%20Newspapers%22%29%20%29%20AND+%28%20%28%20allTermsMandatory%3A%28true%29%20OR+all_dc.title%3A%28演藝學院%29%20OR+all_dc.creator%3A%28演藝學院%29%20OR+all_dc.contributor%3A%28演藝學院%29%20OR+all_dc.subject%3A%28演藝學院%29%20OR+fulltext%3A%28演藝學院%29%20OR+all_dc.description%3A%28演藝學院%29%20%29%20%29&_coverpage_WAR_mmisportalportlet_sort_order=asc&_coverpage_WAR_mmisportalportlet_sort_field=dc.publicationdate_bsort)〉，《華僑日報》，1982年6月25日，第2張第1頁。
+2. 〈[香港演藝學院簽署打樁合約](https://mmis.hkpl.gov.hk/coverpage/-/coverpage/view?_coverpage_WAR_mmisportalportlet_hsf=演藝學院&p_r_p_-1078056564_c=QF757YsWv58StS6UNkXpioi0LUgAkl21&_coverpage_WAR_mmisportalportlet_o=4&_coverpage_WAR_mmisportalportlet_actual_q=%28%20verbatim_dc.collection%3A%28%22Old%5C%20HK%5C%20Newspapers%22%29%20%29%20AND+%28%20%28%20allTermsMandatory%3A%28true%29%20OR+all_dc.title%3A%28演藝學院%29%20OR+all_dc.creator%3A%28演藝學院%29%20OR+all_dc.contributor%3A%28演藝學院%29%20OR+all_dc.subject%3A%28演藝學院%29%20OR+fulltext%3A%28演藝學院%29%20OR+all_dc.description%3A%28演藝學院%29%20%29%20%29&_coverpage_WAR_mmisportalportlet_sort_order=asc&_coverpage_WAR_mmisportalportlet_sort_field=dc.publicationdate_bsort)〉，《工商日報》，1982年9月2日，第5頁。
+3. 〈[根德公爵昨參觀香港體育館地盤　今主持演藝學院奠基](https://mmis.hkpl.gov.hk/coverpage/-/coverpage/view?_coverpage_WAR_mmisportalportlet_hsf=演藝學院&p_r_p_-1078056564_c=QF757YsWv58StS6UNkXpitTNgYspnlh9&_coverpage_WAR_mmisportalportlet_o=5&_coverpage_WAR_mmisportalportlet_actual_q=%28%20verbatim_dc.collection%3A%28%22Old%5C%20HK%5C%20Newspapers%22%29%20%29%20AND+%28%20%28%20allTermsMandatory%3A%28true%29%20OR+all_dc.title%3A%28演藝學院%29%20OR+all_dc.creator%3A%28演藝學院%29%20OR+all_dc.contributor%3A%28演藝學院%29%20OR+all_dc.subject%3A%28演藝學院%29%20OR+fulltext%3A%28演藝學院%29%20OR+all_dc.description%3A%28演藝學院%29%20%29%20%29&_coverpage_WAR_mmisportalportlet_sort_order=asc&_coverpage_WAR_mmisportalportlet_sort_field=dc.publicationdate_bsort)〉，《工商日報》，1982年10月28日，第6頁。
+4. 待續。
 ## 明愛專上學院
 ## 明德學院
 ## 珠海學院

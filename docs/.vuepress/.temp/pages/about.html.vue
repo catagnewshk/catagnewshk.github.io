@@ -1,8 +1,8 @@
 <template><div><h1 id="關於" tabindex="-1"><a class="header-anchor" href="#關於" aria-hidden="true">#</a> 關於</h1>
 <p>這是一個興趣使然的個人項目。內容不定期更新。</p>
-<p>此資料集意在「以事類編」，整理香港舊新聞。原始資料引自香港公共圖書館建立多媒體資訊系統——<a href="https://mmis.hkpl.gov.hk/web/guest/old-hk-collection" target="_blank" rel="noopener noreferrer">香港舊報紙<ExternalLinkIcon/></a>。另外會補充ProQuest Historical Newspapers: <a href="https://www.proquest.com/hnpsouthchinamorningpost/index" target="_blank" rel="noopener noreferrer"><em>South China Morning Post</em><ExternalLinkIcon/></a>收錄的英文新聞。</p>
-<p>整個項目以1946年為界，分兩大階段進行。首階段整理1946年以後的舊新聞。</p>
-<p>多媒體資訊系統已收集並電子化圖書館藏主要的舊報紙，共145,656項條目。 依創辦年份列舉如下（部分報章會有缺期或缺頁）：</p>
+<p>此資料集意在「<strong>以事類編</strong>」，整理香港舊新聞。<sup class="footnote-ref"><a href="#footnote1">[1]</a><a class="footnote-anchor" id="footnote-ref1" /></sup>原始資料引自香港公共圖書館建立多媒體資訊系統——<a href="https://mmis.hkpl.gov.hk/web/guest/old-hk-collection" target="_blank" rel="noopener noreferrer">香港舊報紙<ExternalLinkIcon/></a>。另外會補充ProQuest Historical Newspapers: <a href="https://www.proquest.com/hnpsouthchinamorningpost/index" target="_blank" rel="noopener noreferrer"><em>South China Morning Post</em><ExternalLinkIcon/></a>收錄的英文新聞。</p>
+<p>整個項目以1946年為界，分兩大階段進行。首階段整理1946年以後的舊新聞。一般情況下，副標題會收入篇名號內。如副題太長則在下文補充。正文內的小標題也會收錄進來。</p>
+<p>多媒體資訊系統已收集並電子化圖書館藏主要的舊報紙，共145,656項條目。 依創辦年份列舉如下：<sup class="footnote-ref"><a href="#footnote2">[2]</a><a class="footnote-anchor" id="footnote-ref2" /></sup></p>
 <ul>
 <li>《遐邇貫珍》（1853-1856）</li>
 <li><em>Hong Kong Daily Press</em>（1864-1941）</li>
@@ -21,4 +21,13 @@
 <p>誠然，要整理海量的香港舊新聞吃力不討好，個人能力有限，難免錯漏。如有任何錯失，歡迎指出。</p>
 <p>同時，非常期望有心人一同參與整理。</p>
 <p>聯繫電郵：<a href="mailto:ngkinchung@stu.pku.edu.cn">ngkinchung@stu.pku.edu.cn</a></p>
+<hr class="footnotes-sep">
+<section class="footnotes">
+<ol class="footnotes-list">
+<li id="footnote1" class="footnote-item"><p>整理者主要考慮事件之間的相關強度，例如因颱風帶來暴雨，引起的山泥傾瀉，該項會歸類到「<RouterLink to="/tropical-cyclone.html">熱帶氣旋</RouterLink>」的事條中。同理，雨天造成的滑坡，如無特別成因，將歸類至「<RouterLink to="/landside.html">山泥傾瀉</RouterLink>」。 <a href="#footnote-ref1" class="footnote-backref">↩︎</a></p>
+</li>
+<li id="footnote2" class="footnote-item"><p>部分報章會有缺期或缺頁。 <a href="#footnote-ref2" class="footnote-backref">↩︎</a></p>
+</li>
+</ol>
+</section>
 </div></template>

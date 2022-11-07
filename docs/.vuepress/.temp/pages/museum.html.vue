@@ -18,4 +18,5 @@
 </ol>
 <h2 id="李鄭屋漢墓博物館" tabindex="-1"><a class="header-anchor" href="#李鄭屋漢墓博物館" aria-hidden="true">#</a> 李鄭屋漢墓博物館</h2>
 <p>詳見：考古 &gt; <RouterLink to="/archaeology.html">李鄭屋漢墓</RouterLink>。</p>
+<h2 id="香港教育博物館" tabindex="-1"><a class="header-anchor" href="#香港教育博物館" aria-hidden="true">#</a> 香港教育博物館</h2>
 </div></template>
